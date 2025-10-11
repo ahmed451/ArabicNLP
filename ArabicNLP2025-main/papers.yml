@@ -1,0 +1,2615 @@
+- abstract: Under-represented languages suffer from a lack of data, and as a result,
+    there are few LLMs that support them. Extending an existing LLM to a new language
+    is a practical option for startups, university labs, and organizations with limited
+    budgets. This process involves several steps. In this paper, we describe how we
+    adapted the Falcon3-7B model to Arabic, covering everything from data collection
+    and training to evaluation. Falcon-Arabic was trained exclusively on native data
+    to better capture the cultural and linguistic aspects of the language. Our evaluations
+    show that Falcon-Arabic achieves state-of-the-art results on a range of Arabic
+    benchmarks.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@gmail.com'
+    first_name: Basma
+    homepage: https://basma-b.github.io/
+    institution: 'Technology and Innovation Institute '
+    last_name: Boussaha
+    middle_name: El Amel
+    name: Basma El Amel Boussaha
+    username: ~Basma_El_Amel_Boussaha1
+  - dblp_id: https://dblp.org/pid/314/0075
+    emails: '****@tii.ae'
+    first_name: Mohammed
+    last_name: Alyafeai
+    name: Mohammed Alyafeai
+    username: ~Mohammed_Alyafeai1
+  - emails: '****@tii.ae'
+    first_name: Ahmed
+    google_scholar_id: https://scholar.google.com/citations?user=c10VKagAAAAJ&hl=en
+    institution: TII
+    last_name: Alzubaidi
+    name: Ahmed Alzubaidi
+    orcid: https://orcid.org/0000-0002-7313-5649
+    username: ~Ahmed_Alzubaidi2
+  - emails: '****@tii.ae'
+    first_name: Leen
+    last_name: Al Qadi
+    name: Leen Al Qadi
+    username: ~Leen_Al_Qadi1
+  - emails: '****@tii.ae'
+    first_name: Shaikha
+    institution: Technology Innovation Institute
+    last_name: Alsuwaidi
+    name: Shaikha Alsuwaidi
+    username: ~Shaikha_Alsuwaidi1
+  - dblp_id: https://dblp.org/pid/48/287.html
+    emails: '****@gmail.com'
+    first_name: Hakim
+    google_scholar_id: https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en
+    institution: TII
+    last_name: Hacid
+    name: Hakim Hacid
+    orcid: https://orcid.org/0000-0003-2265-9343
+    username: ~Hakim_Hacid2
+  decision: '2025'
+  file: 4.pdf
+  id: 4
+  openreview_id: dR4vMPxY0D
+  pdf_file: 72ff3662a514aac35c7675ccae562d6d6860ae3a.pdf
+  title: 'Adapting Falcon3-7B Language Model for Arabic: Methods, Challenges, and
+    Outcomes'
+- abstract: 'ArabJobs is a publicly available corpus of Arabic job advertisements
+    collected from Egypt, Jordan, Saudi Arabia, and the United Arab Emirates. Comprising
+    over 8,500 postings and more than 550,000 words, the dataset captures linguistic,
+    regional, and socio-economic variation in the Arab labour market. We present analyses
+    of gender representation and occupational structure, and highlight dialectal variation
+    across ads, which offers opportunities for future research. We also demonstrate
+    applications such as salary estimation and job category normalisation using large
+    language models, alongside benchmark tasks for gender bias detection and profession
+    classification. The findings show the utility of ArabJobs for fairness-aware Arabic
+    NLP and labour market research.
+    The dataset is publicly available on GitHub: https://github.com/drelhaj/ArabJobs.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@vinuni.edu.vn'
+    first_name: Mo
+    google_scholar_id: https://scholar.google.com/citations?user=diBeuuEAAAAJ&hl=en
+    homepage: https://elhaj.uk
+    institution: VinUniversity and Lancaster University
+    last_name: El-Haj
+    name: Mo El-Haj
+    orcid: https://orcid.org/0000-0002-6136-3898
+    semantic_scholar_id: https://www.semanticscholar.org/author/Mahmoud-El-Haj/1401874424
+    username: ~Mo_El-Haj1
+  decision: '2025'
+  file: 6.pdf
+  id: 6
+  openreview_id: 7MJoCq2m3f
+  pdf_file: ccf702f1205ffed9965688ecb14b3fe561f21c34.pdf
+  title: 'ArabJobs: A Multinational Corpus of Arabic Job Ads'
+- abstract: The morphological structure of Semitic languages, such as Arabic, is based
+    on non-concatenative roots and templates. This complex word structure used by
+    humans is obscured to neural models that employ traditional tokenization algorithms,
+    such as byte-pair encoding (BPE)  (Sennrich et al., 2016; Gage, 1994). In this
+    work, we present and evaluate Semitic Root Encoding (SRE), a tokenization method
+    that represents both concatenative and non-concatenative structures in Semitic
+    words with sequences of root, template stem, and BPE tokens. We apply the method
+    to neural machine translation (NMT) and find that SRE tokenization yields an average
+    increase of 1.15 BLEU over the baseline. SRE tokenization is also robust against
+    generating combinations of roots with template stems that do not occur in nature.
+    Finally, we compare the performance of SRE to tokenization based on non-linguistic
+    root and template structures and tokenization based on stems, providing evidence
+    that NMT models are capable of leveraging tokens based on non-concatenative Semitic
+    morphology.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@byu.edu'
+    first_name: Brendan
+    institution: Brigham Young University and The MITRE Corporation
+    last_name: Hatch
+    middle_name: T.
+    name: Brendan T. Hatch
+    username: ~Brendan_T._Hatch1
+  - dblp_id: https://dblp.org/pid/80/5328
+    emails: '****@byu.edu'
+    first_name: Stephen
+    google_scholar_id: https://scholar.google.com/citations?user=3EkST7EAAAAJ&hl=en
+    institution: Brigham Young University
+    last_name: Richardson
+    middle_name: D.
+    name: Stephen D. Richardson
+    semantic_scholar_id: https://www.semanticscholar.org/author/Stephen-D.-Richardson/3278929
+    username: ~Stephen_D._Richardson1
+  decision: '2025'
+  file: 12.pdf
+  id: 12
+  openreview_id: TomIWHgQiu
+  pdf_file: 44117213481fe36a1f907500c513c6e446de42fd.pdf
+  title: 'Semitic Root Encoding: Tokenization Based on the Templatic Morphology of
+    Semitic Languages in NMT'
+- abstract: Arabic is one of the most widely spoken languages in the world, yet efforts
+    to develop and evaluate Large Language Models (LLMs) for Arabic remain relatively
+    limited. Most existing Arabic benchmarks focus on linguistic, cultural, or religious
+    content, leaving a significant gap in areas like STEM and coding domains that
+    are increasingly relevant for real-world LLM applications. To help bridge this
+    gap, we present \textbf{3LM}, a suite of \textbf{three} benchmarks designed specifically
+    for Arabic. The first is a set of STEM-related question-answer pairs, naturally
+    sourced from Arabic textbooks and educational worksheets. The second consists
+    of synthetically generated STEM questions, created using the same sources. The
+    third benchmark focuses on code generation, built through a careful translation
+    of two widely used code benchmarks, incorporating a human-in-the-loop process
+    with several rounds of review to ensure high-quality and faithful translations.
+    We release all three benchmarks publicly to support the growth of Arabic LLM research
+    in these essential but underrepresented areas\footnote{3LM benchmark is accessible
+    on \url{https://github.com/tiiuae/3LM-benchmark}}.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@gmail.com'
+    first_name: Basma
+    homepage: https://basma-b.github.io/
+    institution: 'Technology and Innovation Institute '
+    last_name: Boussaha
+    middle_name: El Amel
+    name: Basma El Amel Boussaha
+    username: ~Basma_El_Amel_Boussaha1
+  - emails: '****@tii.ae'
+    first_name: Leen
+    last_name: Al Qadi
+    name: Leen Al Qadi
+    username: ~Leen_Al_Qadi1
+  - emails: '****@tii.ae'
+    first_name: Mugariya
+    google_scholar_id: https://scholar.google.com/citations?user=53XyJTIAAAAJ&hl=en
+    last_name: Farooq
+    name: Mugariya Farooq
+    username: ~Mugariya_Farooq1
+  - emails: '****@tii.ae'
+    first_name: Shaikha
+    institution: Technology Innovation Institute
+    last_name: Alsuwaidi
+    name: Shaikha Alsuwaidi
+    username: ~Shaikha_Alsuwaidi1
+  - emails: '****@tii.ae'
+    first_name: Giulia
+    homepage: https://openreview.net/
+    last_name: Campesan
+    name: Giulia Campesan
+    username: ~Giulia_Campesan1
+  - emails: '****@tii.ae'
+    first_name: Ahmed
+    google_scholar_id: https://scholar.google.com/citations?user=c10VKagAAAAJ&hl=en
+    institution: TII
+    last_name: Alzubaidi
+    name: Ahmed Alzubaidi
+    orcid: https://orcid.org/0000-0002-7313-5649
+    username: ~Ahmed_Alzubaidi2
+  - dblp_id: https://dblp.org/pid/314/0075
+    emails: '****@tii.ae'
+    first_name: Mohammed
+    last_name: Alyafeai
+    name: Mohammed Alyafeai
+    username: ~Mohammed_Alyafeai1
+  - dblp_id: https://dblp.org/pid/48/287.html
+    emails: '****@gmail.com'
+    first_name: Hakim
+    google_scholar_id: https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en
+    institution: TII
+    last_name: Hacid
+    name: Hakim Hacid
+    orcid: https://orcid.org/0000-0003-2265-9343
+    username: ~Hakim_Hacid2
+  decision: '2025'
+  file: 14.pdf
+  id: 14
+  openreview_id: 8O5bLlQueh
+  pdf_file: 7b5c80b670e0fd96f2b83a82e50dc6b4e9c65fa1.pdf
+  title: '3LM: Bridging Arabic, STEM, and Code through Benchmarking'
+- abstract: We introduce TuniFra, a novel and comprehensive corpus developed to advance
+    research in Automatic Speech Recognition (ASR) and Speech-to-Text Translation
+    (STT) for Tunisian Arabic, a notably low-resourced language variety. The TuniFra
+    corpus comprises 15 hours of native Tunisian Arabic speech, carefully transcribed
+    and manually translated into French. While the development of ASR and STT systems
+    for major languages is supported by extensive datasets, low-resource languages
+    such as Tunisian Arabic face significant challenges due to limited training data,
+    particularly for speech technologies. TuniFra addresses this gap by offering a
+    valuable resource tailored for both ASR and STT tasks in the Tunisian dialect.
+    We describe our methodology for data collection, transcription, and annotation,
+    and present initial baseline results for both Tunisian Arabic speech recognition
+    and Tunisian Arabic–French speech translation.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@univ-lemans.fr'
+    first_name: Alex
+    last_name: Choux
+    name: Alex Choux
+    username: ~Alex_Choux1
+  - emails: '****@chapsvision.com'
+    first_name: Marko
+    google_scholar_id: https://scholar.google.fr/citations?user=53aeqpQAAAAJ&hl=fr
+    institution: Systran
+    last_name: Avila
+    name: Marko Avila
+    username: ~Marko_Avila1
+  - dblp_id: https://dblp.org/pid/94/361
+    emails: '****@chapsvision.com'
+    first_name: Josep
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=lw_aQqQAAAAJ
+    institution: SYSTRAN By ChapsVision
+    last_name: Crego
+    name: Josep Crego
+    orcid: https://orcid.org/0009-0006-8034-3581
+    semantic_scholar_id: https://www.semanticscholar.org/author/J.-Crego/2209023
+    username: ~Josep_Crego1
+  - emails: '****@elyadata.com'
+    first_name: Fethi
+    google_scholar_id: https://scholar.google.fr/citations?user=2QsSGPkAAAAJ&hl=fr
+    institution: elyadata
+    last_name: Bougares
+    name: Fethi Bougares
+    username: ~Fethi_Bougares2
+  - emails: '****@univ-lemans.fr'
+    first_name: Antoine
+    google_scholar_id: https://scholar.google.com/citations?user=KRMHWR8AAAAJ&hl=fr
+    institution: Universite du Maine, Université du Maine
+    last_name: Laurent
+    name: Antoine LAURENT
+    orcid: https://orcid.org/0000-0002-2653-1008
+    username: ~Antoine_LAURENT1
+  decision: '2025'
+  file: 16.pdf
+  id: 16
+  openreview_id: BDuBam6Dtv
+  pdf_file: f8f98463c5b7321723bbef1c103bbb63c2db46aa.pdf
+  title: 'TuniFra: A Tunisian Arabic Speech Corpus with Orthographic Transcriptions
+    and French Translations'
+- abstract: "Cross-lingual retrieval-augmented generation (RAG) is a critical capability\
+    \ for retrieving and generating answers across languages. Prior work in this context\
+    \ has mostly focused on generation and relied on benchmarks derived from open-domain\
+    \ sources, most notably Wikipedia. In such settings, retrieval challenges often\
+    \ remain hidden due to language imbalances, overlap with pretraining data, and\
+    \ memorized content. To address this gap, we study Arabic-English RAG in a domain-specific\
+    \ setting using benchmarks derived from real-world corporate datasets. Our benchmarks\
+    \ include all combinations of languages for the user query and the supporting\
+    \ document, drawn independently and uniformly at random. This enables a systematic\
+    \ study of multilingual retrieval behavior.\n\nOur findings reveal that retrieval\
+    \ is a critical bottleneck in cross-lingual domain-specific scenarios, with substantial\
+    \ performance drops \noccurring when the user query and supporting document languages\
+    \ differ. A key insight is that these failures stem primarily from the retriever’s\
+    \ difficulty in ranking documents across languages. Finally, we propose two simple\
+    \ retrieval strategies that address this source of failure by enforcing equal\
+    \ retrieval from both languages or by translating the query, resulting in substantial\
+    \ improvements in cross-lingual and overall performance.  These results highlight\
+    \ meaningful opportunities for improving multilingual retrieval, particularly\
+    \ in practical, real-world RAG applications."
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/284/9123.html
+    emails: '****@gmail.com'
+    first_name: Chen
+    google_scholar_id: https://scholar.google.co.il/citations?user=PGqfq8AAAAAJ&hl=en
+    institution: 'Technology Innovation Institute '
+    last_name: Amiraz
+    name: Chen Amiraz
+    orcid: https://orcid.org/0000-0001-7539-4903
+    username: ~Chen_Amiraz1
+  - emails: '****@gmail.com'
+    first_name: Yaroslav
+    google_scholar_id: https://scholar.google.com/citations?user=Ad905y8AAAAJ&hl=en
+    institution: Technology Innovation Institute
+    last_name: Fyodorov
+    name: Yaroslav Fyodorov
+    username: ~Yaroslav_Fyodorov2
+  - dblp_id: https://dblp.org/pid/07/8164
+    emails: '****@tii.ae'
+    first_name: Elad
+    institution: Technology Innovation Institute
+    last_name: Haramaty
+    name: Elad Haramaty
+    username: ~Elad_Haramaty1
+  - dblp_id: https://dblp.org/pid/16/4051
+    emails: '****@gmail.com'
+    first_name: Zohar
+    institution: tii
+    last_name: Karnin
+    name: Zohar Karnin
+    username: ~Zohar_Karnin1
+  - dblp_id: https://dblp.org/pid/13/5442
+    emails: '****@gmail.com'
+    first_name: Liane
+    google_scholar_id: https://scholar.google.com/citations?user=tbByGFAAAAAJ&hl=iw
+    institution: TII
+    last_name: Lewin-Eytan
+    name: Liane Lewin-Eytan
+    semantic_scholar_id: https://www.semanticscholar.org/author/L.-Lewin-Eytan/1402943721
+    username: ~Liane_Lewin-Eytan1
+  decision: '2025'
+  file: 22.pdf
+  id: 22
+  openreview_id: hE2CTnBXZZ
+  pdf_file: da92da3936e91f2a10397b14023b2f8eb8fd1284.pdf
+  title: 'The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora'
+- abstract: Conversational question-answering (CQA) plays a crucial role in bridging
+    the gap between human language and machine understanding, enabling more natural
+    and interactive interactions with AI systems. In this work, we present the first
+    results on open-domain Arabic CQA using deep learning. We introduce AraQReCC,
+    a large-scale Arabic CQA dataset containing 9K conversations with 62K question-answer
+    pairs, created by translating a subset of the QReCC dataset. To ensure data quality,
+    we used COMET-based filtering and manual ratings from large language models (LLMs),
+    such as GPT-4 and LLaMA, selecting conversations with COMET scores, along with
+    LLM ratings of 4 or more. AraQReCC facilitates advanced research in Arabic CQA,
+    improving clarity and relevance through question rewriting. We applied AraT5 for
+    question rewriting and used BM25 and Dense Passage Retrieval (DPR) for passage
+    retrieval. AraT5 is also used for question answering, completing the end-to-end
+    system. Our experiments show that the best performance is achieved with DPR, attaining
+    an F1 score of 21.51\% on the test set. While this falls short of the human upper
+    bound of 40.22\%, it underscores the importance of question rewriting and quality-controlled
+    data in enhancing system performance.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@gmail.com'
+    first_name: Mariam
+    last_name: Hassib
+    middle_name: E.
+    name: Mariam E. Hassib
+    username: ~Mariam_E._Hassib1
+  - emails: '****@alexu.edu.eg'
+    first_name: Nagwa
+    google_scholar_id: https://scholar.google.com.eg/citations?user=BJXdWawAAAAJ&hl=en
+    last_name: El-Makky
+    name: Nagwa El-Makky
+    orcid: https://orcid.org/0000-0002-9571-7543
+    username: ~Nagwa_El-Makky1
+  - dblp_id: https://dblp.org/pid/98/8617.html
+    emails: '****@alexu.edu.eg'
+    first_name: Marwan
+    google_scholar_id: https://scholar.google.com/citations?user=aYLNZT4AAAAJ&hl=en
+    institution: Alexandria University
+    last_name: Torki
+    name: Marwan Torki
+    semantic_scholar_id: https://www.semanticscholar.org/author/Marwan-Torki/1864588
+    username: ~Marwan_Torki1
+  decision: '2025'
+  file: 23.pdf
+  id: 23
+  openreview_id: eBtS3swDhb
+  pdf_file: 3405d677e3a998b76bfd47438c132cb6a1e84f38.pdf
+  title: Open-domain Arabic Conversational Question Answering with Question Rewriting
+- abstract: Classical Arabic represents a significant era that encompasses the golden
+    age of Arab culture, philosophy, and scientific literature. With a broad consensus
+    on the importance of translating these literatures to enrich knowledge dissemination
+    across communities, the advent of large language models (LLMs) and translation
+    systems offers promising tools to facilitate this goal. However, we have identified
+    a scarcity of translation datasets in Classical Arabic, which are often limited
+    in scope and topics, hindering the development of high-quality translation systems.
+    In response, we present the ATHAR dataset, which comprises 66,000 high-quality
+    classical Arabic to English translation samples that cover a wide array of topics
+    including science, culture, and philosophy. Furthermore, we assess the performance
+    of current state-of-the-art LLMs under various settings, concluding that there
+    is a need for such datasets in current systems. Our findings highlight how models
+    can benefit from fine-tuning or incorporating this dataset into their pretraining
+    pipelines. The dataset is publicly available on the HuggingFace Data Hub. To preserve
+    anonymity during review, we additionally provide an anonymized snapshot at https://drive.google.com/drive/folders/1c_ElsblaOJzQ0TW_M1DugjR2o3Xv9RUo.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@adaptcentre.ie'
+    first_name: Mohammed
+    google_scholar_id: https://scholar.google.com/citations?user=lfhzf8wAAAAJ&hl=en&oi=ao
+    homepage: https://www.adaptcentre.ie/experts/mohammed-sabry/
+    last_name: Mohammed
+    middle_name: Sabry
+    name: Mohammed Sabry Mohammed
+    username: ~Mohammed_Sabry_Mohammed1
+  - emails: '****@gmail.com'
+    first_name: Mohammed
+    homepage: https://v3xlrm1nOwo1.github.io
+    last_name: Khalil
+    name: Mohammed Khalil
+    username: ~Mohammed_Khalil2
+  decision: '2025'
+  file: 28.pdf
+  id: 28
+  openreview_id: 2SQha7pQ0a
+  pdf_file: c0d8c7e7f385960f3d56e093170d91fbcba417b3.pdf
+  title: 'ATHAR: A High-Quality and Diverse Dataset for Classical Arabic to English
+    Translation'
+- abstract: 'We present an end-to-end, self-evolving adversarial workflow for long-context
+    Question-Answer (QA) Generation in Arabic. By orchestrating multiple specialized
+    LVLMs: a question generator, an evaluator, and a swarm of answer generators, our
+    system iteratively refines its own performance without any human intervention.
+    Starting from raw, multi-page Arabic documents across diverse domains, the question
+    generator produces fine-grained, context-aware queries to be tackled by the answer
+    generator swarm, and the evaluator assesses and feeds back quality metrics. This
+    closed-loop cycle enables continuous learning: low-confidence outputs trigger
+    automated re-generation and model updates, progressively enhancing question difficulty
+    and relevance. Moreover, we set the quality metrics as a tunable hyperparameter,
+    enabling question generation at controllable and customizable difficulty levels.
+    We release \emph{\textbf{AraLongBench}}, a large-scale Arabic benchmark of single-
+    and multi-page challenges spanning hundreds of pages, and demonstrate that our
+    self-evolving workflow substantially outperform static pipelines, markedly boosting
+    the long-context comprehension capabilities of leading Arabic Large Vision Language
+    Models (LVLMs). Lastly, we also meticulously architect a fully automated agentic
+    workflow for long-context Arabic document collection. \footnote{\url{https://github.com/wangk0b/Self_Improving_ARA_LONG_Doc.git}}'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@alumni.kaust.edu.sa'
+    first_name: Kesen
+    google_scholar_id: https://scholar.google.com/citations?user=5GLzvTcAAAAJ&hl=en
+    homepage: https://scholar.google.com/citations?user=5GLzvTcAAAAJ&hl=en
+    last_name: Wang
+    name: Kesen Wang
+    username: ~Kesen_Wang1
+  - emails: '****@kaust.edu.sa'
+    first_name: Daulet
+    google_scholar_id: https://scholar.google.com/citations?user=4-kRYr4AAAAJ&hl=ru
+    institution: Humain AI
+    last_name: Toibazar
+    name: Daulet Toibazar
+    username: ~Daulet_Toibazar1
+  - emails: '****@google.com'
+    first_name: Pedro
+    google_scholar_id: https://scholar.google.com/citations?user=fzWAWboAAAAJ&hl=en
+    last_name: Moreno Mengibar
+    middle_name: J
+    name: Pedro J Moreno Mengibar
+    username: ~Pedro_J_Moreno_Mengibar1
+  decision: '2025'
+  file: 30.pdf
+  id: 30
+  openreview_id: 0Qd2B7PakR
+  pdf_file: 9fbe05b6da68be8a183e1683b3c14588e0f6e7e8.pdf
+  title: '$\textbf{A-SEA}^3\textbf{L}$-QA: A Fully Automated Self-Evolving, Adversarial Workflow for Arabic Long-Context Question-Answer  Generation'
+- abstract: Lemmatization for dialectal Arabic poses many challenges due to the lack
+    of orthographic standards and limited morphological analyzers. This work explores
+    the effectiveness of Seq2Seq models for lemmatizing dialectal Arabic, both without
+    analyzers and with their integration. We assess how well these models generalize
+    across dialects and benefit from related varieties. Focusing on Egyptian, Gulf,
+    and Levantine dialects with varying resource levels, our analysis highlights both
+    the potential and limitations of data-driven approaches. The proposed method achieves
+    significant gains over baselines, performing well in both low-resource and dialect-rich
+    scenarios.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@nyu.edu'
+    first_name: Mostafa
+    google_scholar_id: https://scholar.google.com/citations?user=w_LwVR8AAAAJ&hl=en
+    last_name: Saeed
+    name: Mostafa Saeed
+    username: ~Mostafa_Saeed1
+  - dblp_id: https://dblp.org/pid/34/1998
+    emails: '****@nyu.edu'
+    first_name: Nizar
+    google_scholar_id: https://scholar.google.com/citations?user=DGb-sBwAAAAJ&hl=en
+    homepage: https://www.nizarhabash.com/
+    institution: New York University Abu Dhabi
+    last_name: Habash
+    name: Nizar Habash
+    orcid: https://orcid.org/0000-0002-1831-3457
+    semantic_scholar_id: https://www.semanticscholar.org/author/Nizar-Habash/1696645
+    username: ~Nizar_Habash1
+  decision: '2025'
+  file: 31.pdf
+  id: 31
+  openreview_id: yKWY5gWlRR
+  pdf_file: a2599b24801b1b4e3cce7b9c393366c628b86432.pdf
+  title: Lemmatizing Dialectal Arabic with Sequence-to-Sequence Models
+- abstract: 'For effective use in specific countries, Large Language Models (LLMs)
+    need a strong grasp of local culture and core knowledge to ensure socially appropriate,
+    context-aware, and factually correct responses. Existing Arabic and Saudi benchmarks
+    are limited, focusing mainly on dialects or lifestyle, with little attention to
+    deeper cultural or domain-specific alignment from authoritative sources. To address
+    this gap and the challenge LLMs face with non-Western cultural nuance, this study
+    introduces the Saudi-Alignment Benchmark. It consists of 874 manually curated
+    questions across two core cultural dimensions: Saudi Cultural and Ethical Norms,
+    and Saudi Domain Knowledge. These questions span multiple subcategories and use
+    three formats to assess different goals with verified sources. Our evaluation
+    reveals significant variance in LLM alignment. GPT-4 achieved the highest overall
+    accuracy (83.3%), followed by ALLaM-7B (81.8%) and Llama-3.3-70B (81.6%), whereas
+    Jais-30B exhibited a pronounced shortfall at 21.9%. Furthermore, multilingual
+    LLMs excelled in norms; ALLaM-7B in domain knowledge. Considering the effect of
+    question format, LLMs generally excelled in selected-response formats but showed
+    weaker results on generative tasks, indicating that recognition-based benchmarks
+    alone may overestimate cultural and contextual alignment. These findings highlight
+    the need for tailored benchmarks and reveal LLMs’ limitations in achieving cultural
+    grounding, particularly in underrepresented contexts like Saudi Arabia.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@kacst.edu.sa'
+    first_name: Manal
+    homepage: https://sa.linkedin.com/in/manal-alhassoun-b6a98947
+    institution: King Abdulaziz City for Science and Technology
+    last_name: Alhassoun
+    name: Manal Alhassoun
+    username: ~Manal_Alhassoun1
+  - emails: '****@kacst.edu.sa'
+    first_name: Imaan
+    institution: 'AI and robotics '
+    last_name: Alkhanen
+    middle_name: Mohammed
+    name: Imaan Mohammed Alkhanen
+    username: ~Imaan_Mohammed_Alkhanen1
+  - emails: '****@kacst.edu.sa'
+    first_name: Nouf
+    homepage: https://github.com/NoufAlshalawi
+    institution: King Abdulaziz City for Science and Technology
+    last_name: Alshalawi
+    name: Nouf Alshalawi
+    username: ~Nouf_Alshalawi1
+  - emails: '****@kacst.gov.sa'
+    first_name: Ibtehal
+    google_scholar_id: https://scholar.google.com/citations?user=ykYp_IIAAAAJ&hl=en
+    institution: KACST
+    last_name: Baazeem
+    name: Ibtehal Baazeem
+    orcid: https://orcid.org/0000-0002-7531-0666
+    username: ~Ibtehal_Baazeem1
+  - emails: '****@kacst.gov.sa'
+    first_name: Waleed
+    institution: King Abdulaziz City for Science and Technology (KACST)
+    last_name: Alsanie
+    name: Waleed Alsanie
+    username: ~Waleed_Alsanie1
+  decision: '2025'
+  file: 34.pdf
+  id: 34
+  openreview_id: ygwI0PvmSJ
+  pdf_file: 199d1380da869ec5ff92329e3d7ef28146788875.pdf
+  title: 'Saudi-Alignment Benchmark: Assessing LLMs Alignment with Cultural Norms
+    and Domain Knowledge in the Saudi Context'
+- abstract: 'Recently, extensive research on the hallucination of the large language
+    models (LLMs) has mainly focused on the English language. Despite the growing
+    number of multilingual and Arabic-specific LLMs, evaluating LLMs'' hallucination
+    in the Arabic context remains relatively underexplored. The knowledge gap is particularly
+    pressing given Arabic’s widespread use across many regions and its importance
+    in global communication and media. This paper presents the first comprehensive
+    hallucination evaluation of Arabic and multilingual LLMs on two critical Arabic
+    natural language generation tasks: generative question answering (GQA) and summarization.
+    This study evaluates a total of 12 LLMs, including 4 Arabic pre-trained models,
+    4 multilingual models, and 4 reasoning-based models. To assess the factual consistency
+    and faithfulness of LLMs'' outputs, we developed a fine-grained hallucination
+    evaluation framework consisting of 12 fine-grained hallucination indicators that
+    represent the varying characteristics of each task. The results reveal that factual
+    hallucinations are more prevalent than faithfulness errors across all models and
+    tasks. Notably, the Arabic pre-trained model Allam consistently demonstrates lower
+    hallucination rates than multilingual models and a comparative performance with
+    reasoning-based models. The code is available at: https://github.com/aishaalansari57/AraHalluEval'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@kfupm.edu.sa'
+    first_name: Aisha
+    google_scholar_id: https://scholar.google.com/citations?user=F5lS4EMAAAAJ&hl=en&oi=ao
+    last_name: Alansari
+    name: Aisha Alansari
+    username: ~Aisha_Alansari1
+  - emails: '****@kfupm.edu.sa'
+    first_name: Hamzah
+    google_scholar_id: https://scholar.google.com/citations?user=JgGFu2QAAAAJ&hl=en
+    homepage: https://faculty.kfupm.edu.sa/ICS/hluqman/
+    institution: King Fahad University of Petroleum and Minerals
+    last_name: Luqman
+    name: Hamzah Luqman
+    orcid: https://orcid.org/0000-0001-7944-5093
+    username: ~Hamzah_Luqman1
+  decision: '2025'
+  file: 43.pdf
+  id: 43
+  openreview_id: 3c2AkwLy9r
+  pdf_file: 9c2fdd0d1468becc4833974ea7130186c5f3c2ad.pdf
+  title: 'AraHalluEval: A Fine-grained Hallucination Evaluation Framework for Arabic LLMs'
+- abstract: 'Prompt relevance is a critical yet underexplored dimension in Arabic
+    Automated Essay Scoring (AES). We present the first systematic study of binary
+    prompt-essay relevance classification, supporting both AES scoring and dataset
+    annotation. To address data scarcity, we built a synthetic dataset of on-topic
+    and off-topic pairs and evaluated multiple models, including threshold-based classifiers,
+    SVMs, causal LLMs, and a fine-tuned masked SBERT model.
+    For real-data evaluation, we combined QAES with ZAEBUC, creating off-topic pairs
+    via mismatched prompts. We also tested prompt expansion strategies using AraVec,
+    CAMeL, and GPT-4o. Our fine-tuned SBERT achieved 98% F1 on synthetic data and
+    strong results on QAES+ZAEBUC, outperforming SVMs and threshold-based baselines
+    and offering a resource-efficient alternative to LLMs. This work establishes the
+    first benchmark for Arabic prompt relevance and provides practical strategies
+    for low-resource AES.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@mbzuai.ac.ae'
+    first_name: Chatrine
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=JvibGVoAAAAJ
+    homepage: https://openreview.net/profile?id=~Chatrine_Qwaider1
+    institution: Mohamed bin Zayed University of Artificial Intelligence and Chalmers
+      University of Technology
+    last_name: Qwaider
+    name: Chatrine Qwaider
+    username: ~Chatrine_Qwaider1
+  - emails: '****@gmail.com'
+    first_name: Kirill
+    google_scholar_id: https://scholar.google.com/citations?user=fzKxSOcAAAAJ&hl=en&oi=sra
+    homepage: https://scholar.google.com/citations?user=fzKxSOcAAAAJ&hl=en&oi=sra
+    last_name: Chirkunov
+    name: Kirill Chirkunov
+    orcid: https://orcid.org/0000-0002-2328-6035
+    username: ~Kirill_Chirkunov1
+  - dblp_id: https://dblp.org/pid/234/6160.html
+    emails: '****@nyu.edu'
+    first_name: Bashar
+    google_scholar_id: https://scholar.google.com/citations?user=DFkVNJwAAAAJ
+    homepage: https://basharalhafni.com/
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Alhafni
+    name: Bashar Alhafni
+    semantic_scholar_id: https://www.semanticscholar.org/author/Bashar-Alhafni/66589548
+    username: ~Bashar_Alhafni1
+  - dblp_id: https://dblp.org/pid/34/1998
+    emails: '****@nyu.edu'
+    first_name: Nizar
+    google_scholar_id: https://scholar.google.com/citations?user=DGb-sBwAAAAJ&hl=en
+    homepage: https://www.nizarhabash.com/
+    institution: New York University Abu Dhabi
+    last_name: Habash
+    name: Nizar Habash
+    orcid: https://orcid.org/0000-0002-1831-3457
+    semantic_scholar_id: https://www.semanticscholar.org/author/Nizar-Habash/1696645
+    username: ~Nizar_Habash1
+  - emails: '****@gmail.com'
+    first_name: Ted
+    homepage: https://mbzuai.ac.ae/study/faculty/ted-briscoe/
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Briscoe
+    name: Ted Briscoe
+    username: ~Ted_Briscoe2
+  decision: '2025'
+  file: 44.pdf
+  id: 44
+  openreview_id: 25rqz4rt3F
+  pdf_file: 1597b64f2819df6462b3eaab95ae35f7a5cdfd34.pdf
+  title: 'Evaluating Prompt Relevance in Arabic Automatic Essay Scoring: Insights from Synthetic and Real-World Data'
+- abstract: 'Information Extraction tasks such as Named Entity Recognition and Relation
+    Extraction are often developed using diverse tagsets and annotation guidelines.
+    This presents major challenges for model generalization, cross-dataset evaluation,
+    tool interoperability, and broader industry adoption.  To address these issues,
+    we propose an information extraction ontology, \WojoodOntology, which covers a
+    wide range of named entity types and relations. \WojoodOntology serves as a semantic
+    mediation framework that facilitates alignment across heterogeneous tagsets and
+    annotation guidelines. We propose two ontology-based mapping methods: (i) as a
+    set of mapping rules for uni-directional tagset alignment; and (ii) as ontology-based
+    prompting, which incorporates the ontology concepts directly into prompts, enabling
+    large language models (LLMs) to perform more effective and bi-directional mappings.
+    Our experiments show a 15\% improvement in out-of-domain mapping accuracy when
+    using ontology-based prompting compared to rule-based methods. Furthermore, \WojoodOntology
+    is aligned with Schema.org and Wikidata, enabling interoperability with knowledge
+    graphs and facilitating broader industry adoption. The \WojoodOntology is open
+    source and available at \url{https://sina.birzeit.edu/wojood}.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/383/7720
+    emails: '****@birzeit.edu'
+    first_name: Alaa
+    institution: Birzeit University
+    last_name: Aljabari
+    name: Alaa Aljabari
+    username: ~Alaa_Aljabari1
+  - emails: '****@ptuk.edu.ps'
+    first_name: Nagham
+    google_scholar_id: https://scholar.google.com/citations?user=xE1G8HEAAAAJ&hl=en&oi=sra
+    homepage: https://www.birzeit.edu/ar/biography/ngm-hmd
+    institution: Birzeit University and Palestine Technical University - Kadoorie
+    last_name: Hamad
+    name: Nagham Hamad
+    orcid: https://orcid.org/0000-0003-3898-1548
+    semantic_scholar_id: https://www.semanticscholar.org/author/Nagham-Hamad/2112134311
+    username: ~Nagham_Hamad2
+  - dblp_id: https://dblp.org/pid/60/10050.html
+    emails: '****@gmail.com'
+    first_name: Mohammed
+    google_scholar_id: https://scholar.google.com/citations?user=z8dFyzAAAAAJ&hl=en
+    homepage: https://mohammedkhalilia.com/
+    institution: Birzeit University and Qualtrics XM
+    last_name: Khalilia
+    name: Mohammed Khalilia
+    orcid: https://orcid.org/0000-0001-6086-6795
+    username: ~Mohammed_Khalilia1
+  - dblp_id: https://dblp.org/pid/j/MustafaJarrar.html
+    emails: '****@gmail.com'
+    first_name: Mustafa
+    google_scholar_id: https://scholar.google.com/citations?user=HiUpTkcAAAAJ&hl=en
+    homepage: http://www.jarrar.info/
+    institution: Birzeit University
+    last_name: Jarrar
+    name: Mustafa Jarrar
+    orcid: https://orcid.org/0000-0003-4351-4207
+    semantic_scholar_id: https://www.semanticscholar.org/author/Mustafa-Jarrar/1764681
+    username: ~Mustafa_Jarrar2
+  decision: '2025'
+  file: 45.pdf
+  id: 45
+  openreview_id: ZMN1bj6sBg
+  pdf_file: f9d211d0d76aba548430e50355283a02e570c359.pdf
+  title: 'WojoodOntology: Ontology-Driven LLM Prompting for Unified Information Extraction Tasks'
+- abstract: This paper presents a methodology for inserting phrases in Arabic poems
+    to conform to a specific rhythm using ByT5, a byte-level multilingual transformer-based
+    model. Our work discusses a rule-based grapheme-to-beat transformation tailored
+    for extracting the rhythm from fully diacritized Arabic script. Our approach employs
+    a conditional denoising objective to fine-tune ByT5, where the model reconstructs
+    masked words to match a target rhythm. We adopt a curriculum learning strategy,
+    pre-training on a general Arabic dataset before fine-tuning on poetic dataset,
+    and explore cross-lingual transfer from English to Arabic. Experimental results
+    demonstrate that our models achieve high rhythmic alignment while maintaining
+    semantic coherence. The proposed model has the potential to be used in co-creative
+    applications in the process of composing classical Arabic poems.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@ucalgary.ca'
+    first_name: Mohamad
+    google_scholar_id: https://scholar.google.com/citations?user=ODWReUYAAAAJ&hl=en
+    institution: University of Calgary
+    last_name: Elzohbi
+    name: Mohamad Elzohbi
+    username: ~Mohamad_Elzohbi1
+  - emails: '****@ucalgary.ca'
+    first_name: Richard
+    google_scholar_id: https://scholar.google.com/citations?user=fdlTqyEAAAAJ&hl=en
+    institution: University of Calgary
+    last_name: Zhao
+    name: Richard Zhao
+    username: ~Richard_Zhao1
+  decision: '2025'
+  file: 48.pdf
+  id: 48
+  openreview_id: f3vy67jBZ9
+  pdf_file: 38f56c707a2fab0b7d5e84303e127f97e2bb41dc.pdf
+  title: 'Tah{ḏ}{ī}b: A Rhythm-Aware Phrase Insertion for Classical Arabic Poetry Composition'
+- abstract: The Holy Qur'an provides timeless guidance, addressing modern challenges
+    and offering answers to many important questions. The Qur'an QA 2023 shared task
+    introduced the Qur'anic Passage Retrieval (QPR) task, which involves retrieving
+    relevant passages in response to MSA questions. In this work, we evaluate the
+    ability of seven pre-trained large language models (LLMs) to retrieve relevant
+    passages from the Qur'an in response to given questions, considering zero-shot
+    and several few-shot scenarios. Our experiments show that the best model, Claude,
+    significantly outperforms the state-of-the-art QPR model by 28 points on MAP and
+    38 points on MRR, exhibiting an impressive improvement of about 113\% and 82\%,
+    respectively.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/246/0483
+    emails: '****@qu.edu.qa'
+    first_name: Sohaila
+    google_scholar_id: https://scholar.google.com/citations?user=rsFW-1sAAAAJ&hl=en
+    institution: University of Qatar
+    last_name: Eltanbouly
+    name: Sohaila Eltanbouly
+    semantic_scholar_id: https://www.semanticscholar.org/author/Sohaila-Eltanbouly/151463294
+    username: ~Sohaila_Eltanbouly1
+  - emails: '****@qu.edu.qa'
+    first_name: Salam
+    google_scholar_id: https://scholar.google.com/citations?user=hhYGTucAAAAJ&hl=en
+    homepage: https://sites.google.com/view/bigir/members/salam-albatarni?authuser=0
+    last_name: Albatarni
+    name: Salam Albatarni
+    username: ~Salam_Albatarni1
+  - emails: '****@qu.edu.qa'
+    first_name: Shaimaa
+    last_name: Hassanein
+    name: Shaimaa Hassanein
+    orcid: https://orcid.org/0000-0003-2727-5461
+    username: ~Shaimaa_Hassanein1
+  - dblp_id: https://dblp.org/pid/99/5856
+    emails: '****@qu.edu.qa'
+    first_name: Tamer
+    google_scholar_id: https://scholar.google.com/citations?user=ekS-yPIAAAAJ
+    homepage: http://qufaculty.qu.edu.qa/telsayed/
+    institution: Qatar University
+    last_name: Elsayed
+    name: Tamer Elsayed
+    username: ~Tamer_Elsayed1
+  decision: '2025'
+  file: 51.pdf
+  id: 51
+  openreview_id: qyotFBkVjr
+  pdf_file: 39bffb3b60412a97383c8529f572c2deecced672.pdf
+  title: Can LLMs Directly Retrieve Passages for Answering Questions from Qur'an?
+- abstract: 'Speech emotion recognition is vital for human-computer interaction, particularly
+    for low-resource languages like Arabic, which face challenges due to limited data
+    and research. We introduce ArabEmoNet, a lightweight architecture designed to
+    overcome these limitations and deliver state-of-the-art performance. Unlike previous
+    systems relying on discrete MFCC features and 1D convolutions, which miss nuanced
+    spectro-temporal patterns, ArabEmoNet uses Mel spectrograms processed through
+    2D convolutions, preserving critical emotional cues often lost in traditional
+    methods.
+    While recent models favor large-scale architectures with millions of parameters,
+    ArabEmoNet achieves superior results with just 1 million parameters—90 times smaller
+    than HuBERT base and 74 times smaller than Whisper. This efficiency makes it ideal
+    for resource-constrained environments. ArabEmoNet advances Arabic speech emotion
+    recognition, offering exceptional performance and accessibility for real-world
+    applications.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@mbzuai.ac.ae'
+    first_name: Ali
+    google_scholar_id: https://scholar.google.com/citations?user=W_yugccAAAAJ&hl=en
+    last_name: Abouzeid
+    name: Ali Abouzeid
+    orcid: https://orcid.org/0009-0007-6694-0416
+    username: ~Ali_Abouzeid1
+  - emails: '****@mbzuai.ac.ae'
+    first_name: Bilal
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Elbouardi
+    name: Bilal Elbouardi
+    orcid: https://orcid.org/0000-0003-3558-167X
+    username: ~Bilal_Elbouardi1
+  - emails: '****@mbzuai.ac.ae'
+    first_name: Mohamed
+    google_scholar_id: https://scholar.google.com/citations?view_op=list_works&hl=en&user=uN_3wxEAAAAJ&gmla=AH8HC4xF9jbJTpYhwCLR2piHZLqw4u36pm6Mx7TQdFNSDIOVxGefP1F3d4lpvwWE7NKn0enMA04irvsxT214iAKHLgiiylXKBgLyFrYUnUJ66-RqeAhnYAo
+    homepage: https://www.researchgate.net/profile/Mohamed-Maged-16?ev=hdr_xprf
+    last_name: Maged
+    name: Mohamed Maged
+    username: ~Mohamed_Maged1
+  - dblp_id: https://dblp.org/pid/92/6456
+    emails: '****@uwaterloo.ca'
+    first_name: Shady
+    google_scholar_id: https://scholar.google.com/citations?user=osOiYvYAAAAJ&hl=en
+    institution: University of Waterloo
+    last_name: Shehata
+    name: Shady Shehata
+    orcid: https://orcid.org/0000-0002-3258-6734
+    semantic_scholar_id: https://www.semanticscholar.org/author/Shady-Shehata/38510157
+    username: ~Shady_Shehata1
+  decision: '2025'
+  file: 54.pdf
+  id: 54
+  openreview_id: Lxdm0PDITb
+  pdf_file: adf5199a73c8556fee854bcb8d2ed38ce64ccd44.pdf
+  title: 'ArabEmoNet: A Lightweight Hybrid 2D CNN-BiLSTM Model with Attention for
+    Robust Arabic Speech Emotion Recognition'
+- abstract: We present the first publicly available, multidimensional corpus of Qatari
+    Arabic that captures intra-dialectal variation across Urban and Bedouin speakers.
+    While often grouped under the label of "Gulf Arabic", Qatari Arabic exhibits rich
+    phonological, lexical, and discourse-level differences shaped by gender, age,
+    and sociocultural identity. Our dataset includes aligned speech and transcriptions
+    from 255 speakers, stratified by gender and age, and collected through structured
+    interviews on culturally salient topics such as education, heritage, and social
+    norms. The corpus reveals systematic variation in pronunciation, vocabulary, and
+    narrative style, offering insights for both sociolinguistic analysis and computational
+    modeling. We also demonstrate its utility through preliminary experiments in the
+    prediction of dialects and genders. This work provides the first large-scale,
+    demographically balanced corpus of Qatari Arabic, laying a foundation for both
+    sociolinguistic research and the development of dialect-aware NLP systems.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/38/7135
+    emails: '****@cmu.edu'
+    first_name: Houda
+    google_scholar_id: https://scholar.google.fr/citations?user=URT16pgAAAAJ&hl=en
+    institution: Carnegie Mellon University, Qatar
+    last_name: Bouamor
+    name: Houda Bouamor
+    username: ~Houda_Bouamor1
+  - emails: '****@hbku.edu.qa'
+    first_name: Sara
+    last_name: Al-Emadi
+    institution: Hamad Bin Khalifa University, Qatar
+    name: Sara Al-Emadi
+    orcid: https://orcid.org/0009-0003-9377-5293
+    username: ~Sara_Al-Emadi2
+  - emails: zeinab.ibrahim@gmail.com
+    first_name: Zeinab
+    institution: Carnegie Mellon University, Qatar
+    last_name: Ibrahim
+    name: zeinab.ibrahim@gmail.com
+    username: zeinab.ibrahim@gmail.com
+  - emails: hf194@georgetown.edu
+    first_name: Hany 
+    institution: Georgetown University, Qatar
+    last_name: Fazzaa
+    name: hf194@georgetown.edu
+    username: hf194@georgetown.edu
+  - emails: asultan@qf.org.qa
+    first_name: Aisha
+    institution: Doha International Family Institute
+    last_name: Al-Sultan
+    name: asultan@qf.org.qa
+    username: asultan@qf.org.qa
+  decision: '2025'
+  file: 55.pdf
+  id: 55
+  openreview_id: OOvaYrZvSX
+  pdf_file: a8d038b0164b2beaf4e39b429a1050304e8e5971.pdf
+  title: 'Capturing Intra-Dialectal Variation in Qatari Arabic: A Corpus of Cultural
+    and Gender Dimensions'
+- abstract: 'Automated Essay Scoring (AES) has shown significant advancements in educational
+    assessment. However, under-resourced languages like Arabic have received limited
+    attention. To bridge this gap and enable robust Arabic AES, this paper introduces
+    the $\textit{first publicly-available}$ comprehensive set of engineered features
+    tailored for Arabic AES, covering surface-level, readability, lexical, syntactic,
+    and semantic features. Experiments are conducted on a dataset of 620 Arabic essays,
+    each annotated with both holistic and trait-specific scores.
+    Our findings demonstrate that the proposed feature set is effective across different
+    models and competitive with recent NLP advances including LLMs, establishing the
+    state-of-the-art performance and providing strong baselines for future Arabic
+    AES research.  Moroever, the resulting feature set offers a reusable and foundational
+    resource, contributing towards the development of more effective Arabic AES systems.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@gmail.com'
+    first_name: Marwan
+    last_name: Sayed
+    name: Marwan Sayed
+    username: ~Marwan_Sayed1
+  - dblp_id: https://dblp.org/pid/246/0483
+    emails: '****@qu.edu.qa'
+    first_name: Sohaila
+    google_scholar_id: https://scholar.google.com/citations?user=rsFW-1sAAAAJ&hl=en
+    institution: University of Qatar
+    last_name: Eltanbouly
+    name: Sohaila Eltanbouly
+    semantic_scholar_id: https://www.semanticscholar.org/author/Sohaila-Eltanbouly/151463294
+    username: ~Sohaila_Eltanbouly1
+  - emails: '****@qu.edu.qa'
+    first_name: May
+    google_scholar_id: https://scholar.google.com/citations?user=wZmKKRoAAAAJ&hl=en
+    institution: University of Qatar
+    last_name: Bashendy
+    name: May Bashendy
+    username: ~May_Bashendy1
+  - dblp_id: https://dblp.org/pid/99/5856
+    emails: '****@qu.edu.qa'
+    first_name: Tamer
+    google_scholar_id: https://scholar.google.com/citations?user=ekS-yPIAAAAJ
+    homepage: http://qufaculty.qu.edu.qa/telsayed/
+    institution: Qatar University
+    last_name: Elsayed
+    name: Tamer Elsayed
+    username: ~Tamer_Elsayed1
+  decision: '2025'
+  file: 57.pdf
+  id: 57
+  openreview_id: suMzXPHLwb
+  pdf_file: 6cba122143e93001ee4af6c6f1b2c8a1636f421a.pdf
+  title: 'Feature Engineering is not Dead: A Step Towards State of the Art for Arabic
+    Automated Essay Scoring'
+- abstract: "This paper evaluates the knowledge and reasoning capabilities of Large\
+    \ Language Models  in Islamic inheritance law, ʿilm al-mawārīth. We assess the\
+    \  performance of seven LLMs using a  benchmark of 1,000 multiple-choice questions\
+    \ covering  diverse inheritance scenarios, designed to test each model's ability—from\
+    \ understanding the inheritance context to computing the distribution of shares\
+    \ prescribed  by Islamic jurisprudence. \nThe results show a wide performance\
+    \ gap among models. o3 and Gemini 2.5 achieved accuracies above 90%, while ALLaM,\
+    \ Fanar, LLaMA, and Mistral scored below 50%. These disparities reflect important\
+    \ differences in reasoning ability and domain adaptation.\nWe conduct a detailed\
+    \ error analysis to identify recurring failure patterns across models, including\
+    \ misunderstandings of inheritance scenarios, incorrect application of legal rules,\
+    \ and insufficient domain knowledge. Our findings highlight the limitations of\
+    \ current models in handling structured legal reasoning and suggest directions\
+    \ for improving their performance in Islamic legal reasoning."
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/132/6977.html
+    emails: '****@hbku.edu.qa'
+    first_name: Abdessalam
+    homepage: https://scholar.google.fr/citations?user=gFwRlyAAAAAJ&hl=fr
+    institution: Hamad Bin Khalifa University, Qatar
+    last_name: Bouchekif
+    name: Abdessalam Bouchekif
+    username: ~Abdessalam_Bouchekif1
+  - emails: '****@hbku.edu.qa'
+    first_name: Samer
+    homepage: https://cile.hbku.edu.qa/about-us/team/dr-samer-rashwani
+    last_name: Rashwani
+    name: Samer Rashwani
+    username: ~Samer_Rashwani1
+  - emails: hsbahi@hbku.edu.qa
+    first_name: Heba
+    institution: Hamad Bin Khalifa University, Qatar
+    last_name: Sbahi
+    name: hsbahi@hbku.edu.qa
+    username: hsbahi@hbku.edu.qa
+  - emails: '****@hbku.edu.qa'
+    first_name: Shahd
+    last_name: Gaben
+    institution: Hamad Bin Khalifa University, Qatar
+    name: Shahd Gaben
+    orcid: https://orcid.org/0009-0001-8554-9777
+    username: ~Shahd_Gaben1
+  - emails: malkhatib@hbku.edu.qa
+    first_name: Mutaz
+    institution: Hamad Bin Khalifa University, Qatar
+    last_name: Al Khatib
+    name: malkhatib@hbku.edu.qa
+    username: malkhatib@hbku.edu.qa
+  - emails: mghaly@hbku.edu.qa
+    first_name: Mohammed
+    institution: Hamad Bin Khalifa University, Qatar
+    last_name: Ghaly
+    name: mghaly@hbku.edu.qa
+    username: mghaly@hbku.edu.qa
+  decision: '2025'
+  file: 62.pdf
+  id: 62
+  openreview_id: zqCrI9whg6
+  pdf_file: 9c86c12a90d16b8e24c5a748637c09cd295fba27.pdf
+  title: 'Assessing  Large Language Models on Islamic Legal Reasoning: Evidence from
+    Inheritance Law Evaluation'
+- abstract: The impressive advancement of Large Language Models (LLMs) in English
+    has not been matched across all languages. In particular, LLM performance in Arabic
+    lags behind, due to data scarcity, linguistic diversity of Arabic and its dialects,
+    morphological complexity, etc. Progress is further hindered by the quality of
+    Arabic benchmarks, which typically rely on static, publicly available data, lack
+    comprehensive task coverage, or do not provide dedicated platforms with blind
+    test sets. This makes it challenging to measure actual progress and to mitigate
+    data contamination. Here, we aim to bridge these gaps. In particular, we introduce
+    BALSAM, a comprehensive, community-driven benchmark aimed at advancing Arabic
+    LLM development and evaluation. It includes 78 NLP tasks from 14 broad categories,
+    with 52K examples divided into  37K test and 15K development, and a centralized,
+    transparent platform for blind evaluation. We envision BALSAM as a unifying platform
+    that sets standards and promotes collaborative research to advance Arabic LLM
+    capabilities.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/214/7044.html
+    emails: '****@ksaa.gov.sa'
+    first_name: Rawan
+    google_scholar_id: https://scholar.google.com/citations?user=14f6iz4AAAAJ&hl=ar
+    last_name: Almatham
+    middle_name: Nasser
+    name: Rawan Nasser Almatham
+    username: ~Rawan_Nasser_Almatham1
+  - emails: '****@live.com'
+    first_name: Kareem
+    google_scholar_id: https://scholar.google.com/citations?user=y7tlR6UAAAAJ&hl=en
+    homepage: https://www.kareemdarwish.com
+    institution: aiXplain Inc
+    last_name: Darwish
+    middle_name: Mohamed
+    name: Kareem Mohamed Darwish
+    username: ~Kareem_Mohamed_Darwish1
+  - emails: '****@gmail.com'
+    first_name: Raghad
+    institution: King Salman global academy
+    last_name: Al-Rasheed
+    name: Raghad Al-Rasheed
+    username: ~Raghad_Al-Rasheed1
+  - emails: '****@ksaa.gov.sa'
+    first_name: Waad
+    institution: 'King Salman Global Academy for Arabic Language '
+    last_name: Alshammari
+    middle_name: Thuwaini
+    name: Waad Thuwaini Alshammari
+    orcid: https://orcid.org/0000-0002-9166-5619
+    username: ~Waad_Thuwaini_Alshammari1
+  - emails: '****@ksaa.gov.sa'
+    first_name: Muneera
+    institution: King Salman International Academy for the Arabic Language
+    last_name: Alhoshan
+    name: Muneera Alhoshan
+    orcid: https://orcid.org/0000-0001-5705-3590
+    username: ~Muneera_Alhoshan1
+  - emails: '****@ksaa.gov.sa'
+    first_name: Amal
+    institution: King Abdulaziz City for Science and Technology (KACST)
+    last_name: Almazrua
+    name: amal almazrua
+    username: ~amal_almazrua1
+  - emails: '****@ksaa.gov.sa'
+    first_name: Asma
+    google_scholar_id: https://scholar.google.com/citations?user=RRY5Ij0AAAAJ&hl=en
+    last_name: Al Wazrah
+    name: Asma Al Wazrah
+    orcid: https://orcid.org/0000-0001-5495-1694
+    username: ~Asma_Al_Wazrah1
+  - emails: '****@kfupm.edu.sa'
+    first_name: Mais
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=RMJDpiMAAAAJ
+    last_name: Alheraki
+    name: Mais Alheraki
+    orcid: https://orcid.org/0000-0002-4793-8544
+    username: ~Mais_Alheraki1
+  - dblp_id: https://dblp.org/pid/126/2083
+    emails: '****@gmail.com'
+    first_name: Firoj
+    google_scholar_id: https://scholar.google.it/citations?user=j-RtwDQAAAAJ&hl=en
+    homepage: https://www.firojalam.one/
+    institution: Qatar Computing Research Institute
+    last_name: Alam
+    name: Firoj Alam
+    orcid: https://orcid.org/0000-0001-7172-1997
+    semantic_scholar_id: https://www.semanticscholar.org/author/Firoj-Alam/37784060
+    username: ~Firoj_Alam1
+  - dblp_id: https://dblp.uni-trier.de/pid/19/1947
+    emails: '****@gmail.com'
+    first_name: Preslav
+    google_scholar_id: https://scholar.google.com/citations?user=DfXsKZ4AAAAJ
+    homepage: https://mbzuai.ac.ae/study/faculty/preslav-nakov/
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Nakov
+    name: Preslav Nakov
+    orcid: https://orcid.org/0000-0002-3600-1510
+    semantic_scholar_id: https://www.semanticscholar.org/author/Preslav-Nakov/1683562
+    username: ~Preslav_Nakov2
+  - dblp_id: https://dblp.org/pid/300/6361
+    emails: '****@sdaia.gov.sa'
+    first_name: Norah
+    last_name: Alzahrani
+    middle_name: A.
+    name: Norah A. Alzahrani
+    orcid: https://orcid.org/0009-0005-4136-3195
+    semantic_scholar_id: https://www.semanticscholar.org/author/Norah-A.-Alzahrani/2044988178
+    username: ~Norah_A._Alzahrani1
+  - emails: '****@gmail.com'
+    first_name: Eman
+    homepage: https://faculty.ksu.edu.sa/ar/ealbilali
+    last_name: Albilali
+    name: Eman Albilali
+    username: ~Eman_Albilali1
+  - dblp_id: https://dblp.org/pid/34/1998
+    emails: '****@nyu.edu'
+    first_name: Nizar
+    google_scholar_id: https://scholar.google.com/citations?user=DGb-sBwAAAAJ&hl=en
+    homepage: https://www.nizarhabash.com/
+    institution: New York University Abu Dhabi
+    last_name: Habash
+    name: Nizar Habash
+    orcid: https://orcid.org/0000-0002-1831-3457
+    semantic_scholar_id: https://www.semanticscholar.org/author/Nizar-Habash/1696645
+    username: ~Nizar_Habash1
+  - emails: '****@aixplain.com'
+    first_name: Abdelrahman
+    last_name: El-Sheikh
+    middle_name: Mustafa
+    name: Abdelrahman Mustafa El-Sheikh
+    username: ~Abdelrahman_Mustafa_El-Sheikh1
+  - emails: '****@aixplain.com'
+    first_name: Muhammad
+    google_scholar_id: https://scholar.google.com/citations?user=c6HxHgMAAAAJ&hl=en
+    institution: aixplain
+    last_name: Elmallah
+    name: Muhammad Elmallah
+    username: ~Muhammad_Elmallah1
+  - dblp_id: https://dblp.org/pid/146/4030
+    emails: '****@hbku.edu.qa'
+    first_name: Hamdy
+    google_scholar_id: https://scholar.google.com/citations?user=usvY6qYAAAAJ&hl=en
+    homepage: https://www.hbku.edu.qa/en/staff/dr-hamdy-mubarak-hussien
+    last_name: Mubarak
+    name: Hamdy Mubarak
+    orcid: https://orcid.org/0000-0003-4828-6098
+    semantic_scholar_id: https://www.semanticscholar.org/author/Hamdy-Mubarak/143779235
+    username: ~Hamdy_Mubarak2
+  - dblp_id: https://dblp.org/pid/206/0089
+    emails: '****@gmail.com'
+    first_name: Zaid
+    google_scholar_id: https://scholar.google.com/citations?user=vb6w6j4AAAAJ&hl=en
+    homepage: https://zaidalyafeai.github.io/
+    institution: King Abdullah University of Science and Technology
+    last_name: Alyafeai
+    name: Zaid Alyafeai
+    orcid: https://orcid.org/0009-0003-1774-5236
+    semantic_scholar_id: https://www.semanticscholar.org/author/Zaid-Alyafeai/25098419
+    username: ~Zaid_Alyafeai1
+  - emails: mohamed.anwar@mbzuai.ac.ae
+    first_name: Mohamed
+    institution: NA
+    last_name: Anwar
+    name: mohamed.anwar@mbzuai.ac.ae
+    username: mohamed.anwar@mbzuai.ac.ae
+  - dblp_id: https://dblp.org/pid/218/7270.html
+    emails: '****@mbzuai.ac.ae'
+    first_name: Haonan
+    google_scholar_id: https://scholar.google.com/citations?user=IqfgexsAAAAJ&hl=en
+    homepage: https://haonan-li.github.io/
+    last_name: Li
+    name: Haonan Li
+    orcid: https://orcid.org/0000-0001-6623-5089
+    semantic_scholar_id: https://www.semanticscholar.org/author/Haonan-Li/49404498
+    username: ~Haonan_Li2
+  - dblp_id: https://dblp.org/pid/48/5636.html/
+    emails: ahmed.abdelali@gmail.com
+    first_name: Ahmed
+    google_scholar_id: https://scholar.google.com/citations?user=ib1BYugAAAAJ
+    homepage: https://www.hbku.edu.qa/en/staff/dr-ahmed-abdelali
+    institution: Humain
+    last_name: Abdelali
+    name: Ahmed Abdelali
+    username: ~Ahmed_Abdelali3
+  - emails: naltwairesh@sdaia.gov.sa
+    first_name: Nora
+    institution: Humain
+    last_name: Altwairesh
+    name: naltwairesh@sdaia.gov.sa
+    username: naltwairesh@sdaia.gov.sa
+  - dblp_id: https://dblp.org/pid/151/5519
+    emails: '****@gmail.com'
+    first_name: Maram
+    google_scholar_id: https://scholar.google.com/citations?user=GtvNhM8AAAAJ&hl=en
+    homepage: https://sites.google.com/view/bigir/members/maram-hasanain?pli=1
+    institution: Qatar Computing Research Institute
+    last_name: Hasanain
+    name: Maram Hasanain
+    orcid: https://orcid.org/0000-0002-7466-178X
+    semantic_scholar_id: https://www.semanticscholar.org/author/Maram-Hasanain/2905745
+    username: ~Maram_Hasanain1
+  - dblp_id: https://dblp.org/pid/136/3735
+    emails: '****@gmail.com'
+    first_name: Abdulmohsen
+    google_scholar_id: https://scholar.google.com/citations?user=hZF7-uYAAAAJ&hl=ar&oi=ao
+    homepage: https://scholar.google.com/citations?user=hZF7-uYAAAAJ&hl=ar&oi=ao
+    institution: HUMAIN
+    last_name: Al-Thubaity
+    name: Abdulmohsen Al-Thubaity
+    orcid: https://orcid.org/0000-0003-2376-0849
+    semantic_scholar_id: https://www.semanticscholar.org/author/A.-Al-Thubaity/1403371375
+    username: ~Abdulmohsen_Al-Thubaity1
+  - dblp_id: https://dblp.org/pid/92/6456
+    emails: '****@uwaterloo.ca'
+    first_name: Shady
+    google_scholar_id: https://scholar.google.com/citations?user=osOiYvYAAAAJ&hl=en
+    institution: University of Waterloo
+    last_name: Shehata
+    name: Shady Shehata
+    orcid: https://orcid.org/0000-0002-3258-6734
+    semantic_scholar_id: https://www.semanticscholar.org/author/Shady-Shehata/38510157
+    username: ~Shady_Shehata1
+  - dblp_id: https://dblp.org/pid/234/6160.html
+    emails: '****@nyu.edu'
+    first_name: Bashar
+    google_scholar_id: https://scholar.google.com/citations?user=DFkVNJwAAAAJ
+    homepage: https://basharalhafni.com/
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Alhafni
+    name: Bashar Alhafni
+    semantic_scholar_id: https://www.semanticscholar.org/author/Bashar-Alhafni/66589548
+    username: ~Bashar_Alhafni1
+  - dblp_id: https://dblp.org/pid/158/4321
+    emails: '****@nyu.edu'
+    first_name: Injy
+    google_scholar_id: https://scholar.google.com/citations?user=N_RhXusAAAAJ&hl=en
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Hamed
+    name: Injy Hamed
+    semantic_scholar_id: https://www.semanticscholar.org/author/Injy-Hamed/3248560
+    username: ~Injy_Hamed1
+  - dblp_id: https://dblp.org/pid/204/1153.html
+    emails: '****@mbzuai.ac.ae'
+    first_name: Go
+    google_scholar_id: https://scholar.google.com/citations?user=h7prKx0AAAAJ&hl=fr
+    homepage: https://go-inoue.github.io/
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Inoue
+    name: Go Inoue
+    semantic_scholar_id: https://www.semanticscholar.org/author/Go-Inoue/46915471
+    username: ~Go_Inoue1
+  - emails: '****@nyu.edu'
+    first_name: Khalid
+    google_scholar_id: https://scholar.google.com/citations?user=bQr9TTEAAAAJ&hl=en
+    institution: New York University, Abu Dhabi
+    last_name: Elmadani
+    middle_name: N.
+    name: Khalid N. Elmadani
+    username: ~Khalid_N._Elmadani1
+  - dblp_id: https://dblp.org/pid/146/3909
+    emails: '****@nyu.edu'
+    first_name: Ossama
+    institution: New York University
+    last_name: Obeid
+    name: Ossama Obeid
+    username: ~Ossama_Obeid1
+  - dblp_id: https://dblp.org/pid/243/2755.html
+    emails: '****@sheffield.ac.uk'
+    first_name: Fatima
+    google_scholar_id: https://scholar.google.com/citations?user=T4XAnNAAAAAJ&hl=en
+    homepage: https://sites.google.com/view/bigir/members/students-and-researchers/fatima-haouari
+    institution: University of Sheffield
+    last_name: Haouari
+    name: Fatima Haouari
+    username: ~Fatima_Haouari1
+  - dblp_id: https://dblp.org/pid/99/5856
+    emails: '****@qu.edu.qa'
+    first_name: Tamer
+    google_scholar_id: https://scholar.google.com/citations?user=ekS-yPIAAAAJ
+    homepage: http://qufaculty.qu.edu.qa/telsayed/
+    institution: Qatar University
+    last_name: Elsayed
+    name: Tamer Elsayed
+    username: ~Tamer_Elsayed1
+  - emails: '****@humain.ai'
+    first_name: Emad
+    homepage: https://emad.ai
+    institution: Humain
+    last_name: Alghamdi
+    middle_name: A.
+    name: Emad A. Alghamdi
+    username: ~Emad_A._Alghamdi1
+  - emails: '****@proton.me'
+    first_name: Khalid
+    homepage: https://faculty.psau.edu.sa/en/psau/facultymember/k.almubarak
+    institution: Humain
+    last_name: Almubarak
+    name: Khalid Almubarak
+    semantic_scholar_id: https://www.semanticscholar.org/author/Khalid-Almubarak/90615055
+    username: ~Khalid_Almubarak1
+  - emails: '****@ub.edu.sa'
+    first_name: Saied
+    google_scholar_id: https://scholar.google.com/citations?user=mrlIvuIAAAAJ&hl=en
+    institution: University of Bisha
+    last_name: Alshahrani
+    name: Saied Alshahrani
+    username: ~Saied_Alshahrani1
+  - emails: oaljareh@ksaa.gov.sa
+    first_name: Ola
+    institution: King Salman Global Academy For Arabic Language, KSA
+    last_name: Aljareh
+    name: oaljareh@ksaa.gov.sa
+    username: oaljareh@ksaa.gov.sa
+  - emails: saglan@ksaa.gov.sa
+    first_name: Safa
+    institution: King Salman Global Academy For Arabic Language, KSA
+    last_name: Alajlan
+    name: saglan@ksaa.gov.sa
+    username: saglan@ksaa.gov.sa
+  - emails: aalshagrawi@ksaa.gov.sa
+    first_name: Areej
+    institution: King Salman Global Academy For Arabic Language, KSA
+    last_name: Alshaqarawi
+    name: aalshagrawi@ksaa.gov.sa
+    username: aalshagrawi@ksaa.gov.sa
+  - emails: malshehri@ksaa.gov.sa
+    first_name: Maryam
+    institution: King Salman Global Academy For Arabic Language, KSA
+    last_name: Alshihri
+    name: malshehri@ksaa.gov.sa
+    username: malshehri@ksaa.gov.sa
+  - emails: smuhammed@ksaa.gov.sa
+    first_name: Sultana
+    institution: King Salman Global Academy For Arabic Language, KSA
+    last_name: Alghurabi
+    name: smuhammed@ksaa.gov.sa
+    username: smuhammed@ksaa.gov.sa
+  - emails: aalsaghyir@ksaa.gov.sa
+    first_name: Atikah
+    institution: King Salman Global Academy For Arabic Language, KSA
+    last_name: Alzeghayer
+    name: aalsaghyir@ksaa.gov.sa
+    username: aalsaghyir@ksaa.gov.sa
+  - emails: a.altamimi@ksaa.gov.sa
+    first_name: Afrah
+    institution: King Salman Global Academy For Arabic Language, KSA
+    last_name: Altamimi
+    name: a.altamimi@ksaa.gov.sa
+    username: a.altamimi@ksaa.gov.sa
+  - emails: '****@ksaa.gov.sa'
+    first_name: Abdullah
+    google_scholar_id: https://scholar.google.com/citations?user=up6ahKwAAAAJ&hl=en&oi=sra
+    institution: Al-Imam Mohamed Ibn Saud Islamic University and Al-Imam Mohamed Ibn
+      Saud Islamic University
+    last_name: Alfaifi
+    name: Abdullah Alfaifi
+    username: ~Abdullah_Alfaifi1
+  - emails: '****@gmail.com'
+    first_name: Abdulrahman
+    google_scholar_id: https://scholar.google.com/citations?user=SrUncC4AAAAJ&hl=en
+    institution: Al-Imam Mohamed Ibn Saud Islamic University
+    last_name: Alosaimy
+    middle_name: M
+    name: Abdulrahman M Alosaimy
+    username: ~Abdulrahman_M_Alosaimy1
+  decision: '2025'
+  file: 64.pdf
+  id: 64
+  openreview_id: MEcPEWAK2l
+  pdf_file: d6ee0bd1570f757d60d7933848d0d5632d1c5095.pdf
+  title: 'BALSAM: A Platform for Benchmarking Arabic Large Language Models'
+- abstract: 'In this paper, we introduce TEDxTN, the first publicly available Tunisian
+    Arabic to English speech translation dataset. This work is in line with the ongoing
+    effort to mitigate the data scarcity obstacle for a number of Arabic dialects.
+    We collected, segmented, transcribed and translated 108 TEDx talks following our
+    internally developed annotations guidelines. The. collected talks represent 25
+    hours of speech
+    with code-switching that cover speakers with various accents from over 11 different
+    regions of Tunisia. We make the annotation guidelines
+    and corpus publicly available. This will enable the extension of TEDxTN to new
+    talks as they become available. We also report results
+    for strong baseline systems of Speech Recognition and Speech Translation using
+    multiple pre-trained and fine-tuned end-to-end models.
+    This corpus is the first open source and publicly available speech translation
+    corpus of Code-Switching Tunisian dialect. We believe that
+    this is a valuable resource that can motivate and facilitate further research
+    studying Tunisian Dialect.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@elyadata.com'
+    first_name: Fethi
+    google_scholar_id: https://scholar.google.fr/citations?user=2QsSGPkAAAAJ&hl=fr
+    institution: elyadata
+    last_name: Bougares
+    name: Fethi Bougares
+    username: ~Fethi_Bougares2
+  - dblp_id: https://dblp.org/pid/225/2472.html
+    emails: '****@univ-avignon.fr'
+    first_name: Salima
+    google_scholar_id: https://scholar.google.fr/citations?user=YEOWR7EAAAAJ&hl=fr
+    homepage: https://www.linkedin.com/in/salima-medhaffar-7b025a8a/
+    institution: Université d'Avignon
+    last_name: Mdhaffar
+    name: Salima Mdhaffar
+    orcid: https://orcid.org/0000-0002-8472-6890
+    username: ~Salima_Mdhaffar1
+  - emails: '****@elyadata.com'
+    first_name: Haroun
+    google_scholar_id: https://scholar.google.com/citations?user=wHb1k34AAAAJ&hl=en&oi=ao
+    institution: Elyadata
+    last_name: Elleuch
+    name: Haroun Elleuch
+    semantic_scholar_id: https://www.semanticscholar.org/author/Haroun-Elleuch/2221317644
+    username: ~Haroun_Elleuch1
+  - dblp_id: https://dblp.org/pid/66/7159
+    emails: '****@univ-avignon.fr'
+    first_name: Yannick
+    google_scholar_id: https://scholar.google.fr/citations?user=dQDAeBYAAAAJ&hl=fr&oi=ao
+    homepage: https://cv.archives-ouvertes.fr/yannick-esteve
+    institution: University of Avignon
+    last_name: Estève
+    name: Yannick Estève
+    orcid: https://orcid.org/0000-0002-3656-8883
+    semantic_scholar_id: https://www.semanticscholar.org/author/Y.-Estève/1736665
+    username: ~Yannick_Estève1
+  decision: '2025'
+  file: 67.pdf
+  id: 67
+  openreview_id: MpZgYTXBCE
+  pdf_file: 529171d24e7ca4ea9108510bd2fd9b66c146cca0.pdf
+  title: 'TEDxTN: A Three-way Speech Translation Corpus for Code-Switched Tunisian
+    Arabic - English'
+- abstract: Video-to-text and text-to-video retrieval are dominated by English benchmarks
+    (e.g. DiDeMo, MSR-VTT) and recent multilingual corpora (e.g. RUDDER), yet Arabic
+    remains underserved, lacking localized evaluation metrics. We introduce a three-stage
+    framework, AutoArabic, utilizing state-of-the-art large language models (LLMs)
+    to translate non-Arabic benchmarks into Modern Standard Arabic, reducing the manual
+    revision required by nearly fourfold. The framework incorporates an error detection
+    module that automatically flags potential translation errors with 97\% accuracy.
+    Applying the framework to DiDeMo, a video retrieval benchmark produces DiDeMo-AR,
+    an Arabic variant with 40,144 fluent Arabic descriptions. An analysis of the translation
+    errors is provided and organized into an insightful taxonomy to guide future Arabic
+    localization efforts. We train a CLIP-style baseline with identical hyperparameters
+    on the Arabic and English variants of the benchmark, finding a moderate performance
+    gap ($\Delta \approx 3$\,pp at Recall@1), indicating that Arabic localization
+    preserves benchmark difficulty. We evaluate three post-editing budgets (zero/
+    flagged-only/ full) and find that performance improves monotonically with more
+    post-editing, while the raw LLM output (zero-budget) remains usable. To ensure
+    reproducibility to other languages, we made the code available at https://github.com/Tahaalshatiri/AutoArabic.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@kaust.edu.sa'
+    first_name: Mohamed
+    google_scholar_id: https://scholar.google.com/citations?user=vYZodygAAAAJ&hl=en
+    last_name: Eltahir
+    name: Mohamed Eltahir
+    username: ~Mohamed_Eltahir1
+  - emails: '****@gmail.com'
+    first_name: Osamah
+    homepage: https://osraj.com/
+    last_name: Sarraj
+    name: Osamah Sarraj
+    username: ~Osamah_Sarraj1
+  - emails: '****@gmail.com'
+    first_name: Abdulrahman
+    last_name: Alfrihidi
+    middle_name: M.
+    name: Abdulrahman M. Alfrihidi
+    username: ~Abdulrahman_M._Alfrihidi1
+  - emails: '****@gmail.com'
+    first_name: Taha
+    google_scholar_id: https://scholar.google.com/citations?user=yK2jE-QAAAAJ&hl=en
+    last_name: Alshatiri
+    name: Taha Alshatiri
+    username: ~Taha_Alshatiri1
+  - emails: '****@gmail.com'
+    first_name: Mohammed
+    google_scholar_id: https://scholar.google.com/citations?user=uvW_L4wAAAAJ&hl=en
+    last_name: Khurd
+    name: Mohammed Khurd
+    username: ~Mohammed_Khurd1
+  - emails: '****@gmail.com'
+    first_name: Mohammed
+    google_scholar_id: https://scholar.google.com/citations?user=aao_g9kAAAAJ&hl=en
+    last_name: Bremoo
+    name: Mohammed Bremoo
+    username: ~Mohammed_Bremoo1
+  - dblp_id: https://dblp.org/pid/205/7268
+    emails: '****@edgehill.ac.uk'
+    first_name: Tanveer
+    google_scholar_id: https://scholar.google.com/citations?user=4fU0t_oAAAAJ&hl=en&authuser=2
+    institution: Edge Hill University
+    last_name: Hussain
+    name: Tanveer Hussain
+    orcid: https://orcid.org/0000-0003-4861-8347
+    username: ~Tanveer_Hussain1
+  decision: '2025'
+  file: 77.pdf
+  id: 77
+  openreview_id: UMTdrUHZ2b
+  pdf_file: ca484d629ee57cb6e0b48a109655ffb5c05b1cc7.pdf
+  title: 'AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks'
+- abstract: 'Arabic presents unique challenges for sense level language understanding
+    due to its rich morphology and semantic ambiguity. This
+    paper benchmarks large generative language models (LLMs) for Arabic Word Sense
+    Disambiguation (WSD) under both zero-shot and
+    fine-tuning conditions. We evaluate one proprietary model (GPT-4o) and three opensource
+    models (LLaMA 3.1-8B, Qwen 2.5-7B,
+    and Gemma 2-9B) on two publicly available datasets. In zero-shot settings, GPT-4o
+    achieved the highest overall performance, with
+    comparable results across both datasets, reaching 79% accuracy and an average
+    macro-F1 score of 66.08%. Fine-tuning, however, notably elevated all open models
+    beyond GPT4o’s zero-shot results. Qwen achieved the top scores on one dataset,
+    with an accuracy
+    of 90.77% and a macro-F1 score of 83.98%, while LLaMA scored highest on the other,
+    reaching an accuracy of 88.51% and a macroF1 score of 69.41%. These findings demonstrate
+    that parameter-efficient supervised adaptation can close much of the performance
+    gap and establish strong, reproducible baselines for Arabic WSD using open-source,
+    relatively medium-sized models. Full code is publicly available.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@uofk.edu'
+    first_name: Yossra
+    institution: University of Khartoum
+    last_name: Noureldien
+    name: Yossra Noureldien
+    username: ~Yossra_Noureldien1
+  - emails: '****@gmail.com'
+    first_name: Abdelrazig
+    last_name: Mohamed
+    name: Abdelrazig Mohamed
+    username: ~Abdelrazig_Mohamed1
+  - emails: '****@uofk.edu'
+    first_name: Farah
+    last_name: Attallah
+    name: Farah Attallah
+    username: ~Farah_Attallah1
+  decision: '2025'
+  file: 80.pdf
+  id: 80
+  openreview_id: rxjp06nU2i
+  pdf_file: 7ffee50548b344bcc2e2626d83d0d04f59cc1ddd.pdf
+  title: Zero-Shot and Fine-Tuned Evaluation of Generative LLMs for Arabic Word Sense Disambiguation
+- abstract: 'We introduce Nile-Chat-4B, 3x4B-A6B, and 12B, a collection of LLMs for
+    Egyptian dialect, uniquely designed to understand and generate texts written in
+    both Arabic and Latin scripts.
+    Specifically, with Nile-Chat-3x4B-A6B, we introduce a novel language adaptation
+    approach by leveraging the Branch-Train-MiX strategy to merge script-specialized
+    experts, into a single MoE model.
+    Our Nile-Chat models significantly outperform leading multilingual and Arabic
+    LLMs, such as LLaMa, Jais, and ALLaM, on our newly introduced Egyptian evaluation
+    benchmarks, which span both understanding and generative tasks. Notably, our 12B
+    model delivers a 14.4% performance gain over Qwen2.5-14B-Instruct on Latin-script
+    benchmarks.
+    All our resources are publicly available. We believe this work presents a comprehensive
+    methodology for adapting LLMs to a single language with dual-script usage, addressing
+    an often overlooked aspect in contemporary LLM development.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/220/3989
+    emails: '****@mbzuai.ac.ae'
+    first_name: Guokan
+    google_scholar_id: https://scholar.google.com/citations?user=EcBibPkAAAAJ
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Shang
+    name: Guokan Shang
+    semantic_scholar_id: https://www.semanticscholar.org/author/Guokan-Shang/46222231
+    username: ~Guokan_Shang1
+  - dblp_id: https://dblp.org/pid/292/2458
+    emails: '****@outlook.com'
+    first_name: Hadi
+    google_scholar_id: https://scholar.google.com/citations?user=yX24ZNQAAAAJ&hl=en&oi=sra
+    homepage: https://hadi-abdine.github.io
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Abdine
+    name: Hadi Abdine
+    orcid: https://orcid.org/0009-0001-3944-4747
+    semantic_scholar_id: https://www.semanticscholar.org/author/Hadi-Abdine/2088382179/
+    username: ~Hadi_Abdine1
+  - emails: '****@mbzuai.ac.ae'
+    first_name: Ahmad
+    google_scholar_id: https://scholar.google.com/citations?user=OzxzBdcAAAAJ&hl=en
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Chamma
+    name: Ahmad Chamma
+    username: ~Ahmad_Chamma1
+  - dblp_id: https://dblp.org/pid/396/2539
+    emails: '****@gmail.com'
+    first_name: Amr
+    google_scholar_id: https://scholar.google.com/citations?hl=fr&pli=1&authuser=1&user=v1ioXsoAAAAJ
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Mohamed
+    name: Amr Mohamed
+    semantic_scholar_id: https://www.semanticscholar.org/author/Amr-Mohamed/2323322173
+    username: ~Amr_Mohamed2
+  - emails: '****@gmail.com'
+    first_name: Mohamed
+    homepage: https://anwarvic.github.io
+    last_name: Anwar
+    name: Mohamed Anwar
+    username: ~Mohamed_Anwar1
+  - emails: '****@mbzuai.ac.ae'
+    first_name: Abdelaziz
+    google_scholar_id: https://scholar.google.com/citations?hl=fr&user=MeyZL18AAAAJ
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Bounhar
+    name: Abdelaziz BOUNHAR
+    username: ~Abdelaziz_BOUNHAR1
+  - emails: '****@nyu.edu'
+    first_name: Omar
+    last_name: El Herraoui
+    name: Omar El Herraoui
+    username: ~Omar_El_Herraoui1
+  - dblp_id: https://dblp.uni-trier.de/pid/19/1947
+    emails: '****@gmail.com'
+    first_name: Preslav
+    google_scholar_id: https://scholar.google.com/citations?user=DfXsKZ4AAAAJ
+    homepage: https://mbzuai.ac.ae/study/faculty/preslav-nakov/
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: Nakov
+    name: Preslav Nakov
+    orcid: https://orcid.org/0000-0002-3600-1510
+    semantic_scholar_id: https://www.semanticscholar.org/author/Preslav-Nakov/1683562
+    username: ~Preslav_Nakov2
+  - dblp_id: https://dblp.org/pid/v/MVazirgiannis
+    emails: '****@lix.polytechnique.fr'
+    first_name: Michalis
+    google_scholar_id: https://scholar.google.gr/citations?user=aWGJYcMAAAAJ&hl=el
+    institution: Ecole Polytechnique, France
+    last_name: Vazirgiannis
+    name: Michalis Vazirgiannis
+    username: ~Michalis_Vazirgiannis1
+  - dblp_id: https://dblp.org/pid/36/3855
+    emails: '****@cs.cmu.edu'
+    first_name: Eric
+    google_scholar_id: https://scholar.google.com.tw/citations?user=5pKTRxEAAAAJ
+    homepage: http://www.cs.cmu.edu/~epxing/
+    institution: Mohamed bin Zayed Univeristy of AI and School of Computer Science,
+      Carnegie Mellon University
+    last_name: Xing
+    middle_name: P.
+    name: Eric P. Xing
+    username: ~Eric_P._Xing1
+  decision: '2025'
+  file: 81.pdf
+  id: 81
+  openreview_id: 7flrGJetuN
+  pdf_file: dd741794918a2f48342689f74030559788e384bc.pdf
+  title: 'Nile-Chat: Egyptian Language Models for Arabic and Latin Scripts'
+- abstract: 'Post-training has emerged as a crucial technique for aligning pre-trained
+    Large Language Models (LLMs) with human instructions, significantly enhancing
+    their performance across a wide range of tasks. Central to this process is the
+    quality and diversity of post-training datasets. This paper presents a review
+    of publicly available Arabic post-training datasets on the Hugging Face Hub, organized
+    along four key dimensions: (1) LLM Capabilities (e.g., Question Answering, Translation,
+    Reasoning, Summarization, Dialogue, Code Generation, and Function Calling); (2)
+    Steerability (e.g., Persona and System Prompts); (3) Alignment (e.g., Cultural,
+    Safety, Ethics, and Fairness); and (4) Robustness. Each dataset is rigorously
+    evaluated based on popularity, practical adoption, recency and maintenance, documentation
+    and annotation quality, licensing transparency, and scientific contribution. Our
+    review revealed critical gaps in the development of Arabic post-training datasets,
+    including limited task diversity, inconsistent or missing documentation and annotation,
+    and low adoption across the community. Finally, the paper discusses the implications
+    of these gaps on the progress of Arabic-centric LLMs and applications while providing
+    concrete recommendations for future efforts in Arabic post-training dataset development.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@psau.edu.sa'
+    first_name: Mohammed
+    google_scholar_id: https://scholar.google.com/citations?user=CrzKM3AAAAAJ&hl=en
+    institution: Prince Sattam bin Abdulaziz University
+    last_name: Alkhowaiter
+    name: Mohammed Alkhowaiter
+    orcid: https://orcid.org/0009-0004-6842-1300
+    username: ~Mohammed_Alkhowaiter1
+  - emails: '****@ub.edu.sa'
+    first_name: Saied
+    google_scholar_id: https://scholar.google.com/citations?user=mrlIvuIAAAAJ&hl=en
+    institution: University of Bisha
+    last_name: Alshahrani
+    name: Saied Alshahrani
+    username: ~Saied_Alshahrani1
+  - emails: '****@clarksonalumni.com'
+    first_name: Norah
+    google_scholar_id: https://scholar.google.com/citations?authuser=2&user=VajLDDAAAAAJ
+    institution: ASAS AI
+    last_name: Alshahrani
+    middle_name: F
+    name: Norah F Alshahrani
+    username: ~Norah_F_Alshahrani1
+  - dblp_id: https://dblp.org/pid/232/2669
+    emails: '****@ucl.ac.uk'
+    first_name: Reem
+    google_scholar_id: https://scholar.google.com/citations?user=0DELbEUAAAAJ&hl=en
+    last_name: Masoud
+    middle_name: I.
+    name: Reem I. Masoud
+    semantic_scholar_id: https://www.semanticscholar.org/author/Reem-I.-Masoud/2291134907
+    username: ~Reem_I._Masoud1
+  - emails: '****@student.ksu.edu.sa'
+    first_name: Alaa
+    google_scholar_id: https://scholar.google.com/citations?user=H76z_oEAAAAJ&hl=en
+    institution: King Salman Global Academy for Arabic
+    last_name: Alzahrani
+    name: Alaa Alzahrani
+    orcid: https://orcid.org/0000-0002-9914-915X
+    username: ~Alaa_Alzahrani1
+  - dblp_id: https://dblp.org/pid/168/2711.html
+    emails: '****@illinois.edu'
+    first_name: Deema
+    google_scholar_id: https://scholar.google.com/citations?user=dpmtjPUAAAAJ&hl=en
+    homepage: https://deema-a.github.io/
+    institution: University of Illinois at Urbana-Champaign
+    last_name: Alnuhait
+    name: Deema Alnuhait
+    orcid: https://orcid.org/0000-0002-5082-8565
+    semantic_scholar_id: https://www.semanticscholar.org/author/Deema-Alnuhait/2428276
+    username: ~Deema_Alnuhait1
+  - emails: '****@humain.ai'
+    first_name: Emad
+    homepage: https://emad.ai
+    institution: HUMAIN
+    last_name: Alghamdi
+    middle_name: A.
+    name: Emad A. Alghamdi
+    username: ~Emad_A._Alghamdi1
+  - emails: '****@proton.me'
+    first_name: Khalid
+    homepage: https://faculty.psau.edu.sa/en/psau/facultymember/k.almubarak
+    institution: Humain
+    last_name: Almubarak
+    name: Khalid Almubarak
+    semantic_scholar_id: https://www.semanticscholar.org/author/Khalid-Almubarak/90615055
+    username: ~Khalid_Almubarak1
+  decision: '2025'
+  file: 84.pdf
+  id: 84
+  openreview_id: L05xxdiwpn
+  pdf_file: 4a477f3ae3848e3b9220b67492fefd3c618582a8.pdf
+  title: 'Mind the Gap: A Review of Arabic Post-Training Datasets and Their Limitations'
+- abstract: 'The linguistic fragmentation of Arabic, with over 30 dialects exhibiting
+    low mutual intelligibility, presents a critical challenge for deploying natural
+    language processing (NLP) in healthcare. Conventional fine-tuning of large language
+    models (LLMs) for each dialect is computationally prohibitive and operationally
+    unsustainable. In this study, we explore model merging as a scalable alternative
+    by integrating three pre-trained LLMs—a medical domain expert, an Egyptian Arabic
+    model, and a Moroccan Darija model—into a unified system without additional fine-tuning.
+    We introduce a novel evaluation framework that assesses both dialectal fidelity
+    via dual evaluation: LLM-based automated scoring and human assessments by native
+    speakers. Our results demonstrate that the merged model effectively handles cross-dialect
+    medical scenarios, such as interpreting Moroccan Darija inputs for Egyptian Arabic-speaking
+    clinicians, while maintaining high clinical relevance. The merging process reduced
+    computational cost by over 60\% compared to per-dialect fine-tuning, highlighting
+    its viability for resource-constrained settings. This work offers a promising
+    path for building dialect-aware medical LLMs at scale, with implications for broader
+    deployment across linguistically diverse regions.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@qatar-med.cornell.edu'
+    first_name: Ahmed
+    institution: Weill Cornell Medicine, Cornell University
+    last_name: Ibrahim
+    name: Ahmed Ibrahim
+    orcid: https://orcid.org/0009-0002-9217-4173
+    username: ~Ahmed_Ibrahim3
+  - emails: '****@qatar-med.cornell.edu'
+    first_name: Abdullah
+    last_name: Hosseini
+    name: Abdullah Hosseini
+    username: ~Abdullah_Hosseini1
+  - emails: '****@qatar-med.cornell.edu'
+    first_name: Hoda
+    last_name: Helmy
+    name: Hoda Helmy
+    orcid: https://orcid.org/0009-0009-8251-9351
+    username: ~Hoda_Helmy1
+  - dblp_id: https://dblp.org/pid/185/4794.html
+    emails: '****@hamad.qa'
+    first_name: Wafa
+    institution: Hamad Medical Corporation
+    last_name: la
+    name: Wafa la
+    username: ~Wafa_la1
+  - emails: '****@qatar-med.cornell.edu'
+    first_name: Ahmed
+    homepage: https://ahmed.serag.net
+    institution: Philips Research
+    last_name: Serag
+    name: Ahmed Serag
+    username: ~Ahmed_Serag2
+  decision: '2025'
+  file: 85.pdf
+  id: 85
+  openreview_id: bz2ivAWVcm
+  pdf_file: c4c478f8f41d54e49cfd40254269f3f97750c5d3.pdf
+  title: Bridging Dialectal Gaps in Arabic Medical LLMs through Model Merging
+- abstract: 'Tool calling is a critical capability that allows Large Language Models
+    (LLMs) to interact with external systems, significantly expanding their utility.
+    However, research and resources for tool calling are predominantly English-centric,
+    leaving a gap in our understanding of how to enable this functionality for other
+    languages, such as Arabic. This paper investigates three key research questions:
+    (1) the necessity of in-language (Arabic) tool-calling data versus relying on
+    cross-lingual transfer, (2) the effect of general-purpose instruction tuning on
+    tool-calling performance, and (3) the value of fine-tuning on specific, high-priority
+    tools. To address these questions, we conduct extensive experiments using base
+    and post-trained variants of an open-weight Arabic LLM. To enable this study,
+    we bridge the resource gap by translating and adapting two open-source tool-calling
+    datasets into Arabic. Our findings provide crucial insights into the optimal strategies
+    for developing robust tool-augmented agents for Arabic.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@gmail.com'
+    first_name: Asım
+    google_scholar_id: https://scholar.google.com/citations?user=Vu_XvfwAAAAJ&hl=en
+    homepage: https://github.com/asimokby
+    institution: Hamad Bin Khalifa University
+    last_name: Ersoy
+    name: Asım Ersoy
+    username: ~Asım_Ersoy1
+  - dblp_id: https://dblp.org/pid/231/2612
+    emails: '****@hbku.edu.qa'
+    first_name: Enes
+    google_scholar_id: https://scholar.google.com.tr/citations?user=AltBWsEAAAAJ&hl=en
+    institution: Qatar Computing Research Institute
+    last_name: Altinisik
+    name: Enes Altinisik
+    orcid: https://orcid.org/0000-0001-9300-6564
+    semantic_scholar_id: https://www.semanticscholar.org/author/Enes-Altinisik/52211685?sort=influence
+    username: ~Enes_Altinisik1
+  - emails: '****@live.com'
+    first_name: Kareem
+    google_scholar_id: https://scholar.google.com/citations?user=y7tlR6UAAAAJ&hl=en
+    homepage: https://www.kareemdarwish.com
+    institution: aiXplain Inc
+    last_name: Darwish
+    middle_name: Mohamed
+    name: Kareem Mohamed Darwish
+    username: ~Kareem_Mohamed_Darwish1
+  - emails: '****@hbku.edu.qa'
+    first_name: Husrev
+    google_scholar_id: https://scholar.google.com/citations?user=KGxrG0YAAAAJ&hl=en&oi=ao
+    institution: QCRI
+    last_name: Sencar
+    middle_name: Taha
+    name: Husrev Taha Sencar
+    username: ~Husrev_Taha_Sencar1
+  decision: '2025'
+  file: 87.pdf
+  id: 87
+  openreview_id: 9uixKGt4lR
+  pdf_file: e98f63f0574b14f0fcb3bb8005ace0b56e138618.pdf
+  title: 'Tool Calling for Arabic LLMs: Data Strategies and Instruction Tuning'
+- abstract: Despite the growing importance of online discourse, Arabic-speaking communities
+    lack platforms that support structured, culturally grounded debate. Mainstream
+    social media rarely fosters constructive engagement, often leading to polarization
+    and superficial exchanges. This paper proposes the development of a culturally
+    aware debate platform tailored to the values and traditions of Arabic-speaking
+    users, with a focus on leveraging advances in natural language processing (NLP).
+    We present findings from a user survey that explores experiences with existing
+    debate tools and expectations for future platforms. Besides, we analyze 30,000
+    English-language debate topics using large language models (LLMs) to assess their
+    cultural relevance and appropriateness for Arab audiences. We further examine
+    the ability of LLMs to generate new culturally resonant debate topics, contributing
+    to the emerging tasks of culture-aware topic assessment and generation. Finally,
+    we propose a theoretical and technical framework for building an NLP-supported
+    Arabic debate platform. Our work highlights the urgent need for culturally sensitive
+    NLP resources that foster critical thinking, digital literacy, and meaningful
+    deliberation in Arabic.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/31/8936
+    emails: '****@rug.nl'
+    first_name: Khalid
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=mcOX6PYAAAAJ
+    institution: University of Groningen
+    last_name: Khatib
+    middle_name: Al
+    name: Khalid Al Khatib
+    orcid: https://orcid.org/0009-0006-7255-5349
+    semantic_scholar_id: https://www.semanticscholar.org/author/Khalid-Al-Khatib/2248209
+    username: ~Khalid_Al_Khatib1
+  - emails: '****@qatardebate.org'
+    first_name: Mohammad
+    last_name: Khader
+    name: Mohammad Khader
+    username: ~Mohammad_Khader1
+  decision: '2025'
+  file: 89.pdf
+  id: 89
+  openreview_id: ktiLN25Jjm
+  pdf_file: 0b94eea4274012655cb9431a839c7103c1072af8.pdf
+  title: Toward Culturally-Aware Arabic Debate Platforms with NLP Support
+- abstract: 'Processing North African Arabic dialects
+    presents significant challenges due to high lexical variability, frequent code-switching
+    with
+    French, and the use of both Arabic and Latin
+    scripts. We address this with a phonemebased normalization strategy that maps
+    Arabic and French text into
+    a simplified representation (Arabic rendered
+    in Latin script), reflecting native reading patterns. Using this method, we pretrain
+    BERTbased models on normalized Modern Standard Arabic and French only and evaluate
+    them on Named Entity Recognition (NER)
+    and text classification. Experiments show that
+    normalized standard-language corpora yield
+    competitive performance on North African dialect tasks; in
+    zero-shot NER, Ar_20k surpasses dialectpretrained baselines. Normalization improves
+    vocabulary alignment, indicating that normalized standard corpora can suffice
+    for developing dialect-supportive'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@loria.fr'
+    first_name: Yassine
+    google_scholar_id: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yHRaHfKniCA7HDzgVKpMq_50pHCuGxzH5tC2o_lMaIc_tivN9iDv_xs3yb1_ZaQNXQzBn46evqYFoP6rlnnCsl&user=GF2_1uMAAAAJ
+    last_name: Toughrai
+    name: Yassine Toughrai
+    username: ~Yassine_Toughrai1
+  - dblp_id: https://dblp.org/pid/79/4349.html
+    emails: '****@loria.fr'
+    first_name: Kamel
+    google_scholar_id: https://scholar.google.com/citations?hl=fr&user=bL0qf7AAAAAJ
+    homepage: https://members.loria.fr/KSmaili/
+    institution: University of Lorraine
+    last_name: Smaïli
+    name: Kamel Smaïli
+    username: ~Kamel_Smaïli1
+  - dblp_id: https://dblp.org/pid/39/5596
+    emails: '****@loria.fr'
+    first_name: David
+    google_scholar_id: https://scholar.google.fr/citations?hl=fr&user=QTiBhUcAAAAJ
+    homepage: https://members.loria.fr/DLanglois
+    institution: Université de Lorraine
+    last_name: Langlois
+    name: David Langlois
+    orcid: https://orcid.org/0000-0001-7277-3668
+    semantic_scholar_id: https://www.semanticscholar.org/author/David-Langlois/145606686
+    username: ~David_Langlois1
+  decision: '2025'
+  file: 94.pdf
+  id: 94
+  openreview_id: X0x8WzSvne
+  pdf_file: 23d53ae37481e1ef5abca96beb7815d6846e8691.pdf
+  title: Modeling North African Dialects from Standard Languages
+- abstract: 'We address the task of reverse dictionary modeling in Arabic, where the
+    goal is to retrieve a target word given its definition. The task comprises two
+    subtasks: (1) generating embeddings for Arabic words based on Arabic glosses,
+    and (2) a cross-lingual setting where the gloss is in English and the target embedding
+    is for the corresponding Arabic word. Prior approaches have largely relied on
+    BERT models such as CAMeLBERT or MARBERT trained with mean squared error loss.
+    In contrast, we propose a novel ensemble architecture that combines MARBERTv2
+    with the encoder of AraBART, and we demonstrate that the choice of loss function
+    has a significant impact on performance. We apply contrastive loss to improve
+    representational alignment, and introduce structural and center losses to better
+    capture the semantic distribution of the dataset. This multi-loss framework enhances
+    the quality of the learned embeddings and leads to consistent improvements in
+    both monolingual and cross-lingual settings. Our system achieved the best rank
+    metric in both subtasks compared to the previous approaches. These results highlight
+    the effectiveness of combining architectural diversity with task-specific loss
+    functions in representational tasks for morphologically rich languages like Arabic.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@alexu.edu.eg'
+    first_name: Engy
+    last_name: Ibrahim
+    name: Engy Ibrahim
+    username: ~Engy_Ibrahim1
+  - emails: '****@alexu.edu.eg'
+    first_name: Farhah
+    last_name: Adel
+    name: Farhah Adel
+    username: ~Farhah_Adel1
+  - dblp_id: https://dblp.org/pid/98/8617.html
+    emails: '****@alexu.edu.eg'
+    first_name: Marwan
+    google_scholar_id: https://scholar.google.com/citations?user=aYLNZT4AAAAJ&hl=en
+    institution: Alexandria University
+    last_name: Torki
+    name: Marwan Torki
+    semantic_scholar_id: https://www.semanticscholar.org/author/Marwan-Torki/1864588
+    username: ~Marwan_Torki1
+  - emails: '****@alexu.edu.eg'
+    first_name: Nagwa
+    google_scholar_id: https://scholar.google.com.eg/citations?user=BJXdWawAAAAJ&hl=en
+    last_name: El-Makky
+    name: Nagwa El-Makky
+    orcid: https://orcid.org/0000-0002-9571-7543
+    username: ~Nagwa_El-Makky1
+  decision: '2025'
+  file: 99.pdf
+  id: 99
+  openreview_id: 4TPF8vpdvb
+  pdf_file: 722f053df3ad1c2b201bbb2cc0d1214b74e008f5.pdf
+  title: 'Learning Word Embeddings from Glosses: A Multi-Loss Framework for Arabic
+    Reverse Dictionary Tasks'
+- abstract: We introduce ALARB, a dataset and suite of tasks designed to evaluate
+    the reasoning capabilities of large language models (LLMs) within the Arabic legal
+    domain. While existing Arabic benchmarks cover some knowledge-intensive tasks
+    such as retrieval and understanding, substantial datasets focusing specifically
+    on multistep reasoning for Arabic LLMs, especially in open-ended contexts, are
+    lacking. The dataset comprises over 13K commercial court cases from Saudi Arabia,
+    with each case including the facts presented, the reasoning of the court, the
+    verdict, as well the cited clauses extracted from the regulatory documents. We
+    define a set of challenging tasks leveraging this dataset and reflecting the complexity
+    of real-world legal reasoning, including verdict prediction, completion of reasoning
+    chains in multistep legal arguments, and identification of relevant regulations
+    based on case facts. We benchmark a representative selection of current open and
+    closed Arabic LLMs on these tasks and demonstrate the dataset’s utility for instruction
+    tuning. Notably, we show that instruction tuning a modest 12B parameter model
+    using ALARB significantly enhances its performance in verdict prediction and Arabic
+    verdict generation, reaching a level comparable to that of GPT-4o.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/385/7136
+    emails: '****@kaust.edu.sa'
+    first_name: Harethah
+    google_scholar_id: https://scholar.google.com/citations?user=dP0TtbEAAAAJ&hl=en
+    institution: King Abdullah University of Science and Technology
+    last_name: Shairah
+    middle_name: Abu
+    name: Harethah Abu Shairah
+    semantic_scholar_id: https://www.semanticscholar.org/author/Harethah-Shairah/2315309401
+    username: ~Harethah_Abu_Shairah1
+  - emails: '****@thiqah.sa'
+    first_name: Somayah
+    institution: 'Thiqah for Business Services '
+    last_name: Alharbi
+    middle_name: S.
+    name: Somayah S. Alharbi
+    username: ~Somayah_S._Alharbi1
+  - emails: '****@outlook.com'
+    first_name: Abdulaziz
+    homepage: https://github.com/abdulazizalhussein
+    last_name: AlHussein
+    middle_name: A.
+    name: Abdulaziz A. AlHussein
+    username: ~Abdulaziz_A._AlHussein1
+  - emails: '****@kfupm.edu.sa'
+    first_name: Sameer
+    last_name: Alsabea
+    name: Sameer Alsabea
+    username: ~Sameer_Alsabea1
+  - emails: '****@kfupm.edu.sa'
+    first_name: Omar
+    last_name: Shaqaqi
+    name: Omar Shaqaqi
+    username: ~Omar_Shaqaqi1
+  - emails: '****@gmail.com'
+    first_name: Hebah
+    institution: Thiqah
+    last_name: Alshamlan
+    middle_name: A.
+    name: Hebah A. Alshamlan
+    username: ~Hebah_A._Alshamlan1
+  - emails: '****@kaust.edu.sa'
+    first_name: Omar
+    google_scholar_id: https://scholar.google.com/citations?user=KuvOKcwAAAAJ&hl=en
+    homepage: https://www.kaust.edu.sa/en/study/faculty/omar-knio
+    institution: King Abdullah University of Science and Technology
+    last_name: Knio
+    name: Omar Knio
+    username: ~Omar_Knio1
+  - dblp_id: https://dblp.org/pid/t/GeorgeMTurkiyyah.html
+    emails: '****@kaust.edu.sa'
+    first_name: George
+    google_scholar_id: https://scholar.google.com/citations?user=hJEdkhYAAAAJ&hl=en
+    institution: King Abdullah University of Science and Technology
+    last_name: Turkiyyah
+    name: George Turkiyyah
+    semantic_scholar_id: https://www.semanticscholar.org/author/G.-Turkiyyah/3283022
+    username: ~George_Turkiyyah2
+  decision: '2025'
+  file: 102.pdf
+  id: 102
+  openreview_id: khdwxam2lQ
+  pdf_file: c2f47e2f1c4c060f2f43a27eacc52e166243eead.pdf
+  title: 'ALARB: An Arabic Legal Argument Reasoning Benchmark'
+- abstract: 'Argument mining for Arabic remains underexplored, largely due to the
+    scarcity of annotated corpora. To address this gap, we examine the effectiveness
+    of cross-lingual transfer from English. Using the English Persuasive Essays (PE)
+    corpus, annotated with argumentative components (Major Claim, Claim, and Premise),
+    we explore several transfer strategies: training encoder-based multilingual and
+    monolingual models on English data, machine-translated Arabic data, and their
+    combination. We further assess the impact of annotation noise introduced during
+    translation by manually correcting portions of the projected training data. In
+    addition, we investigate the potential of prompting large language models (LLMs)
+    for the task. Experiments on a manually corrected Arabic test set show that monolingual
+    models trained on translated data achieve the strongest performance, with further
+    improvements from small-scale manual correction of training examples.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/382/9889
+    emails: '****@rug.nl'
+    first_name: Sara
+    google_scholar_id: https://scholar.google.com/citations?user=RZXGO9MAAAAJ&hl=en
+    last_name: Nabhani
+    name: Sara Nabhani
+    orcid: https://orcid.org/0009-0003-0599-5756
+    username: ~Sara_Nabhani2
+  - dblp_id: https://dblp.org/pid/31/8936
+    emails: '****@rug.nl'
+    first_name: Khalid
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=mcOX6PYAAAAJ
+    institution: University of Groningen
+    last_name: Khatib
+    middle_name: Al
+    name: Khalid Al Khatib
+    orcid: https://orcid.org/0009-0006-7255-5349
+    semantic_scholar_id: https://www.semanticscholar.org/author/Khalid-Al-Khatib/2248209
+    username: ~Khalid_Al_Khatib1
+  decision: '2025'
+  file: 104.pdf
+  id: 104
+  openreview_id: GFjJTgBGUO
+  pdf_file: b94f275910a6801cb91d5051610b4dc892a86b9a.pdf
+  title: Transfer or Translate? Argument Mining in Arabic with No Native Annotations
+- abstract: While Knowledge Editing (KE) has been widely explored in English, its
+    behavior in morphologically rich languages like Arabic remains underexamined.
+    In this work, we present the first study of Arabic KE. We evaluate four methods
+    (ROME, MEMIT, ICE, and LTE) on Arabic translations of the ZsRE and Counterfact
+    benchmarks, analyzing both multilingual and cross-lingual settings. Our experiments
+    on Llama-2-7B-chat show show that parameter-based methods struggle with cross-lingual
+    generalization, while instruction-tuned methods perform more robustly. We extend
+    Learning-To-Edit (LTE) to a multilingual setting and show that joint Arabic-English
+    training improves both editability and transfer. We release Arabic KE benchmarks
+    and multilingual training for LTE data to support future research.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/322/3648.html
+    emails: '****@hbku.edu.qa'
+    first_name: Basel
+    google_scholar_id: https://scholar.google.com/citations?user=c5nG1eIAAAAJ&hl=en
+    institution: Qatar Computing Research Institute
+    last_name: Mousi
+    name: Basel Mousi
+    username: ~Basel_Mousi1
+  - dblp_id: https://dblp.org/pid/54/9012
+    emails: '****@gmail.com'
+    first_name: Nadir
+    google_scholar_id: https://scholar.google.co.uk/citations?user=K6uisFAAAAAJ&hl=en
+    homepage: https://nadirdurrani.github.io/
+    institution: Qatar Computing Research Institute
+    last_name: Durrani
+    name: Nadir Durrani
+    orcid: https://orcid.org/0000-0002-9378-4128
+    semantic_scholar_id: https://www.semanticscholar.org/author/Nadir-Durrani/145938140
+    username: ~Nadir_Durrani1
+  - dblp_id: https://dblp.org/pid/194/2537
+    emails: '****@hbku.edu.qa'
+    first_name: Fahim
+    google_scholar_id: https://scholar.google.com/citations?user=uQGCv10AAAAJ&hl=en
+    homepage: https://fdalvi.github.io
+    institution: Hamad Bin Khalifa University
+    last_name: Dalvi
+    name: Fahim Dalvi
+    semantic_scholar_id: https://www.semanticscholar.org/author/Fahim-Dalvi/6415321
+    username: ~Fahim_Dalvi1
+  decision: '2025'
+  file: 107.pdf
+  id: 107
+  openreview_id: oocVCpl698
+  pdf_file: f5b9daaf550bbd2a5d092dd96cf6dd5dd1fcfeba.pdf
+  title: An Exploration of Knowledge Editing for Arabic
+- abstract: We present Octopus, a first family of modular speech-language models designed
+    for Arabic-English ASR, dialect identification, and speech translation. Built
+    on Whisper-V3 and enhanced with large language models like ALLaM, LLaMA, and DeepSeek,
+    Octopus bridges speech and text through a lightweight projection layer and Q-Former.
+    To broaden its scope beyond speech, Octopus integrates BEATs, a general-purpose
+    audio encoder allowing it to understand both linguistic and acoustic events. Despite
+    its simplicity, this dual-encoder design supports robust performance across multilingual
+    and code-switched scenarios. We also introduce TinyOctopus, a distilled variant
+    using smaller models (Distil-Whisper + LLaMA3-1B / DeepSeek-1.5B), achieving competitive
+    results with just a fraction of the parameters. Fine-tuning on synthetic code-switched
+    data further boosts its performance. Octopus demonstrates the power of compact,
+    extensible architectures in Arabic-centric speech modeling and sets the stage
+    for unified multilingual audio-language understanding.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@humain.ai'
+    first_name: Sara
+    google_scholar_id: https://scholar.google.com/citations?user=5q4MyzUAAAAJ
+    last_name: Althubaiti
+    name: Sara Althubaiti
+    orcid: https://orcid.org/0000-0001-5754-8569
+    username: ~Sara_Althubaiti1
+  - emails: '****@gmail.com'
+    first_name: Vasista
+    google_scholar_id: https://scholar.google.com/citations?user=UzsR2V8AAAAJ&hl=en
+    last_name: Lodagala
+    middle_name: Sai
+    name: Vasista Sai Lodagala
+    username: ~Vasista_Sai_Lodagala1
+  - emails: tclark@humain.ai
+    first_name: Tjad
+    institution: Humain
+    last_name: Clark
+    name: Tjad Clark
+    username: tclark@humain.ai
+  - emails: '****@humain.ai'
+    first_name: Yousseif
+    institution: Humain
+    last_name: Elshahawy
+    middle_name: Ahmed
+    name: Yousseif Ahmed Elshahawy
+    username: ~Yousseif_Ahmed_Elshahawy1
+  - emails: mizham@humain.ai
+    first_name: Daniel
+    institution: Humain
+    last_name: Izham
+    name: mizham@humain.ai
+    username: mizham@humain.ai
+  - emails: arajeh@humain.ai
+    first_name: Abdullah
+    institution: Humain
+    last_name: Alrajeh
+    name: arajeh@humain.ai
+    username: arajeh@humain.ai
+  - emails: '****@humain.ai'
+    first_name: Aljawahrah
+    last_name: Bin Tamran
+    name: Aljawahrah
+    username: ~Aljawahrah1
+  - dblp_id: https://dblp.org/pid/22/1217-2.html
+    emails: '****@ieee.org'
+    first_name: Ahmed
+    google_scholar_id: https://scholar.google.com/citations?user=t0gYEjAAAAAJ&hl=en
+    homepage: https://www.hbku.edu.qa/en/staff/dr-ahmed-ali
+    institution: Saudi Data and AI Authority, Saudi Data and AI Authority
+    last_name: Ali
+    name: Ahmed Ali
+    username: ~Ahmed_Ali1
+  decision: '2025'
+  file: 108.pdf
+  id: 108
+  openreview_id: w3Ck50lmS5
+  pdf_file: 2543ca2aa8072de1dce02b994f507800a4dc8073.pdf
+  title: 'Octopus: Towards Building the Arabic Speech LLM Suite'
+- abstract: The quality of training data plays a critical role in the performance
+    of large language models (LLMs). This is especially true for low-resource languages
+    where high-quality content is relatively scarce. Inspired by the success of FineWeb-Edu
+    for English, we construct a native Arabic educational-quality dataset using similar
+    methodological principles. We begin by sampling 1 million Arabic web documents
+    from Common Crawl and labeling them into six quality classes (0–5) with Qwen-2.5-72B-Instruct
+    model using a classification prompt adapted from FineWeb-Edu. These labeled examples
+    are used to train a robust classifier capable of distinguishing educational content
+    from general web text. We train a classification head on top of a multilingual
+    300M encoder model, then use this classifier to filter a large Arabic web corpus,
+    discarding documents with low educational value. To evaluate the impact of this
+    curation, we pretrain from scratch two bilingual English-Arabic  7B LLMs on 800
+    billion tokens using the filtered and unfiltered data and compare their performance
+    across a suite of benchmarks. Our results show a significant improvement when
+    using the filtered educational dataset, validating the effectiveness of quality
+    filtering as a component in a balanced data mixture for Arabic LLM development.
+    This work addresses the scarcity of high-quality Arabic training data and offers
+    a scalable methodology for curating educational quality content in low-resource
+    languages.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/134/3554
+    emails: '****@gmail.com'
+    first_name: Majd
+    google_scholar_id: https://scholar.google.co.uk/citations?user=dvTSHIkAAAAJ
+    last_name: Hawasly
+    name: Majd Hawasly
+    orcid: https://orcid.org/0000-0003-1823-5580
+    semantic_scholar_id: https://www.semanticscholar.org/author/Majd-Hawasly/2762811
+    username: ~Majd_Hawasly2
+  - dblp_id: https://dblp.org/pid/220/3296
+    emails: '****@e.ntu.edu.sg'
+    first_name: Tasnim
+    google_scholar_id: https://scholar.google.com/citations?user=raW_wZYAAAAJ&hl=en
+    homepage: http://taasnim.github.io
+    institution: Qatar Computing Research Institute
+    last_name: Mohiuddin
+    name: Tasnim Mohiuddin
+    semantic_scholar_id: https://www.semanticscholar.org/author/Tasnim-Mohiuddin/6838342
+    username: ~Tasnim_Mohiuddin1
+  - dblp_id: https://dblp.org/pid/146/4030
+    emails: '****@hbku.edu.qa'
+    first_name: Hamdy
+    google_scholar_id: https://scholar.google.com/citations?user=usvY6qYAAAAJ&hl=en
+    homepage: https://www.hbku.edu.qa/en/staff/dr-hamdy-mubarak-hussien
+    last_name: Mubarak
+    name: Hamdy Mubarak
+    orcid: https://orcid.org/0000-0003-4828-6098
+    semantic_scholar_id: https://www.semanticscholar.org/author/Hamdy-Mubarak/143779235
+    username: ~Hamdy_Mubarak2
+  - dblp_id: https://dblp.org/pid/85/380
+    emails: '****@gmail.com'
+    first_name: Sabri
+    google_scholar_id: https://scholar.google.nl/citations?user=EhFf3j0AAAAJ&hl=en
+    institution: Qatar Computing Research Institute
+    last_name: Boughorbel
+    name: Sabri Boughorbel
+    orcid: https://orcid.org/0000-0003-2734-3356
+    username: ~Sabri_Boughorbel1
+  decision: '2025'
+  file: 111.pdf
+  id: 111
+  openreview_id: mzrublWlqF
+  pdf_file: 9b2261337040ddb2248c2778f036ea09f1e536e8.pdf
+  title: 'ArabicWeb-Edu: Educational Quality Data for Arabic LLM Training'
+- abstract: 'In this paper, we present the Arabic Multimodal Crawl (AMCrawl), the
+    first native-based Arabic multimodal dataset to our knowledge, derived from the
+    Common Crawl corpus and rigorously filtered for quality and safety. Image-text
+    pair datasets are the standard choice for pretraining multimodal large language
+    models. However, they are often derived from image alt-text metadata, which is
+    typically brief and context-poor, disconnecting images from their broader meaning.
+    Although significant advances have been made in building interleaved image-text
+    datasets for English, such as the OBELICS dataset, a substantial gap remains for
+    native Arabic content. Our processing covered 8.6 million Arabic web pages, yielding
+    5.8 million associated images and 1.3 billion text tokens. The final dataset includes
+    interleaved image-text documents and question-answer pairs, featuring 2.8 million
+    high-quality interleaved documents and 5 million QA pairs. Alongside the dataset,
+    we release the complete pipeline and code, ensuring reproducibility and encouraging
+    further research and development. To demonstrate the effectiveness of AMCrawl,
+    we introduce a publicly available native Arabic Vision Language model, trained
+    with 13 billion parameters. These models achieve competitive results when benchmarked
+    against publicly available datasets. AMCrawl bridges a critical gap in Arabic
+    multimodal resources, providing a robust foundation for developing Arabic multimodal
+    large language models and fostering advancements in this underrepresented area.
+    Code: github.com/shahad-aboukozzana/AMCrawl'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@sdaia.gov.sa'
+    first_name: Shahad
+    google_scholar_id: https://scholar.google.com/citations?view_op=list_works&hl=ar&user=6ZUKA7UAAAAJ
+    last_name: Aboukozzana
+    name: Shahad Aboukozzana
+    username: ~Shahad_Aboukozzana1
+  - emails: '****@sdaia.gov.sa'
+    first_name: Muhammad
+    google_scholar_id: https://scholar.google.ca/citations?user=W36rqpsAAAAJ&hl=en
+    last_name: Khan
+    middle_name: Kamran J
+    name: Muhammad Kamran J Khan
+    username: ~Muhammad_Kamran_J_Khan1
+  - dblp_id: https://dblp.org/pid/22/1217-2.html
+    emails: '****@ieee.org'
+    first_name: Ahmed
+    google_scholar_id: https://scholar.google.com/citations?user=t0gYEjAAAAAJ&hl=en
+    homepage: https://www.hbku.edu.qa/en/staff/dr-ahmed-ali
+    institution: Saudi Data and AI Authority, Saudi Data and AI Authority
+    last_name: Ali
+    name: Ahmed Ali
+    username: ~Ahmed_Ali1
+  decision: '2025'
+  file: 122.pdf
+  id: 122
+  openreview_id: BNvFqWMZZV
+  pdf_file: c0bd34490cb2535a8a553d133b324afbc162277e.pdf
+  title: 'AMCrawl: An Arabic Web-Scale Dataset of Interleaved Image-Text Documents
+    and Image-Text Pairs'
+- abstract: 'Grapheme-to-phoneme (G2P) models are essential components in text-to-speech  (TTS)
+    and pronunciation assessment applications. While standard forms of languages have
+    gained attention in that regard, dialectal speech, which often serves as the primary
+    means of spoken communication for many communities, as it is the case for Arabic,
+    has not received the same level of focus. In this paper, we introduce  an
+    end-to-end dialectal G2P for Egyptian Arabic, a dialect without standard orthography.
+    Our novel architecture accomplishes three tasks: (i) restores short vowels of
+    the diacritical marks for the dialectal text; (ii) maps certain characters that
+    happen only in the spoken version of the dialectal Arabic to their dialect-specific
+    character transcriptions; and finally (iii) converts the previous step output  to
+    the corresponding phoneme sequence. We benchmark G2P on a modular cascaded system,
+    a large language model, and our multi-task end-to-end architecture.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/134/3554
+    emails: '****@gmail.com'
+    first_name: Majd
+    google_scholar_id: https://scholar.google.co.uk/citations?user=dvTSHIkAAAAJ
+    last_name: Hawasly
+    name: Majd Hawasly
+    orcid: https://orcid.org/0000-0003-1823-5580
+    semantic_scholar_id: https://www.semanticscholar.org/author/Majd-Hawasly/2762811
+    username: ~Majd_Hawasly2
+  - dblp_id: https://dblp.org/pid/146/4030
+    emails: '****@hbku.edu.qa'
+    first_name: Hamdy
+    google_scholar_id: https://scholar.google.com/citations?user=usvY6qYAAAAJ&hl=en
+    homepage: https://www.hbku.edu.qa/en/staff/dr-hamdy-mubarak-hussien
+    last_name: Mubarak
+    name: Hamdy Mubarak
+    orcid: https://orcid.org/0000-0003-4828-6098
+    semantic_scholar_id: https://www.semanticscholar.org/author/Hamdy-Mubarak/143779235
+    username: ~Hamdy_Mubarak2
+  - dblp_id: https://dblp.org/pid/48/5636.html/
+    emails: ahmed.abdelali@gmail.com
+    first_name: Ahmed
+    google_scholar_id: https://scholar.google.com/citations?user=ib1BYugAAAAJ
+    homepage: https://www.hbku.edu.qa/en/staff/dr-ahmed-abdelali
+    institution: Humain
+    last_name: Abdelali
+    name: Ahmed Abdelali
+    username: ~Ahmed_Abdelali3
+  - dblp_id: https://dblp.org/pid/22/1217-2.html
+    emails: '****@ieee.org'
+    first_name: Ahmed
+    google_scholar_id: https://scholar.google.com/citations?user=t0gYEjAAAAAJ&hl=en
+    homepage: https://www.hbku.edu.qa/en/staff/dr-ahmed-ali
+    institution: Saudi Data and AI Authority, Saudi Data and AI Authority
+    last_name: Ali
+    name: Ahmed Ali
+    username: ~Ahmed_Ali1
+  decision: '2025'
+  file: 126.pdf
+  id: 126
+  openreview_id: fhZ6FTNuC8
+  pdf_file: e6f73802f3e4e21621b24413a7eb6bbb91a68c48.pdf
+  title: 'DialG2P: Dialectal Grapheme-to-Phoneme. Arabic as a Case Study'
+- abstract: 'Content-grounded dialogue evaluation for Arabic remains under-resourced,
+    particularly across Modern Standard (MSA), Egyptian, and Maghrebi varieties. We
+    introduce Shawarma Chats, a benchmark of 30,000 six-turn conversations grounded
+    in Wikipedia content, evenly split across the three dialects.
+    To build this corpus, we prompt five frontier LLMs GPT-4o, Gemini 2.5 Flash, Qwen-Plus,
+    DeepSeek-Chat, and Mistral Large to generate 1,500 seed dialogues. Native Arabic
+    speakers evaluate these outputs to select the most effective generator and most
+    human-aligned grader. Sub-A dialogues undergo a two-pass, rationale-driven self-repair
+    loop where the grader critiques and the generator revises; unresolved cases are
+    manually corrected. We apply this pipeline to 10,000 Wikipedia paragraphs to create
+    30,000 high-quality conversations 10,000 per dialect—at modest human cost. To
+    validate the benchmark, we LoRA-fine-tune six open LLMs (1–24 B parameters) on
+    Shawarma Chats and observe consistent gains in automatic-grader scores, BERTScore,
+    BLEU and ROUGE particularly for models larger than 7 B parameters.
+    Shawarma Chats thus establishes the first large-scale, dialect-aware, content-grounded
+    dialogue benchmark for Arabic.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: '****@unisi.it'
+    first_name: Kamyar
+    google_scholar_id: https://scholar.google.com/citations?user=RewxhZwAAAAJ&hl=en
+    homepage: https://sailab.diism.unisi.it/people/kamyar-zeinalipour/
+    last_name: Zeinalipour
+    name: Kamyar Zeinalipour
+    username: ~Kamyar_Zeinalipour1
+  - emails: '****@student.unisi.it'
+    first_name: Mohamed
+    last_name: Saad
+    middle_name: Zaky
+    name: Mohamed Zaky Saad
+    username: ~Mohamed_Zaky_Saad1
+  - emails: '****@student.unisi.it'
+    first_name: Oumaima
+    institution: University of Siena and Università degli Studi di Siena
+    last_name: Attafi
+    name: Oumaima Attafi
+    orcid: https://orcid.org/0009-0008-4543-7616
+    username: ~Oumaima_Attafi1
+  - dblp_id: https://dblp.org/pid/59/1233
+    emails: '****@unisi.it'
+    first_name: Marco
+    google_scholar_id: https://scholar.google.com/citations?user=kZFskCoAAAAJ
+    homepage: http://sailab.diism.unisi.it/people/marco-maggini/
+    last_name: Maggini
+    name: Marco Maggini
+    orcid: https://orcid.org/0000-0002-6428-1265
+    semantic_scholar_id: https://www.semanticscholar.org/author/Marco-Maggini/2252375458
+    username: ~Marco_Maggini1
+  - dblp_id: https://dblp.org/pid/g/MarcoGori
+    emails: '****@gmail.com'
+    first_name: Marco
+    homepage: http://sailab.diism.unisi.it/people/marco-gori/
+    institution: University of Siena
+    last_name: Gori
+    name: Marco Gori
+    orcid: https://orcid.org/0000-0001-6337-5430
+    username: ~Marco_Gori1
+  decision: '2025'
+  file: 78.pdf
+  id: 78
+  openreview_id: wz67qNMx6w
+  pdf_file: 84c6629edc24172456748bcd2c27f2f58793fb4f.pdf
+  title: 'Shawarma Chats: A Benchmark Exact Dialogue & Evaluation Platter in Egyptian,
+    Maghrebi & Modern Standard Arabic—A Triple-Dialect Feast for Hungry Language Models'

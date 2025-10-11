@@ -1,0 +1,48 @@
+book_title: Proceedings of The Third Arabic Natural Language Processing Conference
+event_name: The Third Arabic Natural Language Processing Conference
+volume_name: Shared Tasks
+cover_subtitle: Volume 2. Proceedings of the ArabicNLP 2025 Shared Tasks
+anthology_venue_id: ArabicNLP
+start_date: 2025-11-08
+end_date: 2025-11-09
+isbn: TBD
+location: Suzhou, China
+editors:
+  - first_name: Kareem
+    last_name: Darwish
+  - first_name: Ahmed
+    last_name: Ali
+  - first_name: Ibrahim
+    last_name: Abu Farha
+  - first_name: Samia
+    last_name: Touileb
+  - first_name: Imed
+    last_name: Zitouni
+  - first_name: Ahmed
+    last_name: Abdelali
+  - first_name: Sharefah
+    last_name: Al-Ghamdi
+  - first_name: Sakhar
+    last_name: Alkhereyf
+  - first_name: Wajdi
+    last_name: Zaghouani
+  - first_name: Salam
+    last_name: Khalifa
+  - first_name: Badr
+    last_name: AlKhamissi
+  - first_name: Rawan
+    last_name: Almatham
+  - first_name: Injy
+    last_name: Hamed
+  - first_name: Zaid
+    last_name: Alyafeai
+  - first_name: Areeb
+    last_name: Alowisheq
+  - first_name: Go
+    last_name: Inoue
+  - first_name: Khalil
+    last_name: Mrini
+  - first_name: Waad
+    last_name: Alshammari
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of The Third Arabic Natural Language Processing Conference (ArabicNLP 2024)

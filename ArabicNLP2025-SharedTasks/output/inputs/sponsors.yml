@@ -1,0 +1,11 @@
+- tier: Platinum
+  logos:
+    - google.png
+    - SCAI.png
+- tier: Gold
+  logos:
+    - majarra.png
+- tier: Silver
+  logos:
+    - lisan.png
+    - arabic_ai.png

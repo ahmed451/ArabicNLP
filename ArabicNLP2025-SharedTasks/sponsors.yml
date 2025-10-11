@@ -1,0 +1,8 @@
+- tier: Platinum
+  logos:
+    - humain.png
+    - google.png
+- tier: Gold
+  logos:
+    - camelLab.png
+    - clinicalAiLab.jpg
