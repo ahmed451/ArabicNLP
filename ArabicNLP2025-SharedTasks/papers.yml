@@ -623,7 +623,7 @@
       institution: 'Institute '
       last_name: Fairooz Chowdhury
     - emails: '****@gmail.com'
-      first_name: MD
+      first_name: Md
       institution: 'Institute '
       last_name: Sagor Chowdhury
 - id: 308
@@ -1960,9 +1960,9 @@
       institution: 'Institute '
       last_name: Sibaee
     - emails: '****@gmail.com'
-      first_name: OMER
+      first_name: Omer
       institution: 'Institute '
-      last_name: NACAR
+      last_name: Nacar
     - emails: '****@gmail.com'
       first_name: Adel
       institution: 'Institute '
@@ -1996,9 +1996,9 @@
       institution: 'Institute '
       last_name: Olalekan Abiola
     - emails: '****@gmail.com'
-      first_name: OLUWATOBI
+      first_name: Oluwatobi
       institution: 'Institute '
-      last_name: JOSEPH ABIOLA
+      last_name: Joseph Abiola
     - emails: '****@gmail.com'
       first_name: Ogunleye
       institution: 'Institute '
@@ -2130,9 +2130,9 @@
       institution: 'Institute '
       last_name: Ben Chaabene
     - emails: '****@gmail.com'
-      first_name: OMAR
+      first_name: Omar
       institution: 'Institute '
-      last_name: TRIGUI
+      last_name: Trigui
 - id: 814
   file: 814.pdf
   openreview_id: hAME5sYz2Q
@@ -2262,7 +2262,7 @@
   abstract: ''
   authors:
     - emails: '****@gmail.com'
-      first_name: MD
+      first_name: Md
       institution: 'Institute '
       last_name: Sagor Chowdhury
     - emails: '****@gmail.com'
@@ -2647,10 +2647,10 @@
     submitted_area: ''
   authors:
   - emails: ~Fakhraddin_Alwajih1
-    first_name: ~Fakhraddin_Alwajih1
+    first_name: Fakhraddin
     institution: NA
-    last_name: ~Fakhraddin_Alwajih1
-    name: ~Fakhraddin_Alwajih1
+    last_name: Alwajih
+    name: Fakhraddin Alwajih
     username: ~Fakhraddin_Alwajih1
   - dblp_id: https://dblp.org/pid/247/4927
     emails: '****@gmail.com'
