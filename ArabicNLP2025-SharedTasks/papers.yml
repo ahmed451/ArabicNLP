@@ -131,9 +131,9 @@
   abstract: ''
   authors:
     - emails: '****@gmail.com'
-      first_name: THAMER
+      first_name: Thamer
       institution: 'Institute '
-      last_name: MASEER ALHARBI
+      last_name: Maseer Alharbi
 - id: 202
   file: 202.pdf
   openreview_id: KDvrOt1ewp
@@ -163,9 +163,9 @@
       institution: 'Institute '
       last_name: Zita
     - emails: '****@gmail.com'
-      first_name: ATTIA
+      first_name: Attia
       institution: 'Institute '
-      last_name: NEHAR
+      last_name: Nehar
     - emails: '****@gmail.com'
       first_name: Abdelkader
       institution: 'Institute '
@@ -227,9 +227,9 @@
   abstract: ''
   authors:
     - emails: '****@gmail.com'
-      first_name: OMER
+      first_name: Omer
       institution: 'Institute '
-      last_name: NACAR
+      last_name: Nacar
     - emails: '****@gmail.com'
       first_name: Mahmoud
       institution: 'Institute '
@@ -605,7 +605,7 @@
 - id: 306
   file: 306.pdf
   openreview_id: 9Hg1Qhopo7
-  title: '$$MindLLM at AraHealthQA 2025 Track 1: Leveraging Large Language Models for Mental Health Question Answering$$'
+  title: 'MindLLM at AraHealthQA 2025 Track 1: Leveraging Large Language Models for Mental Health Question Answering'
   abstract: ''
   authors:
     - emails: '****@gmail.com'
@@ -704,8 +704,8 @@
       last_name: Mohamed Koritam
     - emails: '****@gmail.com'
       first_name: Marwa
-      institution: 'Institute '
-      last_name: ELDeeb
+      institution: 'Institute 
+      last_name: Eldeeb
     - emails: '****@gmail.com'
       first_name: Ensaf
       institution: 'Institute '
@@ -939,9 +939,9 @@
       institution: 'Institute '
       last_name: Sibaee
     - emails: '****@gmail.com'
-      first_name: OMER
+      first_name: Omer
       institution: 'Institute '
-      last_name: NACAR
+      last_name: Nacar
     - emails: '****@gmail.com'
       first_name: Yasser
       institution: 'Institute '
@@ -1123,7 +1123,7 @@
     - emails: '****@gmail.com'
       first_name: Anya
       institution: 'Institute '
-      last_name: Amel NAIT DJOUDI
+      last_name: Amel Nait Djoudi
     - emails: '****@gmail.com'
       first_name: Patrice
       institution: 'Institute '
@@ -1254,9 +1254,9 @@
   abstract: ''
   authors:
     - emails: '****@gmail.com'
-      first_name: ABDULKADIR
+      first_name: Abdulkadir
       institution: 'Institute '
-      last_name: SHEHU BICHI
+      last_name: Shehu Bichi
 - id: 503
   file: 503.pdf
   openreview_id: 0fULeRiWav
@@ -1326,9 +1326,9 @@
       institution: 'Institute '
       last_name: Tanvir Ahammed Shawon
     - emails: '****@gmail.com'
-      first_name: MUHAMMAD
+      first_name: Muhammad
       institution: 'Institute '
-      last_name: IBRAHIM KHAN
+      last_name: Ibrahim Khan
 - id: 508
   file: 508.pdf
   openreview_id: Ecam7wSrRr
@@ -1447,10 +1447,10 @@
     semantic_scholar_id: https://www.semanticscholar.org/author/Nada-AlMarwani/3449703
     username: ~Nada_Almarwani1
   - emails: omniaabdo89@gmail.com
-    first_name: omniaabdo89@gmail.com
+    first_name: Omnia
     institution: NA
-    last_name: omniaabdo89@gmail.com
-    name: omniaabdo89@gmail.com
+    last_name: Ibrahim
+    name: Omnia Ibrahim
     username: omniaabdo89@gmail.com
   - emails: '****@humain.ai'
     first_name: Yousseif
@@ -1498,11 +1498,11 @@
     - emails: '****@gmail.com'
       first_name: Mohamed
       institution: 'Institute '
-      last_name: Nadhir DAOUD
+      last_name: Nadhir Daoud
     - emails: '****@gmail.com'
       first_name: Mohamed
       institution: 'Institute '
-      last_name: Anouar BEN MESSAOUD
+      last_name: Anouar Ben Messaoud
 - id: 604
   file: 604.pdf
   openreview_id: WDCiUYqWJY
@@ -1522,9 +1522,9 @@
       institution: 'Institute '
       last_name: Ahmad
     - emails: '****@gmail.com'
-      first_name: OMER
+      first_name: Omer
       institution: 'Institute '
-      last_name: NACAR
+      last_name: Nacar
     - emails: '****@gmail.com'
       first_name: Adel
       institution: 'Institute '
@@ -2906,19 +2906,19 @@
     institution: Nazarbayev University
     last_name: Mohamed
     middle_name: Soliman Ali
-    name: EMAD Soliman Ali MOHAMED
+    name: Soliman Ali
     username: ~EMAD_Soliman_Ali_MOHAMED1
   - emails: malkhatib@hbku.edu.qa
-    first_name: malkhatib@hbku.edu.qa
+    first_name: Mutaz
     institution: NA
-    last_name: malkhatib@hbku.edu.qa
-    name: malkhatib@hbku.edu.qa
+    last_name: Alkhatib
+    name: Mutaz Alkhatib
     username: malkhatib@hbku.edu.qa
   - emails: hsbahi@hbku.edu.qa
-    first_name: hsbahi@hbku.edu.qa
+    first_name: Heba
     institution: NA
-    last_name: hsbahi@hbku.edu.qa
-    name: hsbahi@hbku.edu.qa
+    last_name: Sbahi
+    name: Heba Sbahi
     username: hsbahi@hbku.edu.qa
   - emails: '****@hbku.edu.qa'
     first_name: Shahd
@@ -2938,16 +2938,16 @@
     semantic_scholar_id: https://www.semanticscholar.org/author/W.-Zaghouani/2034351
     username: ~Wajdi_Zaghouani2
   - emails: aerbad@qu.edu.qa
-    first_name: aerbad@qu.edu.qa
+    first_name: Aiman
     institution: NA
-    last_name: aerbad@qu.edu.qa
-    name: aerbad@qu.edu.qa
+    last_name: Erbad
+    name: Aiman Erbad
     username: aerbad@qu.edu.qa
   - emails: mghaly@hbku.edu.qa
-    first_name: mghaly@hbku.edu.qa
+    first_name: Mohammed
     institution: NA
-    last_name: mghaly@hbku.edu.qa
-    name: mghaly@hbku.edu.qa
+    last_name: Ghaly
+    name: Mohammed Ghaly
     username: mghaly@hbku.edu.qa
   decision: '2025'
   openreview_id: WjqjUJP3DN
@@ -3141,7 +3141,7 @@
       institution: 'Institute '
       last_name: Zakaria Sellam
     - emails: '****@gmail.com'
-      first_name: TELLI
+      first_name: Telli
       institution: 'Institute '
       last_name: Hichem
     - emails: '****@gmail.com'
@@ -3181,11 +3181,11 @@
     - emails: '****@gmail.com'
       first_name: Jihad
       institution: 'Institute '
-      last_name: r'baiti
+      last_name: R'baiti
     - emails: '****@gmail.com'
-      first_name: CHOUAIB
+      first_name: Chouaib
       institution: 'Institute '
-      last_name: EL HACHIMI
+      last_name: El Hachimi
     - emails: '****@gmail.com'
       first_name: Youssef
       institution: 'Institute '
@@ -3193,7 +3193,7 @@
     - emails: '****@gmail.com'
       first_name: Amal
       institution: 'Institute '
-      last_name: SEGHROUCHNI
+      last_name: Seghrouchni
 - id: 1116
   file: 1116.pdf
   openreview_id: QS3RKBJsKB

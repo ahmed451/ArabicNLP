@@ -1,5 +1,4 @@
-- title: Welcome & SIGARAB Update 
-  end_time: 2024-11-08 08:30:00
+- title: Welcome & SIGARAB Update  end_time: 2024-11-08 08:30:00
   start_time: 2024-11-08 08:45:00
 - title: "Beyond Resources: Building an Arabic NLP Ecosystem Rooted in Representation, Collaboration, and Responsibility, by Dr. Houda Bouamor"
   end_time: 2024-11-08 08:45:00
@@ -15,7 +14,7 @@
         - id: 43
           start_time: 2024-11-08 09:30:00
           end_time: 2024-11-08 09:45:00
-        - id: 34
+        - id: 64
           start_time: 2024-11-08 09:45:00
           end_time: 2024-11-08 10:00:00
         - id: 14
@@ -71,28 +70,24 @@
         - id: 122
           start_time: 2024-11-08 14:30:00
           end_time: 2024-11-08 14:40:00
-        - id: 77
+        - id: 16
           start_time: 2024-11-08 14:40:00
           end_time: 2024-11-08 14:50:00
 
 
-- title: Session 4
+- title: Shared Tasks (1)
   start_time: 2024-11-08 14:30:00
   end_time: 2024-11-08 15:30:00
-  subsessions:
-    - title: Shared Tasks (1)
-      start_time: 2024-11-08 14:30:00
-      end_time: 2024-11-08 15:30:00
 
 - title: Coffee Break
   end_time: 2024-11-08 15:30:00
   start_time: 2024-11-08 16:00:00
 
-- title: Discussion Roundtable (1)
+- title: Shared Tasks (2)
   start_time: 2024-11-08 16:00:00
   end_time: 2024-11-08 17:00:00
 
-- title: Poster presentations + Shared Task posters (1-6)
+- title: Poster presentations + Shared Task posters
   start_time: 2024-11-08 17:00:00
   end_time: 2024-11-08 18:00:00
 
@@ -105,26 +100,9 @@
   end_time: 2024-11-09 08:45:00
   start_time: 2024-11-09 09:30:00
 
-- title: Session 1
+- title: Round Table (1) 
   start_time: 2024-11-09 09:30:00
   end_time: 2024-11-09 10:30:00
-  subsessions:
-    - title: Arab Culture & Retrieval
-      start_time: 2024-11-09 09:30:00
-      end_time: 2024-11-09 10:30:00
-      papers:
-        - id: 48
-          start_time: 2024-11-09 09:30:00
-          end_time: 2024-11-09 09:45:00
-        - id: 89
-          start_time: 2024-11-09 09:45:00
-          end_time: 2024-11-09 10:00:00
-        - id: 23
-          start_time: 2024-11-09 10:00:00
-          end_time: 2024-11-09 10:15:00
-        - id: 22
-          start_time: 2024-11-09 10:15:00
-          end_time: 2024-11-09 10:30:00
  
 - title: Coffee Break
   end_time: 2024-11-09 11:00:00
@@ -180,9 +158,22 @@
   start_time: 2024-11-09 14:30:00
   end_time: 2024-11-09 15:30:00
   subsessions:
-    - title: Shared Tasks (2)
+    - title: Arab Culture & Retrieval
       start_time: 2024-11-09 14:30:00
       end_time: 2024-11-09 15:30:00
+      papers:
+        - id: 62
+          start_time: 2024-11-09 14:30:00
+          end_time: 2024-11-09 14:45:00
+        - id: 89
+          start_time: 2024-11-09 14:45:00
+          end_time: 2024-11-09 15:00:00
+        - id: 51
+          start_time: 2024-11-09 15:00:00
+          end_time: 2024-11-09 15:15:00
+        - id: 22
+          start_time: 2024-11-09 15:15:00
+          end_time: 2024-11-09 15:30:00
 
 - title: Coffee Break
   end_time: 2024-11-09 15:30:00
@@ -191,7 +182,3 @@
 - title: Discussion Roundtable (2)
   start_time: 2024-11-09 16:00:00
   end_time: 2024-11-09 17:00:00
-
-- title: Poster presentations + Shared Task posters (7-11)
-  start_time: 2024-11-09 17:00:00
-  end_time: 2024-11-09 18:00:00
