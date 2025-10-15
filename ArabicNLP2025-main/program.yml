@@ -15,9 +15,9 @@
         - id: 43
           start_time: 2024-11-08 09:30:00
           end_time: 2024-11-08 09:45:00
-        - id: 64
-          start_time: 2024-11-08 09:45:00
-          end_time: 2024-11-08 10:00:00
+        # - id: 64 # Drop BALSAM paper, it was causing page leak in the footer
+        #   start_time: 2024-11-08 09:45:00
+        #   end_time: 2024-11-08 10:00:00
         - id: 14
           start_time: 2024-11-08 10:00:00
           end_time: 2024-11-08 10:15:00
@@ -31,11 +31,11 @@
 
 - title: Session 2
   start_time: 2024-11-08 11:00:00
-  end_time: 2024-11-08 12:30:00
+  end_time: 2024-11-08 12:00:00
   subsessions:
     - title: LLM Benchmarking & Development (2)
       start_time: 2024-11-08 11:00:00
-      end_time: 2024-11-08 12:30:00
+      end_time: 2024-11-08 11:30:00
       papers:
         - id: 84
           start_time: 2024-11-08 11:00:00
