@@ -49,9 +49,11 @@
   - first_name: Ahmed
     middle_name: Cherif
     last_name: Mazari
+    institution: University of Médéa
   - first_name: Ahmed
     middle_name: Oumar
     last_name: El-Shangiti
+    institution: Mohamed Bin Zayed University of Artificial Intelligence
   - first_name: Alaa
     last_name: Aljabari
     institution: Birzeit University
@@ -68,6 +70,7 @@
     last_name: Al-Said
   - first_name: Aloulou
     last_name: Chafik
+    institution: Univeristy of Sfax
   - first_name: Amel
     last_name: Muminovic
     institution: International Balkan University
@@ -287,7 +290,7 @@
   - first_name: Rania
     middle_name: Azad M. San
     last_name: Ahmed
-    institution: Sulaimani Polytechnic University, Sulaymaniyah, Iraq and Sulaimani Polytechnic University, Sulaymaniyah, Iraq
+    institution: Sulaimani Polytechnic University, Sulaymaniyah, Iraq
   - first_name: Sadam
     last_name: Al-Azani
     institution: King Fahad University of Petroleum and Minerals
