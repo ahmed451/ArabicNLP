@@ -484,7 +484,7 @@
   id: 30
   openreview_id: 0Qd2B7PakR
   pdf_file: 9fbe05b6da68be8a183e1683b3c14588e0f6e7e8.pdf
-  title: '$\textbf{A-SEA}^3\textbf{L}$-QA: A Fully Automated Self-Evolving, Adversarial Workflow for Arabic Long-Context Question-Answer  Generation'
+  title: '$\mathbf{A-SEA}^3\mathbf{L}$-QA: A Fully Automated Self-Evolving, Adversarial Workflow for Arabic Long-Context Question-Answer  Generation'
 - abstract: Lemmatization for dialectal Arabic poses many challenges due to the lack
     of orthographic standards and limited morphological analyzers. This work explores
     the effectiveness of Seq2Seq models for lemmatizing dialectal Arabic, both without
@@ -800,7 +800,7 @@
   id: 48
   openreview_id: f3vy67jBZ9
   pdf_file: 38f56c707a2fab0b7d5e84303e127f97e2bb41dc.pdf
-  title: 'Tah{ḏ}{ī}b: A Rhythm-Aware Phrase Insertion for Classical Arabic Poetry Composition'
+  title: 'Tah{d}{i}b: A Rhythm-Aware Phrase Insertion for Classical Arabic Poetry Composition'
 - abstract: The Holy Qur'an provides timeless guidance, addressing modern challenges
     and offering answers to many important questions. The Qur'an QA 2023 shared task
     introduced the Qur'anic Passage Retrieval (QPR) task, which involves retrieving
