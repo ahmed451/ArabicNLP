@@ -1,0 +1,73 @@
+- members:
+  - first_name: Kareem
+    institution: Qatar Computing Research Institute, Qatar 
+    last_name: Darwish
+  role: General Chair
+- members:
+  - first_name: Ahmed
+    institution: Humain, KSA
+    last_name: Ali
+  - first_name: Ibrahim
+    institution: Alsun AI, UK
+    last_name: Abu Farha
+  - first_name: Samia
+    institution: University of Bergen, Norway
+    last_name: Touileb
+  - first_name: Imed
+    institution: Google, USA
+    last_name: Zitouni
+  role: Program Chairs
+- members:
+  - first_name: Ahmed
+    institution: Humain, KSA
+    last_name: Abdelali
+  - first_name: Sharefah 
+    institution: King Saud University, KSA
+    last_name: Al-Ghamdi
+  role: Publication Chairs
+- members:
+  - first_name: Sakhar 
+    institution: Humain, KSA
+    last_name: Alkhereyf
+  - first_name: Wajdi 
+    institution: Northwestern University in Qatar, Qatar
+    last_name: Zaghouani
+  role: Shared Tasks Chair
+- members:
+  - first_name: Salam 
+    institution: Stony Brook University, USA
+    last_name: Khalifa
+  - first_name: Badr 
+    institution: EPFL, Switzerland
+    last_name: AlKhamissi
+  - first_name: Rawan 
+    institution: King Salman Global Academy for Arabic Language, Saudi Arabia
+    last_name: Almatham
+  role: Publicity Chairs
+- members:
+  - first_name: Injy
+    institution: New York University Abu Dhabi, UAE
+    last_name: Hamed
+  - first_name: Zaid 
+    institution: KAUST, KSA
+    last_name: Alyafeai
+  role: Scholarships and Awards Chairs
+- members:
+  - first_name: Areeb 
+    institution: Humain, KSA
+    last_name: Alowisheq
+  - first_name: Imed
+    institution: Google, USA
+    last_name: Zitouni
+  role: Sponsorship Chairs
+- members:
+  - first_name: Go
+    institution: MBZUAI, UAE
+    last_name: Inoue
+  - first_name: Khalil
+    institution: TikTok, USA 
+    last_name: Mrini
+  - first_name: Waad
+    institution: King Salman Global Academy for Arabic Language, Saudi Arabia
+    last_name: Alshammari
+  role: Social Chairs

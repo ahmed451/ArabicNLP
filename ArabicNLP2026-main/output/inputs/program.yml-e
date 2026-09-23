@@ -1,0 +1,95 @@
+- title: Welcome Speech 
+  end_time: 2024-08-16 09:15:00
+  start_time: 2024-08-16 09:00:00
+- title: Session 1 
+  start_time: 2024-08-16 09:15:00
+  end_time: 2024-08-16 10:30:00
+  subsessions:
+    - end_time: 2024-08-16 10:30:00
+      papers:
+        - end_time: 2024-08-16 09:30:00
+          id: 19
+          start_time: 2024-08-16 09:15:00
+        - end_time: 2024-08-16 09:45:00
+          id: 26
+          start_time: 2024-08-16 09:30:00
+        - end_time: 2024-08-16 10:00:00
+          id: 59
+          start_time: 2024-08-16 09:45:00
+        - end_time: 2024-08-16 10:15:00
+          id: 86
+          start_time: 2024-08-16 10:00:00
+        - end_time: 2024-08-16 10:30:00
+          id: 15
+          start_time: 2024-08-16 10:15:00
+      start_time: 2024-08-16 09:15:00
+      title: Core Technologies
+- end_time: 2024-08-16 11:00:00
+  start_time: 2024-08-16 10:30:00
+  title: Coffee Break
+- title: Session 2
+  start_time: 2024-08-16 11:00:00
+  end_time: 2024-08-16 11:45:00
+  subsessions:
+    - end_time: 2024-08-16 11:45:00
+      papers:
+        - end_time: 2024-08-16 11:15:00
+          id: 16
+          start_time: 2024-08-16 11:00:00
+        - end_time: 2024-08-16 11:30:00
+          id: 28
+          start_time: 2024-08-16 11:15:00
+        - end_time: 2024-08-16 11:45:00
+          id: 31
+          start_time: 2024-08-16 11:30:00
+      start_time: 2024-08-16 11:00:00
+      title: Downstream Applications I
+- title: Session 3
+  start_time: 2024-08-16 11:45:00
+  end_time: 2024-08-16 12:30:00
+  subsessions:
+    - end_time: 2024-08-16 12:30:00
+      papers:
+        - end_time: 2024-08-16 12:00:00
+          id: 27
+          start_time: 2024-08-16 11:45:00
+        - end_time: 2024-08-16 12:15:00
+          id: 29
+          start_time: 2024-08-16 12:00:00
+        - end_time: 2024-08-16 12:30:00
+          id: 49
+          start_time: 2024-08-16 12:15:00
+      start_time: 2024-08-16 11:45:00
+      title: Multimodality
+- end_time: 2024-08-16 14:00:00
+  start_time: 2024-08-16 12:30:00
+  title: Lunch Break
+- title: Session 4
+  start_time: 2024-08-16 14:00:00
+  end_time: 2024-08-16 14:45:00
+  subsessions:
+    - end_time: 2024-08-16 14:45:00
+      papers:
+        - end_time: 2024-08-16 14:15:00
+          id: 51
+          start_time: 2024-08-16 14:00:00
+        - end_time: 2024-08-16 14:30:00
+          id: 63
+          start_time: 2024-08-16 14:15:00
+        - end_time: 2024-08-16 14:45:00
+          id: 68
+          start_time: 2024-08-16 14:30:00
+      start_time: 2024-08-16 14:00:00
+      title: Downstream Applications II
+- title: Invited Talk BALSAM -- Community-Driven Arabic LLM Evaluation
+  start_time: 2024-08-16 14:45:00
+  end_time: 2024-08-16 15:15:00
+- end_time: 2024-08-16 15:30:00
+  start_time: 2024-08-16 15:15:00
+  title: Shared Task Overview Boasters
+- end_time: 2024-08-16 16:00:00
+  start_time: 2024-08-16 15:30:00
+  title: Coffee Break
+- end_time: 2024-08-16 17:30:00
+  start_time: 2024-08-16 16:00:00
+  title: Main and Shared Task Posters

@@ -1,0 +1,46 @@
+book_title: Proceedings of The Second Arabic Natural Language Processing Conference
+event_name: The Second Arabic Natural Language Processing Conference
+volume_name: main
+cover_subtitle: Proceedings of the Conference
+anthology_venue_id: ArabicNLP
+start_date: 2024-08-16
+end_date: 2024-08-16
+isbn: 979-8-89176-132-2
+location: Bangkok, Thailand
+editors:
+  - first_name: Nizar
+    last_name: Habash
+  - first_name: Houda
+    last_name: Bouamor
+  - first_name: Ramy
+    last_name: Eskander
+  - first_name: Nadi
+    last_name: Tomeh
+  - first_name: Ibrahim
+    last_name: Abu Farha
+  - first_name: Ahmed
+    last_name: Abdelali
+  - first_name: Samia
+    last_name: Touileb
+  - first_name: Injy
+    last_name: Hamed
+  - first_name: Yaser
+    last_name: Onaizan
+  - first_name: Bashar
+    last_name: Alhafni
+  - first_name: Wissam
+    last_name: Antoun
+  - first_name: Salam
+    last_name: Khalifa
+  - first_name: Hatem
+    last_name: Haddad
+  - first_name: Imed
+    last_name: Zitouni
+  - first_name: Badr
+    last_name: AlKhamissi
+  - first_name: Rawan
+    last_name: Almatham
+  - first_name: Khalil
+    last_name: Mrini
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of The Second Arabic Natural Language Processing Conference (ArabicNLP 2024)

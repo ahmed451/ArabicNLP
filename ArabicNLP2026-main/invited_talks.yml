@@ -1,0 +1,10 @@
+- title: "Beyond Resources: Building an Arabic NLP Ecosystem Rooted in Representation, Collaboration, and Responsibility"
+  abstract_file: invited1.tex
+  speaker_name: Dr. Houda Bouamor
+  institution: Carnegie Mellon University, Qatar
+  bio_file: invited_bio1.tex
+- title: "From Benchmarks to the Real-World Impact: Arabic LLMs in Production"
+  abstract_file: invited.tex
+  speaker_name: Dr. Areeb Alowisheq
+  institution: Humain, KSA
+  bio_file: invited_bio.tex
