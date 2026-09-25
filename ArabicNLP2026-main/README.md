@@ -1,2 +1,2 @@
 # ArabicNLP
-The Second Arabic Natural Language Processing Conference (ArabicNLP 2024)
+The Fourth Arabic Natural Language Processing Conference (ArabicNLP 2026)

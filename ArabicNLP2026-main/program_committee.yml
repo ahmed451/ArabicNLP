@@ -1,404 +1,698 @@
 - entries:
-  - first_name: Abdelkader
-    last_name: El Mahdaouy
-    institution: Mohammed VI Polytechnic University
-  - first_name: Abdellah
-    last_name: El Mekki
-    institution: University of British Columbia
-  - first_name: AbdelRahim
-    middle_name: A.
-    last_name: Elmadany
-    institution: University of British Columbia
-  - first_name: Abdelrhman
-    middle_name: Ahmed Yousry
-    last_name: Elnainay
-    institution: Alexandria University
-  - first_name: Abdulaziz
-    last_name: Alhamadani
-  - first_name: Abdulkareem
-    last_name: Alsudais
-    institution: Prince Sattam bin Abdulaziz University
-  - first_name: Abdulmohsen
-    last_name: Al-Thubaity
+  - username: ~Ahmed_Abdelali3
+    first_name: Ahmed
+    last_name: Abdelali
     institution: Humain
-  - first_name: Abdurahman
+  - username: ~Haithem_Afli1
+    first_name: Haithem
+    last_name: Afli
+    institution: Munster Technological University
+  - username: ~Firoj_Alam1
+    first_name: Firoj
+    last_name: Alam
+    institution: Hamad Bin Khalifa University
+  - username: ~Fethi_Bougares2
+    first_name: Fethi
+    last_name: Bougares
+    institution: Elyadata
+  - username: ~Karim_Bouzoubaa1
+    first_name: Karim
+    last_name: Bouzoubaa
+    institution: Ecole Mohammadia d'Ingénieurs
+  - username: ~Violetta_Cavalli-Sforza1
+    first_name: Violetta
+    last_name: Cavalli-Sforza
+    institution: Al Akhawayn University
+  - username: ~Nadir_Durrani1
+    first_name: Nadir
+    last_name: Durrani
+    institution: Hamad Bin Khalifa University
+  - username: ~Mo_El-Haj1
+    first_name: Mo
+    last_name: El-Haj
+    institution: VinUniversity
+  - username: ~Shady_Elbassuoni1
+    first_name: Shady
+    last_name: Elbassuoni
+    institution: American University of Beirut
+  - username: ~Mustafa_Jarrar2
+    first_name: Mustafa
+    last_name: Jarrar
+    institution: Hamad Bin Khalifa University
+  - username: ~Mucahid_Kutlu1
+    first_name: Mucahid
+    last_name: Kutlu
+    institution: Qatar University
+  - username: ~Walid_Magdy1
+    first_name: Walid
+    last_name: Magdy
+    institution: University of Edinburgh
+  - username: ~Hamdy_Mubarak2
+    first_name: Hamdy
+    last_name: Mubarak
+    institution: Hamad Bin Khalifa University
+  - username: ~El_Moatez_Billah_Nagoudi1
+    first_name: El Moatez Billah
+    last_name: Nagoudi
+    institution: Prince Sultan University
+  - username: ~Paul_Rayson1
+    first_name: Paul
+    last_name: Rayson
+    institution: Lancaster University
+  - username: ~Nadi_Tomeh1
+    first_name: Nadi
+    last_name: Tomeh
+    institution: Université Sorbonne Paris Nord
+  - username: ~Fadi_zaraket2
+    first_name: Fadi
+    last_name: Zaraket
+    institution: Arab Center for Research and Policy Studies
+  role: Area Chairs
+- entries:
+  - username: ~Abdurahman_Khalifa_AAlAbdulsalam1
+    first_name: Abdurahman
     middle_name: Khalifa
     last_name: AAlAbdulsalam
     institution: Sultan Qaboos University
-  - first_name: Abed
-    last_name: Qaddoumi
-    institution: State University of New York at Stony Brook
-  - first_name: Abul
-    last_name: Hasnat
-  - first_name: Ahamed
+  - username: ~Mostafa_Saeed1
+    first_name: Mostafa
+    last_name: Abdalla
+    institution: New York University
+  - username: ~Dana_Abdulrahim1
+    first_name: Dana
+    last_name: Abdulrahim
+    institution: University of Bahrain
+  - username: ~Chadi_Abou_Chakra1
+    first_name: Chadi
+    middle_name: Abou
+    last_name: Abou Chakra
+    institution: Arab Center for Research and Policy Studies
+  - username: ~Raia_Abu_Ahmad1
+    first_name: Raia
+    last_name: Abu Ahmad
+    institution: German Research Center for AI
+  - username: ~Mouath_Abu_Daoud1
+    first_name: Mouath
+    middle_name: Abu
+    last_name: Abu Daoud
+    institution: New York University
+  - username: ~Ibrahim_Abu_Farha1
+    first_name: Ibrahim
+    last_name: Abu Farha
+    institution: Alsun AI
+  - username: ~Mustafa_Ali_Abuzaraida2
+    first_name: Mustafa
+    middle_name: Ali
+    last_name: Abuzaraida
+    institution: Libyan Authority for Scientific Research
+  - username: ~Mohamed_Adel1
+    first_name: Mohamed
+    last_name: Adel
+    institution: New York University
+  - username: ~Ahamed_Rameez_Mohamed_Nizzad1
+    first_name: Mohamed Nizzad
     middle_name: Rameez Mohamed
-    last_name: Nizzad
+    last_name: Ahamed Rameez
     institution: British College of Applied Studies
-  - first_name: Ahmad
-    middle_name: M
-    last_name: Mustafa
-    institution: Jordan University of Science and Technology
-  - first_name: Ahmed
-    last_name: Abdelali
-    institution: Humain
-  - first_name: Ahmed
-    last_name: Taha
-    institution: Whiterabbit.AI
-  - first_name: Ahmed
-    last_name: Wasfy
-  - first_name: Ahmed
-    middle_name: Cherif
-    last_name: Mazari
-    institution: University of Médéa
-  - first_name: Ahmed
-    middle_name: Oumar
-    last_name: El-Shangiti
-    institution: Mohamed Bin Zayed University of Artificial Intelligence
-  - first_name: Alaa
-    last_name: Aljabari
-    institution: Birzeit University
-  - first_name: Alexis
-    last_name: Nasr
-    institution: Aix Marseille University
-  - first_name: Ali
-    last_name: Al-Laith
-  - first_name: Ali
-    middle_name: S.
-    last_name: Al-Zawqari
-  - first_name: Almoataz
-    middle_name: B.
-    last_name: Al-Said
-  - first_name: Aloulou
-    last_name: Chafik
-    institution: Univeristy of Sfax
-  - first_name: Amel
-    last_name: Muminovic
-    institution: International Balkan University
-  - first_name: Amir
-    last_name: Hussein
-  - first_name: Amr
-    last_name: El-Gendy
-  - first_name: Amr
-    last_name: Keleg
-    institution: University of Edinburgh, University of Edinburgh
-  - first_name: Ann
-    last_name: Bies
-    institution: Linguistic Data Consortium, University of Pennsylvania
-  - first_name: Ashraf
-    last_name: Elnagar
-    institution: Google
-  - first_name: Ashwag
-    last_name: Alasmari
-    institution: King Khaled University
-  - first_name: Attia
-    last_name: Nehar
-  - first_name: Badr
-    middle_name: M.
-    last_name: Abdullah
-  - first_name: Baraa
-    last_name: Hikal
-  - first_name: Bashar
-    last_name: Alhafni
-    institution: Mohamed bin Zayed University of Artificial Intelligence
-  - first_name: Bashar
-    last_name: Talafha
-    institution: University of British Columbia
-  - first_name: Caroline
-    last_name: Sabty
-    institution: German International University
-  - first_name: Chaima
-    middle_name: Ben
-    last_name: Rabah
-    institution: weill cornell Medicine
-  - first_name: Claudia
-    last_name: Borg
-    institution: University of Malta
-  - first_name: David
-    last_name: Corney
-    institution: Full Fact
-  - first_name: David
-    middle_name: M.
-    last_name: Palfreyman
-    institution: United Arab Emirates University
-  - first_name: Duygu
-    last_name: Altinok
-  - first_name: El Moatez Billah
-    last_name: Nagoudi
-    institution: University of British Columbia
-  - first_name: Elisa
-    last_name: Gugliotta
-    institution: CNR-Istituto di Linguistica Computazionale "A. Zampolli"
-  - first_name: Elsayed
-    last_name: Issa
-    institution: Purdue University
-  - first_name: Enas
-    last_name: Albasiri
-    institution: NVIDIA
-  - first_name: Eyob
-    middle_name: Nigussie
-    last_name: Alemu
-    institution: Addis Ababa University
-  - first_name: Fadhl
-    last_name: Eryani
-    institution: Eberhard-Karls-Universität Tübingen
-  - first_name: Fadi
-    last_name: Zaraket
-    institution: Arab Center for Research and Policy Studies and American University of Beirut
-  - first_name: Fatima
-    last_name: Haouari
-    institution: University of Sheffield
-  - first_name: Fethi
-    last_name: Bougares
-    institution: elyadata
-  - first_name: Firoj
-    last_name: Alam
-    institution: Qatar Computing Research Institute
-  - first_name: Ghassan
-    last_name: Mourad
-    institution: Lebanese University
-  - first_name: Go
-    last_name: Inoue
-    institution: Mohamed bin Zayed University of Artificial Intelligence
-  - first_name: Hadda
-    last_name: Cherroun
-    institution: Université Amar Telidji
-  - first_name: Hamzah
-    last_name: Luqman
-    institution: King Fahad University of Petroleum and Minerals
-  - first_name: Hoda
-    last_name: Zaiton
-    institution: Pharos University in Alexandria
-  - first_name: Hossam
+  - username: ~Hossam_Ahmed1
+    first_name: Hossam
     last_name: Ahmed
     institution: Leiden University
-  - first_name: Houda
-    last_name: Bouamor
-    institution: Carnegie Mellon University
-  - first_name: Ibrahim
-    last_name: Bounhas
-  - first_name: Injy
-    last_name: Hamed
-    institution: Mohamed bin Zayed University of Artificial Intelligence
-  - first_name: Irfan
-    last_name: Ahmad
-    institution: King Fahad University of Petroleum and Minerals
-  - first_name: Ismail
-    last_name: Berrada
-    institution: Mohammed VI Polytechnic University
-  - first_name: Kamel
-    last_name: Gaanoun
-    institution: Institut National de Statistiques et d'Economie Appliquées
-  - first_name: Kedir
-    middle_name: Yassin
-    last_name: Hussen
-  - first_name: Khalil
-    last_name: Hennara
-  - first_name: Khloud
+  - username: ~Rania_Azad_M._San_Ahmed1
+    first_name: Rania
+    middle_name: Azad M. San
+    last_name: Ahmed
+    institution: Sulaimani Polytechnic University
+  - username: ~Sharif_Ahmed1
+    first_name: Sharif
+    last_name: Ahmed
+    institution: University of Central Arkansas
+  - username: ~Khadija_Ait_ElFqih1
+    first_name: Khadija
+    middle_name: Ait
+    last_name: Ait ElFqih
+    institution: Cadi Ayyad University
+  - username: ~Youssef_Al_Hariri1
+    first_name: Youssef
+    last_name: Al Hariri
+    institution: University of Edinburgh
+  - username: ~Khloud_Al_Jallad1
+    first_name: Khloud
     last_name: Al Jallad
     institution: HIAST
-  - first_name: Kurt
-    last_name: Micallef
-    institution: University of Malta
-  - first_name: Maged
+  - username: ~Osama_Rakan_Al_Mraikhat1
+    first_name: Osama
+    middle_name: Rakan
+    last_name: Al Mraikhat
+    institution: Arab Center for Research and Policy Studies
+  - username: ~Sharefah_Al-Ghamdi1
+    first_name: Sharefah
+    last_name: Al-Ghamdi
+    institution: King Saud University
+  - username: ~Almoataz_B._Al-Said1
+    first_name: Almoataz
+    middle_name: B.
+    last_name: Al-Said
+    institution: Cairo University
+  - username: ~Maged_S._Al-shaibani1
+    first_name: Maged
+    middle_name: S.
     last_name: Al-shaibani
     institution: SDAIA-KFUPM Joint Research Center for Artificial Intelligence
-  - first_name: Majd
-    last_name: Hawasly
-  - first_name: Malik
+  - username: ~Jalal_Al-Tamimi1
+    first_name: Jalal
+    last_name: Al-Tamimi
+    institution: Université Paris Cité
+  - username: ~Abdulmohsen_Al-Thubaity1
+    first_name: Abdulmohsen
+    last_name: Al-Thubaity
+    institution: HUMAIN
+  - username: ~Ali_Al-Zawqari1
+    first_name: Ali
+    last_name: Al-Zawqari
+    institution: Vrije Universiteit Brussel
+  - username: ~Salam_Albatarni1
+    first_name: Salam
+    last_name: Albatarni
+    institution: Qatar University
+  - username: ~Hanan_Aldarmaki1
+    first_name: Hanan
+    last_name: Aldarmaki
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Noof_Alfear1
+    first_name: Noof
+    last_name: Alfear
+    institution: King Saud University
+  - username: ~Bashar_Alhafni1
+    first_name: Bashar
+    last_name: Alhafni
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Abdulaziz_Alhamadani1
+    first_name: Abdulaziz
+    last_name: Alhamadani
+    institution: Florida Polytechnic University
+  - username: ~Abdulsalam_obaid_Alharbi1
+    first_name: Abdulsalam
+    middle_name: Obaid
+    last_name: Alharbi
+    institution: University of New South Wales
+  - username: ~Hassan_Alhuzali1
+    first_name: Hassan
+    last_name: Alhuzali
+    institution: Umm Al-Qura University
+  - username: ~Alaa_Aljabari1
+    first_name: Alaa
+    last_name: Aljabari
+    institution: Birzeit University
+  - username: ~Rabab_Alkhalifa1
+    first_name: Rabab
+    last_name: Alkhalifa
+    institution: Imam Abdulrahman Bin Faisal University
+  - username: ~Sakhar_Alkhereyf1
+    first_name: Sakhar
+    last_name: Alkhereyf
+    institution: HUMAIN
+  - username: ~Lulwah_AlKulaib1
+    first_name: Lulwah
+    last_name: AlKulaib
+    institution: Kuwait University
+  - username: ~Ali_Al-Laith1
+    first_name: Ali
+    last_name: Allaith
+    institution: Copenhagen University
+  - username: ~Abdulrahman_Alosaimy1
+    first_name: Abdulrahman
+    last_name: Alosaimy
+    institution: Al-Imam Mohamed Ibn Saud Islamic University
+  - username: ~Abdulkareem_Alsudais1
+    first_name: Abdulkareem
+    last_name: Alsudais
+    institution: Prince Sattam bin Abdulaziz University
+  - username: ~Malik_H._Altakrori1
+    first_name: Malik
     middle_name: H.
     last_name: Altakrori
     institution: IBM TJ Watson Research Center
-  - first_name: Marwan
-    last_name: Torki
-    institution: Alexandria University
-  - first_name: Mayar
-    last_name: Nassar
-    institution: Ain Shams University
-  - first_name: Minh
-    middle_name: Ngoc
-    last_name: Ta
-  - first_name: Mohamed
-    last_name: Lichouri
-    institution: Université des Sciences et de la Technologie Houari Boumediène
-  - first_name: Mohamed
-    last_name: Nabih
-    institution: Fondazione Bruno Kessler
-  - first_name: Mohamed
-    middle_name: Bayan
-    last_name: Kmainasi
-    institution: University of Qatar
-  - first_name: Mohamed
-    middle_name: Motasim
-    last_name: Hamed
-  - first_name: Mohammed
+  - username: ~Shatha_Altammami1
+    first_name: Shatha
+    last_name: Altammami
+    institution: King Saud University
+  - username: ~Duygu_Altinok1
+    first_name: Duygu
+    last_name: Altinok
+    institution: Independent Researcher
+  - username: ~Nora_Alturayeif1
+    first_name: Nora
+    last_name: Alturayeif
+    institution: Humain
+  - username: ~Zaid_Alyafeai1
+    first_name: Zaid
+    last_name: Alyafeai
+    institution: King Abdullah University of Science and Technology
+  - username: ~Ahmed_Alzubaidi2
+    first_name: Ahmed
+    last_name: Alzubaidi
+    institution: TII
+  - username: ~ZIANI_Amel1
+    first_name: ZIANI
+    last_name: Amel
+    institution: Chadli Benjedid University
+  - username: ~Wissam_Antoun1
+    first_name: Wissam
+    last_name: Antoun
+    institution: INRIA
+  - username: ~Mohammed_Attia1
+    first_name: Mohammed
     last_name: Attia
     institution: Google
-  - first_name: Mohammed Salah
-    last_name: Al-Radhi
-    institution: Budapest University of Technology and Economics
-  - first_name: Mona
-    last_name: Abdelazim
-    institution: Ain Shams University
-  - first_name: Mouath
-    middle_name: Abu
-    last_name: Daoud
-  - first_name: Moustafa
-    last_name: Wassel
-  - first_name: Muhammad
-    last_name: Shakeel
-    institution: Honda Research Institution Japan Co., Ltd.
-  - first_name: Muhammed
-    last_name: AbuOdeh
-    institution: New York University, Abu Dhabi
-  - first_name: Mustafa
-    last_name: Jarrar
-    institution: Birzeit University
-  - first_name: Nada
+  - username: joseph.attieh@helsinki.fi
+    first_name: Joseph
+    last_name: Attieh
+    institution: University of Helsinki
+  - username: ~May_Bashendy1
+    first_name: May
+    last_name: Bashendy
+    institution: Qatar University
+  - username: ~Slimane_Bellaouar1
+    first_name: Slimane
+    last_name: Bellaouar
+    institution: Université de Ghardaia
+  - username: ~Ismail_Berrada1
+    first_name: Ismail
+    last_name: Berrada
+    institution: Mohammed VI Polytechnic University
+  - username: mabrouka.bessghaier@northwestern.edu
+    first_name: Mabrouka
+    last_name: Bessghaier 
+    institution: Northwestern University
+  - username: ~Ann_Bies1
+    first_name: Ann
+    last_name: Bies
+    institution: Linguistic Data Consortium, University of Pennsylvania
+  - username: ~Md._Rafiul_Biswas1
+    first_name: Md. Rafiul
+    last_name: Biswas
+    institution: Hamad Bin Khalifa University
+  - username: ~Zahra_Bokaei1
+    first_name: Zahra
+    last_name: Bokaei
+    institution: University of Edinburgh
+  - username: ~Claudia_Borg1
+    first_name: Claudia
+    last_name: Borg
+    institution: University of Malta
+  - username: ~Abdessalam_Bouchekif1
+    first_name: Abdesselam
+    last_name: Bouchekif
+    institution: Hamad Bin Khalifa University
+  - username: ~Ibrahim_Bounhas1
+    first_name: Ibrahim
+    last_name: Bounhas
+    institution: Université de la Manouba
+  - username: ~Basma_El_Amel_Boussaha1
+    first_name: Basma
+    middle_name: El Amel
+    last_name: Boussaha
+    institution: Technology and Innovation Institute
+  - username: ~Hadda_Cherroun1
+    first_name: Hadda
+    last_name: Cherroun
+    institution: Université Amar Telidji
+  - username: ~Shammur_Absar_Chowdhury1
+    first_name: Shammur
+    middle_name: Absar
+    last_name: Chowdhury
+    institution: Hamad Bin Khalifa University
+  - username: ~Kareem_Mohamed_Darwish1
+    first_name: Kareem
+    middle_name: Mohamed
+    last_name: Darwish
+    institution: Hamad Bin Khalifa University
+  - username: ~Pavel_Denisov1
+    first_name: Pavel
+    last_name: Denisov
+    institution: Fraunhofer IAIS
+  - username: ~Mai_Mohamed_Eida1
+    first_name: Mai
+    middle_name: Mohamed
+    last_name: Eida
+    institution: University of Illinois at Urbana-Champaign
+  - username: ~Amina_El_Ganadi1
+    first_name: Amina
+    last_name: El Ganadi
+    institution: University of Modena and Reggio Emilia
+  - username: ~Yassine_El_Kheir1
+    first_name: Yassine
+    last_name: El Kheir
+    institution: German Research Center for AI
+  - username: ~Abdellah_EL_MEKKI1
+    first_name: Abdellah
+    last_name: El Mekki
+    institution: University of British Columbia
+  - username: ~Mohammed_Elkholy1
+    first_name: Mohammed
+    last_name: Elkholy
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Khalid_N._Elmadani1
+    first_name: Khalid
+    middle_name: N.
+    last_name: Elmadani
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~AbdelRahim_A._Elmadany1
+    first_name: AbdelRahim
+    middle_name: A.
+    last_name: Elmadany
+    institution: University of British Columbia
+  - username: ~Ashraf_Elnagar1
+    first_name: Ashraf
+    last_name: Elnagar
+    institution: Google
+  - username: ~Hossam_Elsafty2
+    first_name: Hossam
+    last_name: Elsafty
+    institution: Fraunhofer Institute IAIS, Fraunhofer IAIS
+  - username: ~Ahmed_Elshabrawy2
+    first_name: Ahmed
+    last_name: Elshabrawy
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Sohaila_Eltanbouly1
+    first_name: Sohaila
+    last_name: Eltanbouly
+    institution: Qatar University
+  - username: ~Fadhl_Eryani1
+    first_name: Fadhl
+    last_name: Eryani
+    institution: Eberhard-Karls-Universität Tübingen
+  - username: ~Amany_Fashwan1
+    first_name: Amany
+    last_name: Fashwan
+    institution: Bibliotheca Alexandrina
+  - username: ~Abed_Alhakim_Freihat1
+    first_name: Abed Alhakim
+    last_name: Freihat
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Kamel_Gaanoun1
+    first_name: Kamel
+    last_name: Gaanoun
+    institution: Institut National de Statistiques et d'Economie Appliquées
+  - username: ~Pagon_Gatchalee1
+    first_name: Pagon
+    last_name: Gatchalee
+    institution: Chiang Mai University
+  - username: ~Sahar_Ghannay1
+    first_name: Sahar
+    last_name: Ghannay
+    institution: Universuté paris saclay
+  - username: ~Nada_Ghneim1
+    first_name: Nada
     last_name: Ghneim
-  - first_name: Nada
-    last_name: Sharaf
-    institution: The German International University
-  - first_name: Nizar
+    institution: Arab International University
+  - username: ~Omer_Goldman1
+    first_name: Omer
+    last_name: Goldman
+    institution: University of Cambridge
+  - username: ~Nizar_Habash1
+    first_name: Nizar
     last_name: Habash
     institution: New York University Abu Dhabi
-  - first_name: Omar
-    last_name: Trigui
-    institution: Institut Supérieur de Gestion de Sousse
-  - first_name: Omer
-    last_name: Goldman
-    institution: Bar Ilan University
-  - first_name: Omer
-    last_name: Nacar
-  - first_name: Pagon
-    last_name: Gatchalee
-  - first_name: Panigrahi
-    last_name: Srikanth
-  - first_name: Pavel
-    last_name: Denisov
-    institution: Fraunhofer IAIS and University of Stuttgart
-  - first_name: Peter
-    last_name: Sullivan
-    institution: University of British Columbia
-  - first_name: Petr
-    last_name: Zemánek
-    institution: Charles University Prague
-  - first_name: Preslav
-    last_name: Nakov
+  - username: ~Nagham_Hamad2
+    first_name: Nagham
+    last_name: hamad
+    institution: Birzeit University
+  - username: ~Nancy_Hamdan1
+    first_name: Nancy
+    last_name: Hamdan
+    institution: Arab Center for Research and Policy Studies
+  - username: ~Injy_Hamed1
+    first_name: Injy
+    last_name: Hamed
     institution: Mohamed bin Zayed University of Artificial Intelligence
-  - first_name: Rania
-    last_name: Al-Sabbagh
-  - first_name: Rania
-    middle_name: Azad M. San
-    last_name: Ahmed
-    institution: Sulaimani Polytechnic University, Sulaymaniyah, Iraq
-  - first_name: Sadam
-    last_name: Al-Azani
-    institution: King Fahad University of Petroleum and Minerals
-  - first_name: Saeed
-    last_name: Ahmadnia
-    institution: University of Illinois at Chicago
-  - first_name: Saied
-    last_name: Alshahrani
-    institution: University of Bisha
-  - first_name: Sakhar
-    last_name: Alkhereyf
-    institution: Humain
-  - first_name: Salam
-    last_name: Albatarni
-  - first_name: Salam
-    last_name: Khalifa
-    institution: New York University and State University of New York, Stony Brook
-  - first_name: Salima
+  - username: ~Zineb_FERHAT_HAMIDA1
+    first_name: Zineb
+    middle_name: Ferhat
+    last_name: Hamida
+    institution: Université de Sétif
+  - username: ~Hadi_Hamoud1
+    first_name: Hadi
+    last_name: Hamoud
+    institution: Arab Center for Research and Policy Studies
+  - username: ~Fatima_Haouari1
+    first_name: Fatima
+    last_name: Haouari
+    institution: University of Sheffield
+  - username: ~Salima_Harrat1
+    first_name: Salima
     last_name: Harrat
-  - first_name: Salima
+    institution: Ecole Normale Supérieure Bouzaréah, Alger
+  - username: ~Kedir_Yassin_Hussen1
+    first_name: Kedir
+    middle_name: Yassin
+    last_name: Hussen
+    institution: Bahir Dar University
+  - username: ~Go_Inoue1
+    first_name: Go
+    last_name: Inoue
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Elsayed_Issa1
+    first_name: Elsayed
+    last_name: Issa
+    institution: Purdue University
+  - username: ~Sanaa_Kaddoura1
+    first_name: Sanaa
+    last_name: Kaddoura
+    institution: Zayed University
+  - username: ~Ahmad_Kashmar1
+    first_name: Ahmad
+    last_name: Kashmar
+    institution: Arab Center for Research and Policy Studies
+  - username: ~Amr_Keleg1
+    first_name: Amr
+    last_name: Keleg
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Ayman_Khalafallah1
+    first_name: Ayman
+    last_name: Khalafallah
+    institution: Alexandria University
+  - username: ~Salam_Khalifa1
+    first_name: Salam
+    last_name: Khalifa
+    institution: New York University
+  - username: ~Khalid_Al_Khatib1
+    first_name: Khalid
+    middle_name: Al
+    last_name: Khatib
+    institution: University of Groningen
+  - username: ~Md_Tawkat_Islam_Khondaker1
+    first_name: Md Tawkat Islam
+    last_name: Khondaker
+    institution: University of British Columbia
+  - username: ~Jordan_Kodner1
+    first_name: Jordan
+    last_name: Kodner
+    institution: State University of New York, Stony Brook
+  - username: ~David_Langlois1
+    first_name: David
+    last_name: Langlois
+    institution: Université de Lorraine
+  - username: ~Mohamed_Lichouri2
+    first_name: Mohamed
+    last_name: Lichouri
+    institution: Université des Sciences et de la Technologie Houari Boumediène
+  - username: ~Hamzah_Luqman1
+    first_name: Hamzah
+    last_name: Luqman
+    institution: King Fahad University of Petroleum and Minerals
+  - username: ~Rana_Malhas1
+    first_name: Rana
+    last_name: Malhas
+    institution: Qatar University
+  - username: ~Watheq_Mansour1
+    first_name: Watheq
+    last_name: Mansour
+    institution: The University of Queensland
+  - username: ~Reham_Marzouk1
+    first_name: Reham
+    last_name: Marzouk
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Salima_Mdhaffar1
+    first_name: Salima
     last_name: Mdhaffar
     institution: Université d'Avignon
-  - first_name: Samhaa
-    middle_name: R.
-    last_name: El-Beltagy
-  - first_name: Sanaa
-    last_name: Kaddoura
-  - first_name: Seid
+  - username: ~CHERAGUI_Mohamed_Amine1
+    first_name: Cheragui
+    middle_name: Mohamed
+    last_name: Mohamed Amine
+    institution: Ahmed Draia University
+  - username: ~Ghassan_Mourad1
+    first_name: Ghassan
+    last_name: Mourad
+    institution: Lebanese University
+  - username: ~Amel_Muminovic1
+    first_name: Amel
+    last_name: Muminovic
+    institution: International Balkan University
+  - username: ~Ahmad_M_Mustafa1
+    first_name: Ahmad
+    middle_name: M
+    last_name: Mustafa
+    institution: Jordan University of Science and Technology
+  - username: ~Sara_Nabhani2
+    first_name: Sara
+    last_name: Nabhani
+    institution: University of Groningen
+  - username: ~OMER_NACAR1
+    first_name: Omer
+    last_name: Nacar
+    institution: Tuwaiq Academy
+  - username: ~Alexis_Nasr1
+    first_name: Alexis
+    last_name: Nasr
+    institution: Aix Marseille University
+  - username: ~Latifa_Iben_Nasr1
+    first_name: Iben
+    middle_name: Iben
+    last_name: Nasr Latifa
+    institution: University of Sfax
+  - username: ~Mayar_Nassar1
+    first_name: Mayar
+    last_name: Nassar
+    institution: Ain Shams University
+  - username: ~Shah_Nawaz2
+    first_name: Shah
+    last_name: Nawaz
+    institution: Johannes Kepler Universität Linz
+  - username: ~Usman_Nawaz1
+    first_name: Usman
+    last_name: Nawaz
+    institution: University of Palermo, Italy
+  - username: ~ATTIA_NEHAR1
+    first_name: Attia
+    last_name: Nehar
+    institution: Ziane Achour University
+  - username: ~Ahamed_Rameez_Mohamed_Nizzad1
+    first_name: Ahamed
+    middle_name: Rameez Mohamed
+    last_name: Nizzad
+    institution: Zayed University
+  - username: ~Arwa_Omayrah1
+    first_name: Arwa
+    last_name: Omayrah
+    institution: HUMAIN
+  - username: ~Ömer_Tarik_Özyilmaz1
+    first_name: Ömer
+    middle_name: Tarik
+    last_name: Özyilmaz
+    institution: University Medical Center Groningen
+  - username: ~David_M._Palfreyman1
+    first_name: David
+    middle_name: M.
+    last_name: Palfreyman
+    institution: United Arab Emirates University
+  - username: ~Abed_Qaddoumi1
+    first_name: Abdelrahim
+    last_name: Qaddoumi
+    institution: State University of New York at Stony Brook
+  - username: ~Chatrine_Qwaider1
+    first_name: Chatrine
+    last_name: Qwaider
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Nour_Rabih1
+    first_name: Nour
+    last_name: Rabih
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Owen_Rambow3
+    first_name: Owen
+    last_name: Rambow
+    institution: Stony Brook University
+  - username: ~Mahmoud_Reda1
+    first_name: Mahmoud
+    last_name: Reda
+    institution: New York University
+  - username: ~Caroline_Sabty1
+    first_name: Caroline
+    last_name: Sabty
+    institution: German International University
+  - username: ~Waseem_SAFI1
+    first_name: Waseem
+    last_name: SAFI
+    institution: Damascus University
+  - username: ~Hassan_Sajjad1
+    first_name: Hassan
+    last_name: Sajjad
+    institution: Dalhousie University
+  - username: ~Marwan_Sayed1
+    first_name: Marwan
+    last_name: Sayed
+    institution: Qatar University
+  - username: ~Muhammad_Shakeel1
+    first_name: Muhammad
+    last_name: Shakeel
+    institution: Honda Research Institution Japan Co., Ltd.
+  - username: ~Nada_Sharaf1
+    first_name: Nada
+    last_name: Sharaf
+    institution: The German International University
+  - username: ~Serry_Sibaee1
+    first_name: Serry
+    last_name: Sibaee
+    institution: Prince Sultan University
+  - username: ~Peter_Sullivan1
+    first_name: Peter
+    last_name: Sullivan
+    institution: University of British Columbia
+  - username: ~Reem_Suwaileh1
+    first_name: Reem
+    last_name: Suwaileh
+    institution: Civil Service and Government Development Bureau, Qatar
+  - username: ~Minh_Ngoc_Ta1
+    first_name: Minh
+    middle_name: Ngoc
+    last_name: Ta
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - username: ~Marwan_Torki1
+    first_name: Marwan
+    last_name: Torki
+    institution: Alexandria University
+  - username: ~Samia_Touileb1
+    first_name: Samia
+    last_name: Touileb
+    institution: University of Bergen
+  - username: ~Ahmed_Wasfy1
+    first_name: Ahmed
+    last_name: Wasfy
+    institution: KAND CA Corp.
+  - username: ~Moustafa_Wassel1
+    first_name: Moustafa
+    last_name: Wassel
+    institution: Alexandria University
+  - username: ~Suveyda_Yeniterzi1
+    first_name: Suveyda
+    last_name: Yeniterzi
+    institution: GenAIus Technologies
+  - username: ~Seid_Muhie_Yimam1
+    first_name: Seid
     middle_name: Muhie
     last_name: Yimam
     institution: Universität Hamburg
-  - first_name: Serry
-    last_name: Sibaee
-    institution: Prince Sultan University
-  - first_name: Shah
-    last_name: Nawaz
-    institution: Johannes Kepler Universität Linz
-  - first_name: Sharif
-    last_name: Ahmed
-    institution: University of Central Arkansas
-  - first_name: Simran
-    last_name: Tiwari
-    institution: Mendel Health Inc
-  - first_name: Slimane
-    last_name: Bellaouar
-  - first_name: Sohaila
-    last_name: Eltanbouly
-    institution: University of Qatar
-  - first_name: Sultan
-    last_name: Alrowili
-    institution: IBM Research
-  - first_name: Suveyda
-    last_name: Yeniterzi
-    institution: GenAIus Technologies
-  - first_name: Taha
-    last_name: Zerrouki
-  - first_name: Tamer
-    last_name: Elsayed
-    institution: Qatar University
-  - first_name: Usman
-    last_name: Nawaz
-    institution: University of Palermo, Italy
-  - first_name: Vincent
-    last_name: Koc
-    institution: Comet ML, The University of Queensland and Massachusetts Institute of Technology
-  - first_name: Violetta
-    last_name: Cavalli-Sforza
-  - first_name: Waad
-    middle_name: Thuwaini
-    last_name: Alshammari
-    institution: King Salman Global Academy for Arabic Language
-  - first_name: Wajdi
+  - username: ~Wajdi_Zaghouani2
+    first_name: Wajdi
     last_name: Zaghouani
     institution: Northwestern University
-  - first_name: Waseem
-    last_name: Safi
-    institution: Damascus University
-  - first_name: Wasif
-    last_name: Feroze
-  - first_name: Watheq
-    last_name: Mansour
-  - first_name: Wissam
-    last_name: Antoun
-  - first_name: Yassine
-    last_name: El Kheir
-  - first_name: Youssef
-    last_name: Al Hariri
-    institution: Edinburgh University, University of Edinburgh
-  - first_name: Yuchen
-    last_name: Zhang
-    institution: University of Essex
-  - first_name: Zahra
-    last_name: Bokaei
-  - first_name: Zaid
-    last_name: Alyafeai
-    institution: King Abdullah University of Science and Technology
-  - first_name: Ziani
-    last_name: Amel
-    institution: Chadli Benjedid University
-  - first_name: Ömer
-    middle_name: Tarik
-    last_name: Özyilmaz
+  - username: ~Bielasan_Zaina2
+    first_name: Bielasan
+    last_name: Zaina
+    institution: Georgetown University
+  - username: ~Hoda_Zaiton1
+    first_name: Hoda
+    last_name: Zaiton
+    institution: Pharos University in Alexandria
+  - username: ~Petr_Zemánek1
+    first_name: Petr
+    last_name: Zemánek
+    institution: Charles University Prague
+  - username: ~Taha_Zerrouki1
+    first_name: Taha
+    last_name: Zerrouki
+    institution: Bouira University
   role: Reviewers
-  type: name_block_list
-- entries:
-  - first_name: Houda
-    last_name: Bouamor
-  - first_name: Areeb
-    last_name: Alowisheq
-  role: Invited Speaker
-  type: name_block_list
+#  type: name_block

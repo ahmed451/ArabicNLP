@@ -1,8 +1,12 @@
 - tier: Platinum
   logos:
-    - humain.png
     - google.png
 - tier: Gold
   logos:
+    - Qatar_Debate.png
+- tier: Silver
+  logos:
     - camelLab.png
-    - clinicalAiLab.jpg
+    - AramLab.png
+    - ResembleAILogo.jpg
+    - tuwaiq-logo.png

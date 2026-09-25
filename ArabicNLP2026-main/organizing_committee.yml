@@ -1,73 +1,69 @@
 - members:
-  - first_name: Kareem
-    institution: Qatar Computing Research Institute, Qatar 
-    last_name: Darwish
+  - first_name: Muhammad
+    last_name: Abdul-Mageed
+    institution: The University of British Columbia, Canada
   role: General Chair
 - members:
-  - first_name: Ahmed
-    institution: Humain, KSA
-    last_name: Ali
-  - first_name: Ibrahim
-    institution: Alsun AI, UK
-    last_name: Abu Farha
-  - first_name: Samia
-    institution: University of Bergen, Norway
-    last_name: Touileb
-  - first_name: Imed
-    institution: Google, USA
-    last_name: Zitouni
+  - first_name: Tamer
+    last_name: Elsayed
+    institution: Qatar University, Qatar
+  - first_name: Houda
+    last_name: Bouamor
+    institution: CMU-Q, Qatar
+  - first_name: Samhaa
+    last_name: El-Beltagy
+    institution: Nawy, Egypt
+  - first_name: Hend
+    last_name: Al-Khalifa
+    institution: King Saud University, Saudi Arabia
   role: Program Chairs
 - members:
   - first_name: Ahmed
-    institution: Humain, KSA
     last_name: Abdelali
-  - first_name: Sharefah 
-    institution: King Saud University, KSA
-    last_name: Al-Ghamdi
+    institution: HUMAIN, Saudi Arabia
+  - first_name: AbdelRahim
+    last_name: Elmadany
+    institution: The University of British Columbia, Canada
+  - first_name: Abdellah
+    last_name: El Mekki
+    institution: The University of British Columbia, Canada
   role: Publication Chairs
 - members:
-  - first_name: Sakhar 
-    institution: Humain, KSA
+  - first_name: Kareem
+    last_name: Darwish
+    institution: QCRI, Qatar
+  role: Growth and Initiatives Chair
+- members:
+  - first_name: Sakhar
     last_name: Alkhereyf
-  - first_name: Wajdi 
-    institution: Northwestern University in Qatar, Qatar
-    last_name: Zaghouani
-  role: Shared Tasks Chair
+    institution: HUMAIN, Saudi Arabia
+  - first_name: Hamzah
+    last_name: Luqman
+    institution: King Fahd University of Petroleum \& Minerals, Saudi Arabia
+  role: Shared Tasks Chairs
 - members:
-  - first_name: Salam 
-    institution: Stony Brook University, USA
+  - first_name: Salam
     last_name: Khalifa
-  - first_name: Badr 
-    institution: EPFL, Switzerland
-    last_name: AlKhamissi
-  - first_name: Rawan 
-    institution: King Salman Global Academy for Arabic Language, Saudi Arabia
-    last_name: Almatham
-  role: Publicity Chairs
+    institution: Stony Brook University, USA
+  - first_name: Samar
+    last_name: Magdy
+    institution: The University of British Columbia, Canada
+  role: Publicity and Social Chairs
 - members:
-  - first_name: Injy
-    institution: New York University Abu Dhabi, UAE
-    last_name: Hamed
-  - first_name: Zaid 
-    institution: KAUST, KSA
+  - first_name: Zaid
     last_name: Alyafeai
+    institution: King Abdullah University of Science and Technology, Saudi Arabia
+  - first_name: Injy
+    last_name: Hamed
+    institution: MBZUAI, UAE
   role: Scholarships and Awards Chairs
 - members:
-  - first_name: Areeb 
-    institution: Humain, KSA
-    last_name: Alowisheq
-  - first_name: Imed
-    institution: Google, USA
-    last_name: Zitouni
-  role: Sponsorship Chairs
+  - first_name: Wajdi
+    last_name: Zaghouani
+    institution: Northwestern University, Qatar
+  role: Ethics Chair
 - members:
-  - first_name: Go
-    institution: MBZUAI, UAE
-    last_name: Inoue
-  - first_name: Khalil
-    institution: TikTok, USA 
-    last_name: Mrini
-  - first_name: Waad
-    institution: King Salman Global Academy for Arabic Language, Saudi Arabia
-    last_name: Alshammari
-  role: Social Chairs
+  - first_name: Imed
+    last_name: Zitouni
+    institution: Meta
+  role: Sponsorship Chair
