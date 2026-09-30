@@ -11291,7 +11291,7 @@
   id: '1512'
   openreview_id: 6G4RTSViDv
   pdf_file: 35f1c31adcb19d1ea713d98c9ee4be7e9cf474bc.pdf
-  title: 'Ṣaqr at AISA-ArabicFC: What Actually Influences Arabic Function Calling?'
+  title: '\d{S}aqr at AISA-ArabicFC: What Actually Influences Arabic Function Calling?'
 - abstract: Argument exact-match (ArgEM) dominates the AISA-ArabicFC score. Under
     one prompt, a base gemma-4-12B-it reaches 0.9853 FnAcc but only 0.6940 ArgEM on
     dev, suggesting that argument convention rather than tool selection is the binding
