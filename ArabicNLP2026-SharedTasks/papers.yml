@@ -7449,8 +7449,8 @@
   id: '006'
   openreview_id: nK2otbljdj
   pdf_file: f15dc1408786bdd3993be0a8d2e4dbeb89f6b4d3.pdf
-  title: 'Halluscoring 2026: The first shared task on llms hallucination detection
-    and answer verification.'
+  title: 'Halluscoring 2026: The First Shared Task on LLM Hallucination Detection
+    Answer Verification'
 - abstract: 'We describe our submission to HalluScoring 2026 for Arabic hallucination
     detection in general-culture and Islamic-knowledge question answering. Our system
     adapts the instruction-tuned 12B-parameter Gemma 4 model with QLoRA. Its central
