@@ -154,6 +154,7 @@
     username: ~Muhammad_Abdul-Mageed2
   decision: Submission
   file: '0011.pdf'
+  attachment: '0011_copyright.pdf'
   id: '0011'
   openreview_id: z4mTFxlYAl
   pdf_file: 1d93144b0cbb16a41fa4c3251a5f651a0011b27a.pdf
@@ -191,6 +192,7 @@
     username: ~Amr_Sabaa1
   decision: Submission
   file: '011.pdf'
+  attachment: '011_copyright.pdf'
   id: '011'
   openreview_id: h9mzh6dSnp
   pdf_file: 03b5403f225529b5654f80ead5c1a30eab4392e9.pdf
@@ -257,6 +259,7 @@
     username: ~Shammur_Absar_Chowdhury1
   decision: Submission
   file: '012.pdf'
+  attachment: '012_copyright.pdf'
   id: '012'
   openreview_id: NpyfetgtfB
   pdf_file: ee18abaa036912b40203543ac1e22bdf6855a126.pdf
@@ -341,6 +344,7 @@
     username: ~Lahouari_Ghouti3
   decision: Submission
   file: '013.pdf'
+  attachment: '013_copyright.pdf'
   id: '013'
   openreview_id: CayKwyBY7h
   pdf_file: cbba20e96ba92ba73a9559276347b9ff696e29f6.pdf
@@ -384,6 +388,7 @@
     username: ~Sahar_Selim1
   decision: Submission
   file: '014.pdf'
+  attachment: '014_copyright.pdf'
   id: '014'
   openreview_id: Qq9T8ZQqa1
   pdf_file: e14742e3fd6bdcb09b21aa0f405a7e09382f2017.pdf
@@ -410,6 +415,7 @@
     username: ~Sulaiman_Alkurbi1
   decision: Submission
   file: '015.pdf'
+  attachment: '015_copyright.pdf'
   id: '015'
   openreview_id: zRpTPuwktq
   pdf_file: 8c666a94d5a74abf40da460d1ae01643f5fb4445.pdf
@@ -471,6 +477,7 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '016.pdf'
+  attachment: '016_copyright.pdf'
   id: '016'
   openreview_id: EeqMQYxdp3
   pdf_file: b33103f80a26e9aeb7a3c4fe943e9fa21b33cd8b.pdf
@@ -505,6 +512,7 @@
     username: ~Salma_Khaled_Hegazy1
   decision: Submission
   file: '017.pdf'
+  attachment: '017_copyright.pdf'
   id: '017'
   openreview_id: SboKQZhoeO
   pdf_file: a8018ae675579d72d841cca9c7783e8f9ca68df2.pdf
@@ -581,6 +589,7 @@
     username: ~ABDULKADIR_SHEHU_BICHI1
   decision: Submission
   file: '018.pdf'
+  attachment: '018_copyright.pdf'
   id: 018
   openreview_id: ulhHUGq2xN
   pdf_file: 7cc3fa1fac1707ed84997602bb4daa31c26cf237.pdf
@@ -639,6 +648,7 @@
     username: ~Youssef_Mohamed1
   decision: Submission
   file: '019.pdf'
+  attachment: '019_copyright.pdf'
   id: 019
   openreview_id: smfDPUockC
   pdf_file: 527745aa30b7b561d541771480a991cee59dddee.pdf
@@ -697,6 +707,7 @@
     username: ~Abdullah_Aldahlawi1
   decision: Submission
   file: '0110.pdf'
+  attachment: '0110_copyright.pdf'
   id: '0110'
   openreview_id: TKcug9Euwk
   pdf_file: 27bc31ba25776cc8b7e160539fcc11af48087d6c.pdf
@@ -734,6 +745,7 @@
     username: ~Nourhan_Anber1
   decision: Submission
   file: '0111.pdf'
+  attachment: '0111_copyright.pdf'
   id: '0111'
   openreview_id: jDUPtC4kpS
   pdf_file: 23a8a46c7f87ecc136695c8ae72c928da57dfb7a.pdf
@@ -783,6 +795,7 @@
     username: ~Ismail_Berrada1
   decision: Submission
   file: '0112.pdf'
+  attachment: '0112_copyright.pdf'
   id: '0112'
   openreview_id: dtobe1UFLw
   pdf_file: 6ff0e2fcf1fa6c3983728b0cdb7b0bd20ce54701.pdf
@@ -867,6 +880,7 @@
     username: ~Wael_Ali1
   decision: Submission
   file: '0113.pdf'
+  attachment: '0113_copyright.pdf'
   id: '0113'
   openreview_id: m3huoXX74G
   pdf_file: 3f9dd55fe6cda532ff54764e26fadf1f70a10a73.pdf
@@ -904,6 +918,7 @@
     username: ~Ibrahim_Almajai1
   decision: Submission
   file: '0114.pdf'
+  attachment: '0114_copyright.pdf'
   id: '0114'
   openreview_id: okRLdk3KpH
   pdf_file: 6f4c6d45dcd1973a9a6e99131178ac16ee08ea7d.pdf
@@ -978,6 +993,7 @@
     username: ~Nizar_Habash1
   decision: Submission
   file: '008.pdf'
+  attachment: '008_copyright.pdf'
   id: 008
   openreview_id: vJTuZ06fwp
   pdf_file: b82f46d0ccfa26e0aa941b9b97cfbb5ea416baac.pdf
@@ -1049,6 +1065,7 @@
     username: ~Thìn_Đặng_Văn1
   decision: Submission
   file: '021.pdf'
+  attachment: '021_copyright.pdf'
   id: '021'
   openreview_id: j1SBhIKMM6
   pdf_file: 9bbc256e854dd44f0f06e10c4e0bc0e31bdb7f39.pdf
@@ -1083,6 +1100,7 @@
     username: ~Maksim_Silchenko1
   decision: Submission
   file: '022.pdf'
+  attachment: '022_copyright.pdf'
   id: '022'
   openreview_id: 7m9Stqy25H
   pdf_file: cda82a22c409a643190407dcd229a853214f2eb4.pdf
@@ -1122,6 +1140,7 @@
     username: ~Wajdi_Zaghouani2
   decision: Submission
   file: '023.pdf'
+  attachment: '023_copyright.pdf'
   id: '023'
   openreview_id: 6uVs6qpLp4
   pdf_file: 00df85f931e1f8d29c08b784280a259f0c40e09b.pdf
@@ -1158,6 +1177,7 @@
     username: ~Miftahul_Jannat_Rishta1
   decision: Submission
   file: '024.pdf'
+  attachment: '024_copyright.pdf'
   id: '024'
   openreview_id: z7atdtxqDf
   pdf_file: c0c354f0c5d3bd41aa423498c9343aacea964d96.pdf
@@ -1214,6 +1234,7 @@
     username: ~Thìn_Đặng_Văn1
   decision: Submission
   file: '025.pdf'
+  attachment: '025_copyright.pdf'
   id: '025'
   openreview_id: aaMYDSjYv1
   pdf_file: 8d178a5105da62e23520800edd38fcb8b8bac1c6.pdf
@@ -1253,6 +1274,7 @@
     username: ~xueqi_li6
   decision: Submission
   file: '027.pdf'
+  attachment: '027_copyright.pdf'
   id: '027'
   openreview_id: DFWFXpgliK
   pdf_file: 9d988717ea1e7d184f1925c4018d0e0021cdefb8.pdf
@@ -1327,6 +1349,7 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '028.pdf'
+  attachment: '028_copyright.pdf'
   id: 028
   openreview_id: EVBqZ21Ogj
   pdf_file: 5ff9242682d82d295bad7636499509d49f30e71d.pdf
@@ -1361,6 +1384,7 @@
     username: ~Mahmoud_Zaher1
   decision: Submission
   file: '029.pdf'
+  attachment: '029_copyright.pdf'
   id: 029
   openreview_id: p0pM9UE5bF
   pdf_file: f6eaeed7b10d702e367cae347ebf095a866b3a39.pdf
@@ -1407,6 +1431,7 @@
     username: ~Sahara_H._Al-Madi1
   decision: Submission
   file: '0210.pdf'
+  attachment: '0210_copyright.pdf'
   id: '0210'
   openreview_id: lS1AaNXyGs
   pdf_file: 2726668f1c2e4d9a897ae858f2efd71202e0d087.pdf
@@ -1437,6 +1462,7 @@
     username: ~Turab_Hussain_Usmani1
   decision: Submission
   file: '0211.pdf'
+  attachment: '0211_copyright.pdf'
   id: '0211'
   openreview_id: MeZPqVMvL5
   pdf_file: cdcb226c266d4ef911816c1fc910dfdc26f715d2.pdf
@@ -1525,6 +1551,7 @@
     username: ~Quan_Minh_Nguyen4
   decision: Submission
   file: '001.pdf'
+  attachment: '001_copyright.pdf'
   id: '001'
   openreview_id: F4y6bhbiui
   pdf_file: 20df51a4a627eafdf5b508d8c818b9e40049ff79.pdf
@@ -1552,6 +1579,7 @@
     username: ~Rabee_Al-Qasem1
   decision: AraGenre
   file: '031.pdf'
+  attachment: '031_copyright.pdf'
   id: '031'
   openreview_id: sD6jM4poK0
   pdf_file: 90247d79cdf481b524357c1ec297aefa83285e49.pdf
@@ -1595,6 +1623,7 @@
     username: ~Thìn_Đặng_Văn1
   decision: AraGenre
   file: '032.pdf'
+  attachment: '032_copyright.pdf'
   id: '032'
   openreview_id: E04hu5xKbL
   pdf_file: f2294e31704351aeb451a631371cd473105504a2.pdf
@@ -1635,6 +1664,7 @@
     username: ~Wajdi_Zaghouani2
   decision: AraGenre
   file: '033.pdf'
+  attachment: '033_copyright.pdf'
   id: '033'
   openreview_id: TKnEcvK5zA
   pdf_file: e67557c8fd214889ac8663f24d0bc92490844a76.pdf
@@ -1666,6 +1696,7 @@
     username: ~Nguyen_Minh_Chi1
   decision: AraGenre
   file: '034.pdf'
+  attachment: '034_copyright.pdf'
   id: '034'
   openreview_id: Z5NRlZTDLt
   pdf_file: 27c772cc7074fd88628b5363017524d303a67d5a.pdf
@@ -1695,6 +1726,7 @@
     username: ~Mohannad_Hendi1
   decision: AraGenre
   file: '035.pdf'
+  attachment: '035_copyright.pdf'
   id: '035'
   openreview_id: T2Awhury2Z
   pdf_file: d40b34a9705c45b1fdcb9cd547aa1b2012229e85.pdf
@@ -1754,6 +1786,7 @@
     username: ~OMER_NACAR1
   decision: AraGenre
   file: '036.pdf'
+  attachment: '036_copyright.pdf'
   id: '036'
   openreview_id: 4a0CZouCyl
   pdf_file: bf14187bde447928541b9e1340f23eb3855b9280.pdf
@@ -1790,6 +1823,7 @@
     username: ~Ghader_Kurdi1
   decision: AraGenre
   file: '038.pdf'
+  attachment: '038_copyright.pdf'
   id: 038
   openreview_id: Zv6rnjUUlB
   pdf_file: e40d2692a211681d3fce47f7a51eae25c884f5e2.pdf
@@ -1863,6 +1897,7 @@
     username: ~Morooj_Alrajhi1
   decision: AraGenre
   file: '039.pdf'
+  attachment: '039_copyright.pdf'
   id: 039
   openreview_id: lrqHfy9U2I
   pdf_file: 8a7815fddfeb38540da5ee3230a4d179df2013ff.pdf
@@ -1905,6 +1940,7 @@
     username: ~Ahmad_Afles1
   decision: AraGenre
   file: '0310.pdf'
+  attachment: '0310_copyright.pdf'
   id: '0310'
   openreview_id: AH39cbcgwa
   pdf_file: e0246701f1f92ebb2fe9f8628b723c753d8de686.pdf
@@ -1962,6 +1998,7 @@
     username: ~Riad_Sonbol1
   decision: AraGenre
   file: '0311.pdf'
+  attachment: '0311_copyright.pdf'
   id: '0311'
   openreview_id: 9zY8Y8vl0c
   pdf_file: 83ebac6e58261ffdbd4caf84daeab7fc42b4fad6.pdf
@@ -2012,6 +2049,7 @@
     username: ~Abdullah_Aldahlawi1
   decision: AraGenre
   file: '0312.pdf'
+  attachment: '0312_copyright.pdf'
   id: '0312'
   openreview_id: iMuYSCpelO
   pdf_file: 03df8903a147c02519606442df37160c0db6666d.pdf
@@ -2119,6 +2157,7 @@
     username: ~Wajdi_Zaghouani2
   decision: Submission
   file: '004.pdf'
+  attachment: '004_copyright.pdf'
   id: '004'
   openreview_id: VYe3GDz3ij
   pdf_file: c9928d58d4bee9735c05cfdfb74bbbc3b9b29d46.pdf
@@ -2156,6 +2195,7 @@
     username: ~Dimitris_Bilianos1
   decision: Submission
   file: '042.pdf'
+  attachment: '042_copyright.pdf'
   id: '042'
   openreview_id: zC3I8QEU06
   pdf_file: c08e51c6d820e8c014d8877345d6a7f3167b23af.pdf
@@ -2196,6 +2236,7 @@
     username: ~Sumaiya_Zaman1
   decision: Submission
   file: '043.pdf'
+  attachment: '043_copyright.pdf'
   id: '043'
   openreview_id: LaHFaQmE4E
   pdf_file: 9985333649f31b4a943a7144b5b702abc408a30f.pdf
@@ -2237,6 +2278,7 @@
     username: ~Satori_khalid1
   decision: Submission
   file: '044.pdf'
+  attachment: '044_copyright.pdf'
   id: '044'
   openreview_id: DxI2d2ZPth
   pdf_file: c8c3eb13d98158993f3b583a664c0c1b6e8a8f61.pdf
@@ -2281,6 +2323,7 @@
     username: ~Arkaitz_Zubiaga1
   decision: Submission
   file: '045.pdf'
+  attachment: '045_copyright.pdf'
   id: '045'
   openreview_id: THSOzSKcT7
   pdf_file: 73db4111e47e84c2bdfcbfac2681056f8363e049.pdf
@@ -2330,6 +2373,7 @@
     username: ~Yasir_Zaki1
   decision: Submission
   file: '046.pdf'
+  attachment: '046_copyright.pdf'
   id: '046'
   openreview_id: CYUZCgheeX
   pdf_file: 94ea29528f43ae08acd8bd45664e50b18b8d49db.pdf
@@ -2363,6 +2407,7 @@
     username: ~Rahul_Srivastava2
   decision: Submission
   file: '047.pdf'
+  attachment: '047_copyright.pdf'
   id: '047'
   openreview_id: 5G4sgipcHs
   pdf_file: ad266e8a917357ed820c5ea1790264f11a09d72c.pdf
@@ -2412,6 +2457,7 @@
     username: ~Ali_Arshad1
   decision: Submission
   file: '048.pdf'
+  attachment: '048_copyright.pdf'
   id: 048
   openreview_id: gOoM3IPqev
   pdf_file: cb2888ba7c65e486f23b245282519cf7863caded.pdf
@@ -2448,6 +2494,7 @@
     username: ~Md._Faisal_Sheikh1
   decision: Submission
   file: '049.pdf'
+  attachment: '049_copyright.pdf'
   id: 049
   openreview_id: nCFfC1HY70
   pdf_file: fc038d4b84701f7b99fda349f5d450a35081910a.pdf
@@ -2478,6 +2525,7 @@
     username: ~Zohra_Abdeli1
   decision: Submission
   file: '0410.pdf'
+  attachment: '0410_copyright.pdf'
   id: '0410'
   openreview_id: IXr5EZ1wVh
   pdf_file: 8a264432f999ed3d03eb7eb7ca16a084472ad7cc.pdf
@@ -2555,6 +2603,7 @@
     username: ~Anna_Feldman1
   decision: Submission
   file: '0411.pdf'
+  attachment: '0411_copyright.pdf'
   id: '0411'
   openreview_id: QNZy7wjJrH
   pdf_file: 8cc4cacc34d17596bdff8a098b2fec5ba89ce11b.pdf
@@ -2585,6 +2634,7 @@
     username: ~Md._Ajwad_Hossain1
   decision: Submission
   file: '0412.pdf'
+  attachment: '0412_copyright.pdf'
   id: '0412'
   openreview_id: qe8mfE0xPK
   pdf_file: 9a4710a016723ec0e1bdbdf8de9d7ff2cf7ee6bc.pdf
@@ -2677,6 +2727,7 @@
     username: ~Alexander_Gelbukh1
   decision: Submission
   file: '0413.pdf'
+  attachment: '0413_copyright.pdf'
   id: '0413'
   openreview_id: ikuWMks3YC
   pdf_file: 352e2dc93aa034f8df2628cebfe48adcdaf108a0.pdf
@@ -2708,6 +2759,7 @@
     username: ~Yves_Bestgen1
   decision: Submission
   file: '0414.pdf'
+  attachment: '0414_copyright.pdf'
   id: '0414'
   openreview_id: jyBWk06MKz
   pdf_file: 6c10dcec26c110ee42e599faea0e00a2c0d1492a.pdf
@@ -2806,6 +2858,7 @@
     username: ~Maimuna_Tabassum1
   decision: Submission
   file: '0415.pdf'
+  attachment: '0415_copyright.pdf'
   id: '0415'
   openreview_id: ZUx518mdTK
   pdf_file: 56facdf342807a4c544e445f68f93b0d19daa22a.pdf
@@ -2877,6 +2930,7 @@
     username: ~Grigori_Sidorov1
   decision: Submission
   file: '0416.pdf'
+  attachment: '0416_copyright.pdf'
   id: '0416'
   openreview_id: uBinJHKQuG
   pdf_file: 9d2fec76886cb30b4bd92fd148b5dc85f8efedef.pdf
@@ -2922,6 +2976,7 @@
     username: ~Sahinur_Rahman_Laskar1
   decision: Submission
   file: '0417.pdf'
+  attachment: '0417_copyright.pdf'
   id: '0417'
   openreview_id: ff7QZK4kca
   pdf_file: 419dc11f0677a5f75e7fbb6dfcb014d6bc1d704e.pdf
@@ -2995,6 +3050,7 @@
     username: ~Alexander_Gelbukh1
   decision: Submission
   file: '0418.pdf'
+  attachment: '0418_copyright.pdf'
   id: 0418
   openreview_id: xRVFVYVOPf
   pdf_file: 99f3029fe1d6c66188fa5ff1fe6705e8df6cc2ce.pdf
@@ -3037,6 +3093,7 @@
     username: ~Ilya_Makarov1
   decision: Submission
   file: '0419.pdf'
+  attachment: '0419_copyright.pdf'
   id: 0419
   openreview_id: z8QbCS93JM
   pdf_file: 5eb500eea7eea34670a68da695839890c29689c5.pdf
@@ -3085,6 +3142,7 @@
     username: ~Maher_JAOUA1
   decision: Submission
   file: '0420.pdf'
+  attachment: '0420_copyright.pdf'
   id: '0420'
   openreview_id: jScWMIQHtO
   pdf_file: 05bd0054fba193c09b10f78dee9533589164c53a.pdf
@@ -3168,6 +3226,7 @@
     username: ~Maher_JAOUA1
   decision: Submission
   file: '0421.pdf'
+  attachment: '0421_copyright.pdf'
   id: '0421'
   openreview_id: ZfMnOSJ0yF
   pdf_file: d4ad351a703fd4f6d91b48aab85d49364a335702.pdf
@@ -3209,6 +3268,7 @@
     username: ~Radu-Gabriel_Chivereanu1
   decision: Submission
   file: '0422.pdf'
+  attachment: '0422_copyright.pdf'
   id: '0422'
   openreview_id: 4Y2G0AutCa
   pdf_file: 756ee1031af11b552f300b7cb403b42a9fe470b3.pdf
@@ -3246,6 +3306,7 @@
     username: ~Ahmed_Younis1
   decision: Submission
   file: '0423.pdf'
+  attachment: '0423_copyright.pdf'
   id: '0423'
   openreview_id: DKcR8NaDwL
   pdf_file: 2f409c594c1cee64cc6b6081b2399991d6cd43c0.pdf
@@ -3310,6 +3371,7 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '0426.pdf'
+  attachment: '0426_copyright.pdf'
   id: '0426'
   openreview_id: bziWsSeJmX
   pdf_file: 6840c34d87c7639a94da9b8429ddbd2c51a86495.pdf
@@ -3349,6 +3411,7 @@
     username: ~Abdelrahman_Sameh_Ibrahim_Ibrahim_Hassaan1
   decision: Submission
   file: '0427.pdf'
+  attachment: '0427_copyright.pdf'
   id: '0427'
   openreview_id: SNEAGjeM2A
   pdf_file: 5759f1299bcff20e2173f7855d502bc74b3cbd35.pdf
@@ -3400,6 +3463,7 @@
     username: ~Sabila_Anzum1
   decision: Submission
   file: '0428.pdf'
+  attachment: '0428_copyright.pdf'
   id: 0428
   openreview_id: KUcSHVmeEv
   pdf_file: 7e77a1d78b21fcd62dd8cc35f6c7b14ad0c44b2e.pdf
@@ -3517,6 +3581,7 @@
     username: ~Nora_Alturayeif1
   decision: Submission
   file: '009.pdf'
+  attachment: '009_copyright.pdf'
   id: 009
   openreview_id: jAdd2NNDS3
   pdf_file: 3f4e267236f92ef5cd048be749f143245d15289a.pdf
@@ -3572,6 +3637,7 @@
     username: ~Alexander_Mehler2
   decision: Submission
   file: '051.pdf'
+  attachment: '051_copyright.pdf'
   id: '051'
   openreview_id: U476a8A0oQ
   pdf_file: 3f5e9ebc466200ba79506f9c810b2758e3daab11.pdf
@@ -3634,6 +3700,7 @@
     username: ~Razan_Alsulieman1
   decision: Submission
   file: '053.pdf'
+  attachment: '053_copyright.pdf'
   id: '053'
   openreview_id: 7UHpr36gob
   pdf_file: b2c341ef4d2f64a8a49a52d18e0cb8c3590e5156.pdf
@@ -3664,6 +3731,7 @@
     username: ~Md._Ajwad_Hossain1
   decision: Submission
   file: '054.pdf'
+  attachment: '054_copyright.pdf'
   id: '054'
   openreview_id: Dz9IcAjtNr
   pdf_file: 8f032050068acf8bfd36a5b824bc713fe6013020.pdf
@@ -3720,6 +3788,7 @@
     username: ~Nada_Almarwani1
   decision: Submission
   file: '055.pdf'
+  attachment: '055_copyright.pdf'
   id: '055'
   openreview_id: YY5kLKVNUH
   pdf_file: ef3c84dd7b4e6b2389111f88ceb89b2b95f3bcae.pdf
@@ -3754,6 +3823,7 @@
     username: ~Rabia_Naz1
   decision: Submission
   file: '056.pdf'
+  attachment: '056_copyright.pdf'
   id: '056'
   openreview_id: Dwb0X2V4Rg
   pdf_file: f515d9de28d87b65b6e69cf186ca220f7eb77225.pdf
@@ -3784,6 +3854,7 @@
     username: ~JUNLONG_SHEN1
   decision: Submission
   file: '057.pdf'
+  attachment: '057_copyright.pdf'
   id: '057'
   openreview_id: xe07dORhiP
   pdf_file: 9c95fac68e732ce52005df03eb3c7309ba063143.pdf
@@ -3829,6 +3900,7 @@
     username: ~Dr._Hitesh_Tekchandani1
   decision: Submission
   file: '058.pdf'
+  attachment: '058_copyright.pdf'
   id: 058
   openreview_id: kY3PbbKidT
   pdf_file: 9e933244e5e24f3434449ef1bc06897fd2456e96.pdf
@@ -3903,6 +3975,7 @@
     username: ~Thìn_Đặng_Văn1
   decision: Submission
   file: '059.pdf'
+  attachment: '059_copyright.pdf'
   id: 059
   openreview_id: uKSpkTMYTN
   pdf_file: 1de5f4b79e1d9e8b0557728c85f496bec675c2c9.pdf
@@ -3974,11 +4047,11 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '0511.pdf'
+  attachment: '0511_copyright.pdf'
   id: '0511'
   openreview_id: 2XkFhB420l
   pdf_file: e2ec7d1c9bbaa86fe283412f09cfa5aeb0e44764.pdf
-  title: 'NAMAA at StanceEval-2026: From Encoder and Decoder Model Fine-Tuning to
-    Data-Centric Retrieval-Augmented In-Context Learning for Arabic Stance Detection'
+  title: 'NAMAA at StanceEval-2026: From Encoder and Decoder Model Fine-Tuning to Data-Centric Retrieval-Augmented In-Context Learning for Arabic Stance Detection'
 - abstract: 'Arabic stance depends on quotation, sarcasm, negation, hashtags, and
     target
 
@@ -4017,6 +4090,7 @@
     username: ~Sairam_Narendra_Babu1
   decision: Submission
   file: '0512.pdf'
+  attachment: '0512_copyright.pdf'
   id: '0512'
   openreview_id: qwidRKh7Xm
   pdf_file: 3dbbeec4e88142d08c8c9282d187ac02c79efaa8.pdf
@@ -4055,6 +4129,7 @@
     username: ~Faiza_Qamar1
   decision: Submission
   file: '0513.pdf'
+  attachment: '0513_copyright.pdf'
   id: '0513'
   openreview_id: ZidNnIh5JO
   pdf_file: 5dc5de8e0401172bc5974ca425d6e1118e14a10d.pdf
@@ -4088,6 +4163,7 @@
     username: ~Elham_Alshanqiti1
   decision: Submission
   file: '0514.pdf'
+  attachment: '0514_copyright.pdf'
   id: '0514'
   openreview_id: u6xDEG7pGm
   pdf_file: 82e2c257528689fb3056b79eeb9d57c12d3869eb.pdf
@@ -4133,6 +4209,7 @@
     username: ~Fatemeh_Rahimzadeh2
   decision: Submission
   file: '0515.pdf'
+  attachment: '0515_copyright.pdf'
   id: '0515'
   openreview_id: TDuY5JcDmd
   pdf_file: b8cb5f415cba68cab5488b2aab95e2a71f7b1023.pdf
@@ -4192,6 +4269,7 @@
     username: ~Fadi_zaraket2
   decision: Submission
   file: '0517.pdf'
+  attachment: '0517_copyright.pdf'
   id: '0517'
   openreview_id: tp2C76hH4m
   pdf_file: 64fbcbf1cc4f63d9e3bbfab922082502a917cb28.pdf
@@ -4226,6 +4304,7 @@
     username: ~Saliyah_Alotaibi1
   decision: Submission
   file: '0519.pdf'
+  attachment: '0519_copyright.pdf'
   id: 0519
   openreview_id: 1ZR384rPRD
   pdf_file: 294565aecd5a7460f789603d79122329d4671eb6.pdf
@@ -4278,6 +4357,7 @@
     username: ~Mohammed_Moshiul_Hoque1
   decision: Submission
   file: '0520.pdf'
+  attachment: '0520_copyright.pdf'
   id: '0520'
   openreview_id: FPgisIZs6y
   pdf_file: 1bd2aacdc4a90467e860acc93c6e476487de2ea9.pdf
@@ -4327,6 +4407,7 @@
     username: ~Abdullah_Aldahlawi1
   decision: Submission
   file: '0521.pdf'
+  attachment: '0521_copyright.pdf'
   id: '0521'
   openreview_id: mQeOnmuS8t
   pdf_file: 00a606ae248cff7bdf9ee25031d8c535c8ffb702.pdf
@@ -4374,6 +4455,7 @@
     username: ~mahmoud_Alshrief1
   decision: Submission
   file: '0522.pdf'
+  attachment: '0522_copyright.pdf'
   id: '0522'
   openreview_id: tLOAVja6lE
   pdf_file: 12df150dc1e5ff3ffc116a39e71bf7576a76cd37.pdf
@@ -4535,6 +4617,7 @@
     username: ~Firoj_Alam1
   decision: Submission
   file: '003.pdf'
+  attachment: '003_copyright.pdf'
   id: '003'
   openreview_id: ggcuXPMFi9
   pdf_file: fe8e5ded98316344a7425964be7653120df593e8.pdf
@@ -4581,6 +4664,7 @@
     username: ~Ali_Arshad1
   decision: Submission
   file: '063.pdf'
+  attachment: '063_copyright.pdf'
   id: '063'
   openreview_id: 4DG1y4ZuRI
   pdf_file: 5406dee757045a69941053ac6db608222a3c2db0.pdf
@@ -4632,6 +4716,7 @@
     username: ~Yasir_Zaki1
   decision: Submission
   file: '064.pdf'
+  attachment: '064_copyright.pdf'
   id: '064'
   openreview_id: a6wat3K25c
   pdf_file: 127c9d45ef6f3e218456ae49b624c1bdd7d22c19.pdf
@@ -4667,6 +4752,7 @@
     username: ~Miftahul_Jannat_Rishta1
   decision: Submission
   file: '065.pdf'
+  attachment: '065_copyright.pdf'
   id: '065'
   openreview_id: 1FaQCkbRPi
   pdf_file: c7a134d238c9174b6dc03893f7eefd2fe9e88326.pdf
@@ -4715,6 +4801,7 @@
     username: ~Junlin_liu12
   decision: Submission
   file: '067.pdf'
+  attachment: '067_copyright.pdf'
   id: '067'
   openreview_id: bmJXFjAZl4
   pdf_file: f835e9d11c8543ab45b495f1f7061dbfd434ab48.pdf
@@ -4762,6 +4849,7 @@
     username: ~Ahmed_Ayman_Ahmed_Ezzat_Mohamed1
   decision: Submission
   file: '068.pdf'
+  attachment: '068_copyright.pdf'
   id: 068
   openreview_id: OlqIhEkKIY
   pdf_file: 2a15bb40e8090e71d4a07f654000586718ce18f8.pdf
@@ -4800,6 +4888,7 @@
     username: ~Md._Faisal_Sheikh1
   decision: Submission
   file: '069.pdf'
+  attachment: '069_copyright.pdf'
   id: 069
   openreview_id: bQdzEBqlIG
   pdf_file: 5383b78705856b42ed63a361453c16ef961e37b4.pdf
@@ -4846,6 +4935,7 @@
     username: ~Md_Sakhawat_Hossain1
   decision: Submission
   file: '0610.pdf'
+  attachment: '0610_copyright.pdf'
   id: '0610'
   openreview_id: Zp5Gm5vVG7
   pdf_file: 20488b1e9f42faabae83f6ce2a886805b512ebf0.pdf
@@ -4898,6 +4988,7 @@
     username: ~Hasan_Alkhder3
   decision: Submission
   file: '0611.pdf'
+  attachment: '0611_copyright.pdf'
   id: '0611'
   openreview_id: LFkunq6ReY
   pdf_file: fd01b36eea308840f2c4d9af2965fc05579c437b.pdf
@@ -4933,6 +5024,7 @@
     username: ~Jihadul_Islam1
   decision: Submission
   file: '0612.pdf'
+  attachment: '0612_copyright.pdf'
   id: '0612'
   openreview_id: oFTBRBV0IO
   pdf_file: 41fc06cb80f524a214714f43dd09848aa99d7278.pdf
@@ -4968,6 +5060,7 @@
     username: ~Ahmed_Younis1
   decision: Submission
   file: '0613.pdf'
+  attachment: '0613_copyright.pdf'
   id: '0613'
   openreview_id: zvf3ErXOWs
   pdf_file: c45ba2dd2b8a6f88fe69865f85a6e0e74905b6d0.pdf
@@ -5003,6 +5096,7 @@
     username: ~Ahmed_jlidi1
   decision: Submission
   file: '0614.pdf'
+  attachment: '0614_copyright.pdf'
   id: '0614'
   openreview_id: LbZc82o23P
   pdf_file: f56ddab053137c6bdbeab295b8da7db03c6b162b.pdf
@@ -5096,6 +5190,7 @@
     username: ~Mohamed_Hamdy_Mohamed1
   decision: Submission
   file: '0615.pdf'
+  attachment: '0615_copyright.pdf'
   id: '0615'
   openreview_id: rKbQJ15B8Q
   pdf_file: db67f616176cb2f6e256a2bce80e602fa9b5d0b2.pdf
@@ -5229,6 +5324,7 @@
     username: ~Muhammad_Abdul-Mageed2
   decision: Submission
   file: '005.pdf'
+  attachment: '005_copyright.pdf'
   id: '005'
   openreview_id: m3szjnPNEk
   pdf_file: 1f644cd655628892fba2d2cb6ed8997236099933.pdf
@@ -5283,6 +5379,7 @@
     username: ~Alexander_Mehler2
   decision: Submission
   file: '071.pdf'
+  attachment: '071_copyright.pdf'
   id: '071'
   openreview_id: PXMkkMGa3G
   pdf_file: aa784c8fb9399b95cab36c77927ca7d27bcd6de4.pdf
@@ -5351,6 +5448,7 @@
     username: ~Muhammad_Arif2
   decision: Submission
   file: '072.pdf'
+  attachment: '072_copyright.pdf'
   id: '072'
   openreview_id: 8oyDiJx3Et
   pdf_file: 7ce53cb3f487910eac5a48ec376a549e90468c88.pdf
@@ -5382,6 +5480,7 @@
     username: ~Md._Ajwad_Hossain1
   decision: Submission
   file: '073.pdf'
+  attachment: '073_copyright.pdf'
   id: '073'
   openreview_id: dmw4D4PmCG
   pdf_file: 1ad3c2e0c269ba05a1ae0842cb4b6c9eac772b75.pdf
@@ -5431,6 +5530,7 @@
     username: ~Ondřej_Bojar1
   decision: Submission
   file: '074.pdf'
+  attachment: '074_copyright.pdf'
   id: '074'
   openreview_id: 7FdSCpUK2U
   pdf_file: 4d4f75c4e787ded742a553246cc2000289d26271.pdf
@@ -5497,6 +5597,7 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '075.pdf'
+  attachment: '075_copyright.pdf'
   id: '075'
   openreview_id: 5reF71HeOM
   pdf_file: 1b225974c577b3b351df78c90ac246824f6ad4c6.pdf
@@ -5573,6 +5674,7 @@
     username: ~Sarah_Yassine1
   decision: Submission
   file: '077.pdf'
+  attachment: '077_copyright.pdf'
   id: '077'
   openreview_id: a7DKGZeyVE
   pdf_file: ae6b47227c39ecf076cd852a173dedb77fc1ff2c.pdf
@@ -5630,6 +5732,7 @@
     username: ~Marwan_Torki1
   decision: Submission
   file: '078.pdf'
+  attachment: '078_copyright.pdf'
   id: 078
   openreview_id: okV6azkjjL
   pdf_file: 802d6eefa90f7790561613141156044ceca4b938.pdf
@@ -5699,6 +5802,7 @@
     username: ~Hamada_Nayel1
   decision: Submission
   file: '079.pdf'
+  attachment: '079_copyright.pdf'
   id: 079
   openreview_id: qBSQUt1X6X
   pdf_file: bc8e3e32b254f2b2db69fdac147b723ff77d8dd8.pdf
@@ -5747,6 +5851,7 @@
     username: ~Isis_Ashraf1
   decision: Submission
   file: '0710.pdf'
+  attachment: '0710_copyright.pdf'
   id: '0710'
   openreview_id: tZxygmo9Dd
   pdf_file: 604fca4f93e19471113fe8473f5e117c27818548.pdf
@@ -5786,6 +5891,7 @@
     username: ~Samhaa_R._El-Beltagy1
   decision: Submission
   file: '0711.pdf'
+  attachment: '0711_copyright.pdf'
   id: '0711'
   openreview_id: 7upCAZQKSu
   pdf_file: bb3bc2679d7aacf180f825d3fe6e7aabbf1c59fe.pdf
@@ -5847,6 +5953,7 @@
     username: ~AHMET_ZENGIN1
   decision: Submission
   file: '0712.pdf'
+  attachment: '0712_copyright.pdf'
   id: '0712'
   openreview_id: OQ5J1uCKnD
   pdf_file: e40314cf397e0cfc0d53ec8d90b4b31048cfe74f.pdf
@@ -5904,6 +6011,7 @@
     username: ~Abdullah_Aldahlawi1
   decision: Submission
   file: '0713.pdf'
+  attachment: '0713_copyright.pdf'
   id: '0713'
   openreview_id: Dn2GpjCnHi
   pdf_file: 87c2c678d4033a07db133296714d6f4603304460.pdf
@@ -5975,6 +6083,7 @@
     username: ~Bashar_Alhafni1
   decision: Submission
   file: '0012.pdf'
+  attachment: '0012_copyright.pdf'
   id: '0012'
   openreview_id: bKXD94tGdz
   pdf_file: bc25ed640c0c48a23c8bc4f8505e86ced101252c.pdf
@@ -6008,6 +6117,7 @@
     username: ~Mostafa_ElAraby1
   decision: Submission
   file: '081.pdf'
+  attachment: '081_copyright.pdf'
   id: 081
   openreview_id: 3INYwKKQmL
   pdf_file: 23beca919e316245e3982a057522822911bc6b89.pdf
@@ -6071,11 +6181,11 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '082.pdf'
+  attachment: '082_copyright.pdf'
   id: 082
   openreview_id: 52SyoqmBtP
   pdf_file: a2b3fb7648a059a19404535503370fd3c3da8329.pdf
-  title: 'NAMAA Community at AraSeg Shared Task 2026: Model Diversity, Conditional
-    Decoding, and Missing Punctuation in Arabic Sentence Segmentation'
+  title: 'NAMAA Community at AraSeg Shared Task 2026: Model Diversity, Conditional Decoding, and Missing Punctuation in Arabic Sentence Segmentation'
 - abstract: 'Identifying sentence boundaries in Arabic text is a challenging token
     classification task due to extreme dialectal variations, the absence of rigid
     punctuation rules, and document lengths that frequently exceed the capacity of
@@ -6100,6 +6210,7 @@
     username: ~Md._Ajwad_Hossain1
   decision: Submission
   file: '083.pdf'
+  attachment: '083_copyright.pdf'
   id: 083
   openreview_id: PfsUYNYkOP
   pdf_file: e9f30c8d581312e686569ccc9197ea619b0339f1.pdf
@@ -6145,6 +6256,7 @@
     username: ~Ilya_Makarov1
   decision: Submission
   file: '084.pdf'
+  attachment: '084_copyright.pdf'
   id: 084
   openreview_id: EW4HGLMlLE
   pdf_file: 793443c5cecb2caf98998faed1731a544c2fccc6.pdf
@@ -6203,6 +6315,7 @@
     username: ~Mina_Nady_Serbana_Shaker2
   decision: Submission
   file: '085.pdf'
+  attachment: '085_copyright.pdf'
   id: 085
   openreview_id: dm1m4wxeHJ
   pdf_file: 7de8bc2f2ab469758dd8a6e94b3596e3f4ca6c58.pdf
@@ -6267,6 +6380,7 @@
     username: ~Marwan_Torki1
   decision: Submission
   file: '086.pdf'
+  attachment: '086_copyright.pdf'
   id: 086
   openreview_id: yEJRDCW3hP
   pdf_file: 1abea347b6d256b03b8bd791319de433276aebf7.pdf
@@ -6339,6 +6453,7 @@
     username: ~Ali_Elaswad1
   decision: Submission
   file: '087.pdf'
+  attachment: '087_copyright.pdf'
   id: 087
   openreview_id: qHLGIA6RcJ
   pdf_file: d94fca9be559ca39c95ba8e30cb5ce8688b3944f.pdf
@@ -6388,6 +6503,7 @@
     username: ~Mena_Hany1
   decision: Submission
   file: '088.pdf'
+  attachment: '088_copyright.pdf'
   id: 088
   openreview_id: dhd8A2nV9b
   pdf_file: 34709fd0b0ef1ceb79f6696b8d3a59450693f229.pdf
@@ -6425,6 +6541,7 @@
     username: ~Yehia_Ragab1
   decision: Submission
   file: '089.pdf'
+  attachment: '089_copyright.pdf'
   id: 089
   openreview_id: 5Pb8KexmhP
   pdf_file: 38be41fea9e30b75ee809bf0458262338b3c49a1.pdf
@@ -6482,6 +6599,7 @@
     username: ~Riad_Sonbol1
   decision: Submission
   file: '0810.pdf'
+  attachment: '0810_copyright.pdf'
   id: 0810
   openreview_id: jPIzMmThwN
   pdf_file: dbc0cd6464cadd3dcfb3d4b358e8f55ae7dc4acc.pdf
@@ -6541,6 +6659,7 @@
     username: ~Mohamed_Ahmed_Mohamed_Abdelmoniem1
   decision: Submission
   file: '0811.pdf'
+  attachment: '0811_copyright.pdf'
   id: 0811
   openreview_id: VNLQaxZGf0
   pdf_file: 57d8cf5deac29fc4aa69665095aa71b4931eb13f.pdf
@@ -6581,6 +6700,7 @@
     username: ~Ibrahim_Almajai1
   decision: Submission
   file: '0812.pdf'
+  attachment: '0812_copyright.pdf'
   id: 0812
   openreview_id: cRibmrUlox
   pdf_file: ec29afdec4f456ab18455dad282faa48c96d32a1.pdf
@@ -6685,6 +6805,7 @@
     username: ~Lahouari_Ghouti1
   decision: Submission
   file: '0813.pdf'
+  attachment: '0813_copyright.pdf'
   id: 0813
   openreview_id: D0MJIxBsyE
   pdf_file: 06b6d8c1c4846ba310d1544e92714e5e894a3411.pdf
@@ -6724,6 +6845,7 @@
     username: ~Hazem_Ajlan1
   decision: Submission
   file: '0814.pdf'
+  attachment: '0814_copyright.pdf'
   id: 0814
   openreview_id: RqR0HmF0Eg
   pdf_file: 9dd4204278b9f5ad8d606269e0b0a2d064147010.pdf
@@ -6820,6 +6942,7 @@
     username: ~Walid_Magdy1
   decision: Submission
   file: '0014.pdf'
+  attachment: '0014_copyright.pdf'
   id: '0014'
   openreview_id: du0rRmjXnu
   pdf_file: 122fd04f2def8dbdfeb62f54b9350d13822a89f3.pdf
@@ -6859,6 +6982,7 @@
     username: ~Wajdi_Zaghouani2
   decision: Submission
   file: '091.pdf'
+  attachment: '091_copyright.pdf'
   id: 091
   openreview_id: b0acge01Ns
   pdf_file: 8d33ce3ccbbb864acc7c79be5d7af7b11bb005c3.pdf
@@ -6896,6 +7020,7 @@
     username: ~Riad_Sonbol1
   decision: Submission
   file: '092.pdf'
+  attachment: '092_copyright.pdf'
   id: 092
   openreview_id: wZ8oRlQs1y
   pdf_file: 9bae6d9e244c660c28cafd623166844e7dd0ae3b.pdf
@@ -6928,6 +7053,7 @@
     username: ~Ahmed_Almatrafi1
   decision: Submission
   file: '095.pdf'
+  attachment: '095_copyright.pdf'
   id: 095
   openreview_id: M64JehGSbW
   pdf_file: d64b913636c64e7ac467597dc955007452276386.pdf
@@ -6966,6 +7092,7 @@
     username: ~Mohamed_Alkaoud1
   decision: Submission
   file: '096.pdf'
+  attachment: '096_copyright.pdf'
   id: 096
   openreview_id: UISMACBSl6
   pdf_file: fd707fe86eeb81627e80e1543df839174a22754d.pdf
@@ -7001,6 +7128,7 @@
     username: ~Sanaa_Alowaidi1
   decision: Submission
   file: '097.pdf'
+  attachment: '097_copyright.pdf'
   id: 097
   openreview_id: kvRhRiTSqJ
   pdf_file: 3fdda1c579fc88805a00083fb45882dd2702878f.pdf
@@ -7060,6 +7188,7 @@
     username: ~Abir_Korched1
   decision: Submission
   file: '098.pdf'
+  attachment: '098_copyright.pdf'
   id: 098
   openreview_id: merLmJw1ey
   pdf_file: 9064e7f291ee6901c1c6774e8572d870dbd7be9b.pdf
@@ -7096,6 +7225,7 @@
     username: ~Salma_Khaled_Hegazy1
   decision: Submission
   file: '099.pdf'
+  attachment: '099_copyright.pdf'
   id: 099
   openreview_id: Z999RZvnkX
   pdf_file: 28da4cb0d60644d91e722f6916d5146baa4a7a8b.pdf
@@ -7129,6 +7259,7 @@
     username: ~Samah_Ghonem1
   decision: Submission
   file: '0910.pdf'
+  attachment: '0910_copyright.pdf'
   id: 0910
   openreview_id: E0xxbvAb0y
   pdf_file: a6f2a07c9359ea721c13534909d5aebd5a2a817e.pdf
@@ -7173,6 +7304,7 @@
     username: ~Mohamed_Mohamed2
   decision: Submission
   file: '0911.pdf'
+  attachment: '0911_copyright.pdf'
   id: 0911
   openreview_id: ZS3IieoL9o
   pdf_file: ff00c6c28af4cd1c7ead1d56ba5493489a0161c3.pdf
@@ -7244,6 +7376,7 @@
     username: ~Abdelrahman_Mohsen1
   decision: Submission
   file: '0914.pdf'
+  attachment: '0914_copyright.pdf'
   id: 0914
   openreview_id: eh5p1lJYVF
   pdf_file: 35ccd82b6ac1e09de071cbca4b332bf5a87259f4.pdf
@@ -7306,11 +7439,11 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '0915.pdf'
+  attachment: '0915_copyright.pdf'
   id: 0915
   openreview_id: lgFeCE6AWf
   pdf_file: c9e00ed9de8b7160d0c7599db21bcb5d8123d102.pdf
-  title: 'Namaa Community at IslamicEval 2026: Retrieval-Grounded Verification of
-    Qur''anic and Hadith Citations for Hallucination Identification'
+  title: 'Namaa Community at IslamicEval 2026: Retrieval-Grounded Verification of Qur'anic and Hadith Citations for Hallucination Identification'
 - abstract: 'We present HalluScoring 2026, a shared task for evaluating hallucination
     detection and factual verification in Arabic question answering under challenging
     generalization settings. The shared task is organized into two main tasks, each
@@ -7446,6 +7579,7 @@
     username: ~Hamzah_Luqman1
   decision: Submission
   file: '006.pdf'
+  attachment: '006_copyright.pdf'
   id: '006'
   openreview_id: nK2otbljdj
   pdf_file: f15dc1408786bdd3993be0a8d2e4dbeb89f6b4d3.pdf
@@ -7499,6 +7633,7 @@
     username: ~Rongrong_Song1
   decision: HalluScoring2026
   file: '101.pdf'
+  attachment: '101_copyright.pdf'
   id: '101'
   openreview_id: FoN6q1JFe9
   pdf_file: 4ff629710883f1dd26598449dbe599069b0799ea.pdf
@@ -7587,6 +7722,7 @@
     username: ~Aladine_Chetouani1
   decision: HalluScoring2026
   file: '102.pdf'
+  attachment: '102_copyright.pdf'
   id: '102'
   openreview_id: kT8FePJR4O
   pdf_file: b0370bb03b38bcbd45163eae22b6a2755a37c7f6.pdf
@@ -7620,6 +7756,7 @@
     username: ~Ibad-ur-Rehman_Rashid1
   decision: HalluScoring2026
   file: '103.pdf'
+  attachment: '103_copyright.pdf'
   id: '103'
   openreview_id: KfmdBqpxsw
   pdf_file: cba474d84d49f43831f209904d18024fdb8fdb4f.pdf
@@ -7695,11 +7832,11 @@
     username: ~OMER_NACAR1
   decision: HalluScoring2026
   file: '104.pdf'
+  attachment: '104_copyright.pdf'
   id: '104'
   openreview_id: ukaEEco2l8
   pdf_file: bd0ee193fd368c33e4ae7ba1f43ddb8a16be798c.pdf
-  title: 'NAMAA Community at HalluScoring 2026: Beyond Predictive Performance: Reliability
-    and Generalization in Arabic Hallucination Detection'
+  title: 'NAMAA Community at HalluScoring 2026: Beyond Predictive Performance: Reliability and Generalization in Arabic Hallucination Detection'
 - abstract: 'This paper presents a multistage ensemble-based approach developed for
     the HalluScoring-2026 shared task on Arabic hallucination detection. The proposed
     system combines three Arabic pretrained language encoders: MARBERTv2, CAMeLBERT,
@@ -7770,6 +7907,7 @@
     username: ~Hamada_Nayel1
   decision: HalluScoring2026
   file: '105.pdf'
+  attachment: '105_copyright.pdf'
   id: '105'
   openreview_id: YbeQfqo4kq
   pdf_file: 7f6e694d453fa67c4c8d072031edc378f2c1c08b.pdf
@@ -7814,6 +7952,7 @@
     username: ~Hiroki_Takahashi1
   decision: HalluScoring2026
   file: '106.pdf'
+  attachment: '106_copyright.pdf'
   id: '106'
   openreview_id: chdEf5Hm72
   pdf_file: 93df84a616c28c04402aee712a9c2732b0c40aa3.pdf
@@ -7852,6 +7991,7 @@
     username: ~Anand_Kumar_Madasamy1
   decision: HalluScoring2026
   file: '107.pdf'
+  attachment: '107_copyright.pdf'
   id: '107'
   openreview_id: Cqp2m1nWGX
   pdf_file: cf7f120a0abadec0805af2048b08d0a4b0caa1c2.pdf
@@ -7908,6 +8048,7 @@
     username: ~Mia_Sivén1
   decision: HalluScoring2026
   file: '108.pdf'
+  attachment: '108_copyright.pdf'
   id: '108'
   openreview_id: 1gslGFrFjJ
   pdf_file: d37a44caa3b181c0c410b0deba73fbbcfc6b2282.pdf
@@ -8002,6 +8143,7 @@
     username: ~Hacene_BELHADEF1
   decision: HalluScoring2026
   file: '109.pdf'
+  attachment: '109_copyright.pdf'
   id: '109'
   openreview_id: wDFhdAww4D
   pdf_file: b2c9d446534e6f834b0c9d9fc5e70022ed962d32.pdf
@@ -8041,6 +8183,7 @@
     username: ~Aicha_Eutamene1
   decision: HalluScoring2026
   file: '1010.pdf'
+  attachment: '1010_copyright.pdf'
   id: '1010'
   openreview_id: II36XVB9LJ
   pdf_file: fd62bf1332c54d760563c100bc567afeba303a6a.pdf
@@ -8139,6 +8282,7 @@
     username: ~Mustafa_Jarrar2
   decision: Submission
   file: '0010.pdf'
+  attachment: '0010_copyright.pdf'
   id: '0010'
   openreview_id: dpfJkzCRFx
   pdf_file: c5205b8df62630a277562af1a197a8d55196d473.pdf
@@ -8209,6 +8353,7 @@
     username: ~Thìn_Đặng_Văn1
   decision: Submission
   file: '111.pdf'
+  attachment: '111_copyright.pdf'
   id: '111'
   openreview_id: GIcw8S1dIU
   pdf_file: 7621660b465aca18bacbdaaffe6f287f0e29b499.pdf
@@ -8277,11 +8422,11 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '112.pdf'
+  attachment: '112_copyright.pdf'
   id: '112'
   openreview_id: tRGyuobpph
   pdf_file: 4c0226b1944fc19a2efd8aaf1756e625e2b7701e.pdf
-  title: 'NAMAA Community at KnowledgeGraphEval 2026: Entity-Span Voting and Constrained
-    LLM Ensembles for Arabic Knowledge Graph Construction'
+  title: 'NAMAA Community at KnowledgeGraphEval 2026: Entity-Span Voting and Constrained LLM Ensembles for Arabic Knowledge Graph Construction'
 - abstract: This paper presents the PTUK-NLP submission to KnowledgeGraphEval 2026
     Subtask 1 (AdaptNER), evaluating cross-domain and cross-dialect nested Arabic
     Named Entity Recognition (NER). Models trained on Wojood are evaluated in a zero-shot
@@ -8338,6 +8483,7 @@
     username: ~Elaa_Jaber2
   decision: Submission
   file: '113.pdf'
+  attachment: '113_copyright.pdf'
   id: '113'
   openreview_id: a1w1ZUH1yU
   pdf_file: b78f158c20239f1d18609bce1e6679d79916c0c8.pdf
@@ -8384,6 +8530,7 @@
     username: ~Hani_Salah1
   decision: Submission
   file: '114.pdf'
+  attachment: '114_copyright.pdf'
   id: '114'
   openreview_id: 9oL2rrGJTe
   pdf_file: fc53ea7025e85cb5df49bf85107eebeb93db8c52.pdf
@@ -8431,6 +8578,7 @@
     username: ~Faisal_Muhammad_Adam2
   decision: Submission
   file: '115.pdf'
+  attachment: '115_copyright.pdf'
   id: '115'
   openreview_id: MAuDrdWkoI
   pdf_file: 70fb94a810b72d6caa29906de5893637f8053166.pdf
@@ -8510,6 +8658,7 @@
     username: ~Allison_Lahnala1
   decision: Submission
   file: '116.pdf'
+  attachment: '116_copyright.pdf'
   id: '116'
   openreview_id: HQu76Stnw8
   pdf_file: 00434345799923cd25ed4b79e6657e5629eb25ff.pdf
@@ -8559,6 +8708,7 @@
     username: ~Noora_Shawareb1
   decision: Submission
   file: '117.pdf'
+  attachment: '117_copyright.pdf'
   id: '117'
   openreview_id: VqhaJn2lqh
   pdf_file: b8602f9fe1ec330b0e7e2ecae6d727e3d627cfcd.pdf
@@ -8615,11 +8765,11 @@
     username: ~Sara_Zerie2
   decision: Submission
   file: '118.pdf'
+  attachment: '118_copyright.pdf'
   id: '118'
   openreview_id: xOFqmeD4CR
   pdf_file: f7fad41b4c60c77644ff6eb3cb925184581d56f5.pdf
-  title: 'YafaNER at KnowledgeGraphEval 2026: AraBERTv2-based Approach to Cross-Domain
-    Adaptation for Arabic NER'
+  title: 'YafaNER at KnowledgeGraphEval 2026: AraBERTv2-based Approach to Cross-Domain Adaptation for Arabic NER'
 - abstract: The ANLP_UniSo team submitted a system to Subtask 1 (Named Entity Recognition)
     of KnowledgeGraphEval 2026, which focuses on nested NER in Arabic and evaluates
     crossdomain and cross-dialect generalization from the Wojood corpus to the multi-domain
@@ -8668,11 +8818,11 @@
     username: ~Lamia_Belguith1
   decision: Submission
   file: '1110.pdf'
+  attachment: '1110_copyright.pdf'
   id: '1110'
   openreview_id: hUHhsBUS8s
   pdf_file: 0341d64a826690dce6405637637e538505ef179c.pdf
-  title: 'ANLP_UniSo at KnowledgeGraphEval 2026: Domain-Adaptive Nested Named Entity
-    Recognition for Arabic via GlobalPointer Ensembling'
+  title: 'ANLP_UniSo at KnowledgeGraphEval 2026: Domain-Adaptive Nested Named Entity Recognition for Arabic via GlobalPointer Ensembling'
 - abstract: In this paper, we present a relation extraction system developed for Subtask
     2 of KnowledgeGraphEval 2026. The system fine-tunes a single ARBERTv2 encoder
     on inputs with typed entity markers that expose entity boundaries and types, also
@@ -8722,6 +8872,7 @@
     username: ~Savero_Athallah_Hardiana_Putra1
   decision: Submission
   file: '1112.pdf'
+  attachment: '1112_copyright.pdf'
   id: '1112'
   openreview_id: 9tpE3IWcgl
   pdf_file: b82f0e4f86552e4352a77a91142dae97d7b9b472.pdf
@@ -8794,6 +8945,7 @@
     username: ~Fadi_zaraket2
   decision: Submission
   file: '1113.pdf'
+  attachment: '1113_copyright.pdf'
   id: '1113'
   openreview_id: CKJc7XeBpr
   pdf_file: e741ae5cbb925704a016893d5cc397e331b4e4f6.pdf
@@ -8852,6 +9004,7 @@
     username: ~Aulia_Resty_Azizah1
   decision: Submission
   file: '1114.pdf'
+  attachment: '1114_copyright.pdf'
   id: '1114'
   openreview_id: Lhctsix3so
   pdf_file: 586ef4d43484446473484d743f687839f41e5143.pdf
@@ -8917,6 +9070,7 @@
     username: ~Khalid_Al_Khatib1
   decision: Submission
   file: '0013.pdf'
+  attachment: '0013_copyright.pdf'
   id: '0013'
   openreview_id: bLYt8nhrZ7
   pdf_file: ea5b54b4e5ef879f3bfd73a6937467761b292e8d.pdf
@@ -8943,6 +9097,7 @@
     username: ~Mohammed_Mohaisen1
   decision: Submission
   file: '121.pdf'
+  attachment: '121_copyright.pdf'
   id: '121'
   openreview_id: OG9E1SsQZA
   pdf_file: 28931c7ab02b1407cda2b911055b942f299eb888.pdf
@@ -9000,6 +9155,7 @@
     username: ~Alexander_Mehler2
   decision: Submission
   file: '122.pdf'
+  attachment: '122_copyright.pdf'
   id: '122'
   openreview_id: Lno9iKuHti
   pdf_file: fe0620c409c80f12aab1118e89e8b05b74947fc2.pdf
@@ -9043,6 +9199,7 @@
     username: ~Salah_Abdo1
   decision: Submission
   file: '123.pdf'
+  attachment: '123_copyright.pdf'
   id: '123'
   openreview_id: uao1UcvQJQ
   pdf_file: 29896e1ef8e8423393b12863bfecdc23984ddd24.pdf
@@ -9071,6 +9228,7 @@
     username: ~Rabee_Al-Qasem1
   decision: Submission
   file: '124.pdf'
+  attachment: '124_copyright.pdf'
   id: '124'
   openreview_id: 9jKDpevakX
   pdf_file: 7c116f1a8d1cbca62b068122a9c00f071f0f57e2.pdf
@@ -9144,6 +9302,7 @@
     username: ~Amir_Atapour-Abarghouei1
   decision: Submission
   file: '125.pdf'
+  attachment: '125_copyright.pdf'
   id: '125'
   openreview_id: Eaj4kOPS10
   pdf_file: 71355514d4ef0f4783fde76630d91f79a82e6978.pdf
@@ -9185,6 +9344,7 @@
     username: ~Wajdi_Zaghouani2
   decision: Submission
   file: '126.pdf'
+  attachment: '126_copyright.pdf'
   id: '126'
   openreview_id: Dvhm2dYA03
   pdf_file: 0cf7605eee759501eae3216f89077895f2fe29d4.pdf
@@ -9230,6 +9390,7 @@
     username: ~Leila_MOUDJARI1
   decision: Submission
   file: '127.pdf'
+  attachment: '127_copyright.pdf'
   id: '127'
   openreview_id: F2LYomarw0
   pdf_file: c35c8d7f13a8d1fe547b4f07c278226fc45b60d5.pdf
@@ -9293,6 +9454,7 @@
     username: ~Ensaf_H._Mohamed1
   decision: Submission
   file: '129.pdf'
+  attachment: '129_copyright.pdf'
   id: '129'
   openreview_id: mil2zTxvD5
   pdf_file: b357a1419301abc3b2b84a316d0e7dd8b9bc4414.pdf
@@ -9344,6 +9506,7 @@
     username: ~Shadi_Abudalfa1
   decision: Submission
   file: '1210.pdf'
+  attachment: '1210_copyright.pdf'
   id: '1210'
   openreview_id: 1OVxE6KvX5
   pdf_file: 40f373e2f03b4c460afdd017984e4f1ad2d5c334.pdf
@@ -9386,6 +9549,7 @@
     username: ~Turab_Hussain_Usmani1
   decision: Submission
   file: '1211.pdf'
+  attachment: '1211_copyright.pdf'
   id: '1211'
   openreview_id: rjat9R358v
   pdf_file: 223582754f3df8852ab1e0afa71f3f3c87e79947.pdf
@@ -9492,6 +9656,7 @@
     username: ~Salima_Lamsiyah1
   decision: Submission
   file: '002.pdf'
+  attachment: '002_copyright.pdf'
   id: '002'
   openreview_id: 1ls5DDV4G3
   pdf_file: 14d11129e0935137df525fdaa7d266be6b947d94.pdf
@@ -9528,6 +9693,7 @@
     username: ~Amr_Sabaa1
   decision: Submission
   file: '131.pdf'
+  attachment: '131_copyright.pdf'
   id: '131'
   openreview_id: CoAhB6HuFu
   pdf_file: 04231a72e20620b987728abe4f429b4af19cad51.pdf
@@ -9553,6 +9719,7 @@
     username: ~Mohamed_Akarrouch1
   decision: Submission
   file: '132.pdf'
+  attachment: '132_copyright.pdf'
   id: '132'
   openreview_id: cFsBJro5kh
   pdf_file: 5a4c3ad6e012ed78e45ac3dbbda483cfd16c34f4.pdf
@@ -9607,6 +9774,7 @@
     username: ~Abdelgwad_Elashry1
   decision: Submission
   file: '133.pdf'
+  attachment: '133_copyright.pdf'
   id: '133'
   openreview_id: VsTZXfVTFr
   pdf_file: 48fd50f7926bb8af602a78f2a0ef09aa9a92aa61.pdf
@@ -9651,6 +9819,7 @@
     username: ~Takuya_Matsuzaki1
   decision: Submission
   file: '134.pdf'
+  attachment: '134_copyright.pdf'
   id: '134'
   openreview_id: 5Txdb2PvwC
   pdf_file: 43a3664d0de635d2fe2c7010301012f4195cf876.pdf
@@ -9701,6 +9870,7 @@
     username: ~Wajdi_Zaghouani2
   decision: Submission
   file: '135.pdf'
+  attachment: '135_copyright.pdf'
   id: '135'
   openreview_id: uGSd52IV0c
   pdf_file: 725a85fadcbb9915f86c4062a3aa1cd175b51a56.pdf
@@ -9749,6 +9919,7 @@
     username: ~Thìn_Đặng_Văn1
   decision: Submission
   file: '136.pdf'
+  attachment: '136_copyright.pdf'
   id: '136'
   openreview_id: BE63uf8qcA
   pdf_file: 29fe81fc534ba4584c64d42729ba9b4cbac31b4c.pdf
@@ -9778,6 +9949,7 @@
     username: ~Md._Ajwad_Hossain1
   decision: Submission
   file: '137.pdf'
+  attachment: '137_copyright.pdf'
   id: '137'
   openreview_id: 7pAEzPmrxm
   pdf_file: 5e98cba4da5711a6ff31c5c2ffd8262fe9875710.pdf
@@ -9836,6 +10008,7 @@
     username: ~Elaa_Jaber2
   decision: Submission
   file: '138.pdf'
+  attachment: '138_copyright.pdf'
   id: '138'
   openreview_id: RrCX2IkrOc
   pdf_file: 89250bc21f0f49e203b6c70504baf821d58b5edb.pdf
@@ -9899,6 +10072,7 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '139.pdf'
+  attachment: '139_copyright.pdf'
   id: '139'
   openreview_id: UByFKG6l3q
   pdf_file: b49ec4b1d22aa002a791c66f7ed3f4531b760bef.pdf
@@ -9962,6 +10136,7 @@
     username: ~OMER_NACAR1
   decision: Submission
   file: '1310.pdf'
+  attachment: '1310_copyright.pdf'
   id: '1310'
   openreview_id: fTTZizNeAc
   pdf_file: 613e6b9e52db1f0f4a2f11c25925b0c7bb7968bf.pdf
@@ -9996,6 +10171,7 @@
     username: ~Faisal_Muhammad_Adam2
   decision: Submission
   file: '1311.pdf'
+  attachment: '1311_copyright.pdf'
   id: '1311'
   openreview_id: mOvBVe3zxx
   pdf_file: ef89b0067ac225da300fb1d1f81113e306967ab7.pdf
@@ -10039,6 +10215,7 @@
     username: ~Raja_Naeem_Akram1
   decision: Submission
   file: '1312.pdf'
+  attachment: '1312_copyright.pdf'
   id: '1312'
   openreview_id: mwQ4e7H5B4
   pdf_file: da1f5feca4846251c3557559ff9e3fb1f14540eb.pdf
@@ -10085,6 +10262,7 @@
     username: ~Ensaf_H._Mohamed1
   decision: Submission
   file: '1313.pdf'
+  attachment: '1313_copyright.pdf'
   id: '1313'
   openreview_id: nkQHlN0hGl
   pdf_file: 87f3e050c4485f7750c4b130532b893fffecef12.pdf
@@ -10131,6 +10309,7 @@
     username: ~Ensaf_H._Mohamed1
   decision: Submission
   file: '1314.pdf'
+  attachment: '1314_copyright.pdf'
   id: '1314'
   openreview_id: UQZbSMn8VW
   pdf_file: c6b94599bc94ec985c6c35866cb51e72cf876185.pdf
@@ -10188,6 +10367,7 @@
     username: ~Marwan_Torki1
   decision: Submission
   file: '1315.pdf'
+  attachment: '1315_copyright.pdf'
   id: '1315'
   openreview_id: YFecodKZAW
   pdf_file: a602ddb1db66eba095589addfda380881db4949b.pdf
@@ -10246,6 +10426,7 @@
     username: ~Marwan_Torki1
   decision: Submission
   file: '1316.pdf'
+  attachment: '1316_copyright.pdf'
   id: '1316'
   openreview_id: cdklXv0jk6
   pdf_file: d1b04c3595cbee1cff36696d067113eec0715d0f.pdf
@@ -10333,6 +10514,7 @@
     username: ~Ahmed_Ali1
   decision: Submission
   file: '0015.pdf'
+  attachment: '0015_copyright.pdf'
   id: '0015'
   openreview_id: XFRmlBYqlw
   pdf_file: c953fc79abd3a1b485e06622829980cd3bb5bc81.pdf
@@ -10411,6 +10593,7 @@
     username: ~Minghui_Wu6
   decision: Submission
   file: '141.pdf'
+  attachment: '141_copyright.pdf'
   id: '141'
   openreview_id: FSyRw5OwAm
   pdf_file: 75fd821b265715d3ead2fc0aab12cf46e3c0d52b.pdf
@@ -10450,6 +10633,7 @@
     username: ~Minh-Hoang_Le2
   decision: Submission
   file: '142.pdf'
+  attachment: '142_copyright.pdf'
   id: '142'
   openreview_id: wwUZB7tN82
   pdf_file: cd11b115948dfec61a9c336ea154945e8a79186e.pdf
@@ -10491,6 +10675,7 @@
     username: ~Riad_Sonbol1
   decision: Submission
   file: '143.pdf'
+  attachment: '143_copyright.pdf'
   id: '143'
   openreview_id: WP6qEHlAL6
   pdf_file: 7d4d8870392fdbe18fdff7370352c5b9a1b56726.pdf
@@ -10563,11 +10748,11 @@
     username: ~Amr_Elzahaby1
   decision: Submission
   file: '144.pdf'
+  attachment: '144_copyright.pdf'
   id: '144'
   openreview_id: OPBrsptdAh
   pdf_file: 08940fe23222fd97412412e95d042e62b1bfff51.pdf
-  title: 'SaAr-DF at ArA-DF 2026: When More Data Hurts — Diversity-Driven Ensembling
-    for Arabic Speech Deepfake Detection'
+  title: 'SaAr-DF at ArA-DF 2026: When More Data Hurts — Diversity-Driven Ensembling for Arabic Speech Deepfake Detection'
 - abstract: 'ArA-DF 2026 is a shared task on binary Arabic speech deepfake detection,
     with two tracks: dialect generalisation and acoustic robustness. For both we submit
     rank-normalised score fusions of complementary detectors. Track 1 fuses five components
@@ -10600,6 +10785,7 @@
     username: ~Abdullah_Aldahlawi1
   decision: Submission
   file: '145.pdf'
+  attachment: '145_copyright.pdf'
   id: '145'
   openreview_id: MC2Jsr5X7U
   pdf_file: d8a2deddf025a8a0fca8a91ac160f5c98d38778b.pdf
@@ -10651,6 +10837,7 @@
     username: ~Seifeldin_Hane'a_Ismail_Abdelrazek1
   decision: Submission
   file: '147.pdf'
+  attachment: '147_copyright.pdf'
   id: '147'
   openreview_id: EUsCVewVbi
   pdf_file: 6d8651f2b6f77ab1a796203ad252e19a77ecd31b.pdf
@@ -10705,6 +10892,7 @@
     username: ~Petr_Motlicek1
   decision: Submission
   file: '148.pdf'
+  attachment: '148_copyright.pdf'
   id: '148'
   openreview_id: ck2Ghe2uMw
   pdf_file: 4614727abfd04eb7389957805fc763e08a6f140a.pdf
@@ -10749,6 +10937,7 @@
     username: ~Raghu_Sesha_Iyengar3
   decision: Submission
   file: '149.pdf'
+  attachment: '149_copyright.pdf'
   id: '149'
   openreview_id: Lj5UmLP4tQ
   pdf_file: 2ef33c9b88fa386af87cb634441dba87164202e6.pdf
@@ -10834,6 +11023,7 @@
     username: ~Abdullah_Almohammedi1
   decision: Submission
   file: '152.pdf'
+  attachment: '152_copyright.pdf'
   id: '152'
   openreview_id: ijNSeYgspj
   pdf_file: 1e41388d53bfc8301898c8f961296d6f81434442.pdf
@@ -10904,6 +11094,7 @@
     username: ~Amir_Atapour-Abarghouei1
   decision: Submission
   file: '153.pdf'
+  attachment: '153_copyright.pdf'
   id: '153'
   openreview_id: lStHrWPjGG
   pdf_file: 3b3351ea155221fb70ff5acfa7657d226daf7c66.pdf
@@ -10941,6 +11132,7 @@
     username: ~Nader_Alshahri1
   decision: Submission
   file: '154.pdf'
+  attachment: '154_copyright.pdf'
   id: '154'
   openreview_id: aWzX1T0ZAG
   pdf_file: 473fc2c29e24a7d446a9993973f6b8a29497884f.pdf
@@ -10983,6 +11175,7 @@
     username: ~Thìn_Đặng_Văn1
   decision: Submission
   file: '155.pdf'
+  attachment: '155_copyright.pdf'
   id: '155'
   openreview_id: JSuWBENhhh
   pdf_file: adccb7372a86046f459dff5500a29359573764d8.pdf
@@ -11027,6 +11220,7 @@
     username: ~Arkaitz_Zubiaga1
   decision: Submission
   file: '156.pdf'
+  attachment: '156_copyright.pdf'
   id: '156'
   openreview_id: Jd8qqNxx46
   pdf_file: 6689d101ff56331c3acb73ae26cf6b9bb6970d5c.pdf
@@ -11069,6 +11263,7 @@
     username: ~Abrar_almutiri1
   decision: Submission
   file: '157.pdf'
+  attachment: '157_copyright.pdf'
   id: '157'
   openreview_id: Vk9StLgQA2
   pdf_file: b8fcd81bdb0161075f5be057533e7de969722c6d.pdf
@@ -11109,6 +11304,7 @@
     username: ~Reem_K._Alshammari1
   decision: Submission
   file: '158.pdf'
+  attachment: '158_copyright.pdf'
   id: '158'
   openreview_id: pVmrun7Pyz
   pdf_file: c0fa540a5abeef2bda211aa9d56b17f6647ce123.pdf
@@ -11137,6 +11333,7 @@
     username: ~Sabah_Abdulgader_Baothman1
   decision: Submission
   file: '159.pdf'
+  attachment: '159_copyright.pdf'
   id: '159'
   openreview_id: c3rzcDDzmN
   pdf_file: aeedff9db36bb06b3da11db40565ef8754cdc677.pdf
@@ -11176,6 +11373,7 @@
     username: ~Haya_Buayyan_Alwizrah1
   decision: Submission
   file: '1510.pdf'
+  attachment: '1510_copyright.pdf'
   id: '1510'
   openreview_id: nH2FJjTXuW
   pdf_file: 95bbd280716ab9f892b6a682757ee3de3907056b.pdf
@@ -11214,6 +11412,7 @@
     username: ~Manish_Joshi1
   decision: Submission
   file: '1511.pdf'
+  attachment: '1511_copyright.pdf'
   id: '1511'
   openreview_id: SK4So3hwXn
   pdf_file: cc1f3f34dd61ad68b9b2c389b17404408812d5f2.pdf
@@ -11288,6 +11487,7 @@
     username: ~Ahmed_Soliman3
   decision: Submission
   file: '1512.pdf'
+  attachment: '1512_copyright.pdf'
   id: '1512'
   openreview_id: 6G4RTSViDv
   pdf_file: 35f1c31adcb19d1ea713d98c9ee4be7e9cf474bc.pdf
@@ -11336,6 +11536,7 @@
     username: ~Abdullah_Aldahlawi1
   decision: Submission
   file: '1513.pdf'
+  attachment: '1513_copyright.pdf'
   id: '1513'
   openreview_id: cF0MYyaagx
   pdf_file: b6ce3054f0166cc584b4c51350c4ba1eaa60b2bd.pdf
@@ -11389,6 +11590,7 @@
     username: ~Bassam_Mattar1
   decision: Submission
   file: '1514.pdf'
+  attachment: '1514_copyright.pdf'
   id: '1514'
   openreview_id: FJVbUCuEDY
   pdf_file: f4f6644ce5e717dbf40cbd3ccb3d887542817ddd.pdf
@@ -11425,6 +11627,7 @@
     username: ~Jumanah_Aljubayri1
   decision: Submission
   file: '1515.pdf'
+  attachment: '1515_copyright.pdf'
   id: '1515'
   openreview_id: elCDSSbFTs
   pdf_file: 2e4d86b019e02cc5dbb7fd9ecdb792eb06621d52.pdf

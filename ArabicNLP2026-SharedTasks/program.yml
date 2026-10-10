@@ -47,39 +47,69 @@
 
 - title: "Shared Task Highlights I: 7 shared tasks, 2 minutes each"
   start_time: 2026-10-28 15:11:00
-  end_time: 2026-10-28 15:30:00
-  subsessions:
-    - title: "Shared Task Highlights I: 7 shared tasks, 2 minutes each"
-      start_time: 2026-10-28 11:00:00
-      end_time: 2026-10-28 12:25:00
-      papers:
-        - id: "001"
-          start_time: 2026-10-28 15:11:00
-          end_time: 2026-10-28 15:13:00
-        - id: "002"
-          start_time: 2026-10-28 15:13:00
-          end_time: 2026-10-28 15:15:00
-        - id: "003"
-          start_time: 2026-10-28 15:15:00
-          end_time: 2026-10-28 15:17:00
-        - id: "004"
-          start_time: 2026-10-28 15:17:00
-          end_time: 2026-10-28 15:19:00
-        - id: "005"
-          start_time: 2026-10-28 15:19:00
-          end_time: 2026-10-28 15:21:00
-        - id: "006"
-          start_time: 2026-10-28 15:21:00
-          end_time: 2026-10-28 15:23:00
-        - id: "007"
-          start_time: 2026-10-28 15:23:00
-          end_time: 2026-10-28 15:25:00
+  end_time: 2026-10-28 15:25:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:11:00
+  end_time: 2026-10-28 15:13:00
+  papers: 
+    - id: "001"
+      start_time: 2026-10-28 15:11:00
+      end_time: 2026-10-28 15:13:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:13:00
+  end_time: 2026-10-28 15:15:00
+  papers: 
+    - id: "002"
+      start_time: 2026-10-28 15:13:00
+      end_time: 2026-10-28 15:15:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:15:00
+  end_time: 2026-10-28 15:17:00
+  papers: 
+    - id: "003"
+      start_time: 2026-10-28 15:15:00
+      end_time: 2026-10-28 15:17:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:17:00
+  end_time: 2026-10-28 15:19:00
+  papers: 
+    - id: "004"
+      start_time: 2026-10-28 15:17:00
+      end_time: 2026-10-28 15:19:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:19:00
+  end_time: 2026-10-28 15:21:00
+  papers: 
+    - id: "005"
+      start_time: 2026-10-28 15:19:00
+      end_time: 2026-10-28 15:21:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:21:00
+  end_time: 2026-10-28 15:23:00
+  papers: 
+    - id: "006"
+      start_time: 2026-10-28 15:21:00
+      end_time: 2026-10-28 15:23:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:23:00
+  end_time: 2026-10-28 15:25:00
+  papers: 
+    - id: "007"
+      start_time: 2026-10-28 15:23:00
+      end_time: 2026-10-28 15:25:00
 
 - title: "Coffee Break & Poster Session 1 (main conference and shared task posters)"
   start_time: 2026-10-28 15:30:00
   end_time: 2026-10-28 16:30:00
 
-- title: "Panel 1"  # topic TBA
+- title: "Panel 1: Inclusive Arabic NLP"  # topic TBA
   start_time: 2026-10-28 16:30:00
   end_time: 2026-10-28 17:20:00
 
@@ -131,42 +161,77 @@
 
 - title: "Shared Task Highlights II: 8 shared tasks, 2 minutes each"
   start_time: 2026-10-29 15:11:00
-  end_time: 2026-10-29 15:30:00
-  subsessions:
-    - title: "Shared Task Highlights I: 7 shared tasks, 2 minutes each"
-      start_time: 2026-10-28 11:00:00
-      end_time: 2026-10-28 12:25:00
-      papers:
-          - id: "008"
-            start_time: 2026-10-29 15:11:00
-            end_time: 2026-10-29 15:13:00
-          - id: "009"
-            start_time: 2026-10-29 15:13:00
-            end_time: 2026-10-29 15:15:00
-          - id: "0010"
-            start_time: 2026-10-29 15:15:00
-            end_time: 2026-10-29 15:17:00
-          - id: "0011"
-            start_time: 2026-10-29 15:17:00
-            end_time: 2026-10-29 15:19:00
-          - id: "0012"
-            start_time: 2026-10-29 15:19:00
-            end_time: 2026-10-29 15:21:00
-          - id: "0013"
-            start_time: 2026-10-29 15:21:00
-            end_time: 2026-10-29 15:23:00
-          - id: "0014"
-            start_time: 2026-10-29 15:23:00
-            end_time: 2026-10-29 15:25:00
-          - id: "0015"
-            start_time: 2026-10-29 15:25:00
-            end_time: 2026-10-29 15:27:00
+  end_time: 2026-10-29 15:27:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:11:00
+  end_time: 2026-10-29 15:13:00
+  papers:   
+    - id: "008"
+      start_time: 2026-10-29 15:11:00
+      end_time: 2026-10-29 15:13:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:13:00
+  end_time: 2026-10-29 15:15:00
+  papers: 
+    - id: "009"
+      start_time: 2026-10-29 15:13:00
+      end_time: 2026-10-29 15:15:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:15:00
+  end_time: 2026-10-29 15:17:00
+  papers:
+    - id: "0010"
+      start_time: 2026-10-29 15:15:00
+      end_time: 2026-10-29 15:17:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:17:00
+  end_time: 2026-10-29 15:19:00
+  papers: 
+    - id: "0011"
+      start_time: 2026-10-29 15:17:00
+      end_time: 2026-10-29 15:19:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:19:00
+  end_time: 2026-10-29 15:21:00
+  papers: 
+    - id: "0012"
+      start_time: 2026-10-29 15:19:00
+      end_time: 2026-10-29 15:21:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:21:00
+  end_time: 2026-10-29 15:23:00
+  papers: 
+    - id: "0013"
+      start_time: 2026-10-29 15:21:00
+      end_time: 2026-10-29 15:23:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:23:00
+  end_time: 2026-10-29 15:25:00
+  papers: 
+    - id: "0014"
+      start_time: 2026-10-29 15:23:00
+      end_time: 2026-10-29 15:25:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:25:00
+  end_time: 2026-10-29 15:27:00
+  papers: 
+    - id: "0015"
+      start_time: 2026-10-29 15:25:00
+      end_time: 2026-10-29 15:27:00
 
 - title: "Coffee Break & Poster Session 2 (main conference and shared task posters)"
   start_time: 2026-10-29 15:30:00
   end_time: 2026-10-29 16:30:00
 
-- title: "Panel 2"  # ArabicNLP Growth. Panellists TBA
+- title: "Panel 2: ArabicNLP Growth"  # ArabicNLP Growth. Panellists TBA
   start_time: 2026-10-29 16:30:00
   end_time: 2026-10-29 17:20:00
 

@@ -1,67 +1,347 @@
 - members:
-  - first_name: Nizar
-    institution: New York University Abu Dhabi, UAE 
-    last_name: Habash
+  - first_name: Muhammad
+    last_name: Abdul-Mageed
+    institution: The University of British Columbia, Canada
   role: General Chair
 - members:
+  - first_name: Tamer
+    last_name: Elsayed
+    institution: Qatar University, Qatar
   - first_name: Houda
-    institution: Carnegie Mellon University in Qatar, Qatar
     last_name: Bouamor
-  - first_name: Ramy
-    institution: Google, USA
-    last_name: Eskander
-  - first_name: Nadi
-    institution: LIPN, Université Paris 13, Sorbonne Paris Cité, France
-    last_name: Tomeh
+    institution: CMU-Q, Qatar
+  - first_name: Samhaa
+    last_name: El-Beltagy
+    institution: Nawy, Egypt
+  - first_name: Hend
+    last_name: Al-Khalifa
+    institution: King Saud University, Saudi Arabia
   role: Program Chairs
 - members:
-  - first_name: Ibrahim
-    institution: The University of Sheffield, UK
-    last_name: Abu Farha
-  role: Shared Tasks Chair
-- members:
   - first_name: Ahmed
-    institution: National Center for AI , SDAIA, KSA
     last_name: Abdelali
-  - first_name: Samia
-    institution: University of Bergen, Norway
-    last_name: Touileb
+    institution: HUMAIN, Saudi Arabia
+  - first_name: AbdelRahim
+    last_name: Elmadany
+    institution: The University of British Columbia, Canada
+  - first_name: Abdellah
+    last_name: El Mekki
+    institution: The University of British Columbia, Canada
   role: Publication Chairs
 - members:
+  - first_name: Kareem
+    last_name: Darwish
+    institution: QCRI, Qatar
+  role: Growth and Initiatives Chair
+- members:
+  - first_name: Sakhar
+    last_name: Alkhereyf
+    institution: HUMAIN, Saudi Arabia
+  - first_name: Hamzah
+    last_name: Luqman
+    institution: King Fahd University of Petroleum \& Minerals, Saudi Arabia
+  role: Shared Tasks Chairs
+- members:
+  - first_name: Salam
+    last_name: Khalifa
+    institution: Stony Brook University, USA
+  - first_name: Samar
+    last_name: Magdy
+    institution: The University of British Columbia, Canada
+  role: Publicity and Social Chairs
+- members:
+  - first_name: Zaid
+    last_name: Alyafeai
+    institution: King Abdullah University of Science and Technology, Saudi Arabia
   - first_name: Injy
-    institution: New York University Abu Dhabi, UAE
     last_name: Hamed
-  - first_name: Yaser
-    institution: SDAIA, KSA
-    last_name: Onaizan
+    institution: MBZUAI, UAE
   role: Scholarships and Awards Chairs
 - members:
-  - first_name: Bashar
-    institution: New York University Abu Dhabi, UAE
-    last_name: Alhafni
-  - first_name: Wissam
-    institution: INRIA-Paris, France
-    last_name: Antoun
-  - first_name: Salam
-    institution: Stony Brook University, USA
-    last_name: Khalifa
-  role: Publicity Chairs
+  - first_name: Wajdi
+    last_name: Zaghouani
+    institution: Northwestern University, Qatar
+  role: Ethics Chair
 - members:
-  - first_name: Hatem
-    institution: University Manouba, Tunisia
-    last_name: Haddad
   - first_name: Imed
-    institution: Google
     last_name: Zitouni
-  role: Sponsorship Chairs
+    institution: Meta
+  role: Sponsorship Chair
 - members:
-  - first_name: Badr
-    institution: EPFL, Switzerland 
-    last_name: AlKhamissi
-  - first_name: Rawan
-    institution: KSU ITMSC, Saudi Arabia
-    last_name: Almatham
-  - first_name: Khalil
-    institution: TikTok, USA 
-    last_name: Mrini
-  role: Social Chairs
+  - first_name: Samir
+    last_name: Abdaljalil
+    institution: Texas A\&M University
+  - first_name: Ahmed
+    last_name: Abdelali
+    institution: HUMAIN
+  - first_name: Muhammad
+    last_name: Abdul-Mageed
+    institution: University of British Columbia
+  - first_name: Shadi
+    last_name: Abudalfa
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Ahmed
+    last_name: Abul Hasanaath
+    institution: Saudi Aramco
+  - first_name: Mohammed
+    last_name: Al Khalifa
+    institution: Tuwaiq Academy
+  - first_name: Hend
+    last_name: Al-Khalifa
+    institution: King Saud University
+  - first_name: Khalid
+    last_name: Al-Khatib
+    institution: University of Groningen
+  - first_name: Maged S.
+    last_name: Al-Shaibani
+    institution: SDAIA–KFUPM Joint Research Center for Artificial Intelligence
+  - first_name: Ali
+    last_name: Al-Zawqari
+    institution: Vrije Universiteit Brussel
+  - first_name: Firoj
+    last_name: Alam
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Aisha
+    last_name: Alansari
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Hind
+    last_name: Alatawi
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Nuha
+    last_name: Albadi
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Rasha
+    last_name: Albalawi
+    institution: King Fahd University of Petroleum and Minerals; University of Tabuk
+  - first_name: Bashar
+    last_name: Alhafni
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - first_name: Maram
+    last_name: Alharbi
+    institution: Lancaster University
+  - first_name: Rahaf
+    last_name: Alharbi
+    institution: University of Edinburgh
+  - first_name: Ahmed
+    last_name: Ali
+    institution: HUMAIN
+  - first_name: Alaa
+    last_name: Aljabari
+    institution: Birzeit University
+  - first_name: Malak
+    last_name: Alkhorasani
+    institution: Imam Abdulrahman Bin Faisal University
+  - first_name: Osamah
+    last_name: Alnahari
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Sara
+    last_name: Althubaiti
+    institution: HUMAIN
+  - first_name: Nora
+    last_name: Alturayeif
+    institution: HUMAIN
+  - first_name: Abdulelah
+    last_name: Alturki
+    institution: University of Edinburgh
+  - first_name: Zaid
+    last_name: Alyafeai
+    institution: King Abdullah University of Science and Technology
+  - first_name: Saeed
+    last_name: Alzaharani
+    institution: Tuwaiq Academy
+  - first_name: Farina
+    last_name: Amir
+    institution: Hamad Bin Khalifa University
+  - first_name: Ahmed
+    last_name: Ashraf
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Ahlam
+    last_name: Bashiti
+    institution: Birzeit University
+  - first_name: Nahla
+    last_name: Bassyouni
+    institution: QatarDebate
+  - first_name: Salah Eddine
+    last_name: Bekhouche
+    institution: University of the Basque Country
+  - first_name: Hunzalah Hassan
+    last_name: Bhatti
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Md. Rafiul
+    last_name: Biswas
+    institution: Hamad Bin Khalifa University
+  - first_name: Abdessalam
+    last_name: Bouchekif
+    institution: Hamad Bin Khalifa University
+  - first_name: Fethi
+    last_name: Bougares
+    institution: ELYADATA
+  - first_name: Salmane
+    last_name: Chafik
+    institution: Mohammed VI Polytechnic University
+  - first_name: Sanjay
+    last_name: Chawla
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Shammur Absar
+    last_name: Chowdhury
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Fahim
+    last_name: Dalvi
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Kareem
+    last_name: Darwish
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Nadir
+    last_name: Durrani
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Yassine
+    last_name: El Kheir
+    institution: German Research Center for Artificial Intelligence (DFKI)
+  - first_name: Abdellah
+    last_name: El Mekki
+    institution: University of British Columbia
+  - first_name: Mo
+    last_name: El-Haj
+    institution: Lancaster University; VinUniversity
+  - first_name: Mohamed
+    last_name: Elhoseiny
+    institution: King Abdullah University of Science and Technology
+  - first_name: Mohammed
+    last_name: Elkholy
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - first_name: Haroun
+    last_name: Elleuch
+    institution: ELYADATA
+  - first_name: Khalid N.
+    last_name: Elmadani
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+  - first_name: AbdelRahim A.
+    last_name: Elmadany
+    institution: University of British Columbia
+  - first_name: Tamer
+    last_name: Elsayed
+    institution: Qatar University
+  - first_name: Yannick
+    last_name: Estève
+    institution: Avignon Université
+  - first_name: Saad
+    last_name: Ezzini
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Bernard
+    last_name: Ghanem
+    institution: King Abdullah University of Science and Technology
+  - first_name: Nizar
+    last_name: Habash
+    institution: New York University Abu Dhabi
+  - first_name: Abdenour
+    last_name: Hadid
+    institution: Sorbonne University Abu Dhabi
+  - first_name: Nagham
+    last_name: Hamad
+    institution: Birzeit University
+  - first_name: Md Arid
+    last_name: Hasan
+    institution: University of Toronto
+  - first_name: Abul
+    last_name: Hasnat
+    institution: APAVI.AI
+  - first_name: Mustafa
+    last_name: Jarrar
+    institution: Hamad Bin Khalifa University
+  - first_name: Mohammad
+    last_name: Khader
+    institution: QatarDebate
+  - first_name: Mohamed Bayan
+    last_name: Kmainasi
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Hasan
+    last_name: Kurban
+    institution: Hamad Bin Khalifa University
+  - first_name: Maram
+    last_name: Kurdi
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Vasista Sai
+    last_name: Lodagala
+    institution: HUMAIN
+  - first_name: Hamzah
+    last_name: Luqman
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Samar M.
+    last_name: Magdy
+    institution: University of British Columbia
+  - first_name: Walid
+    last_name: Magdy
+    institution: University of Edinburgh
+  - first_name: Rana
+    last_name: Malhas
+    institution: Qatar University
+  - first_name: Watheq
+    last_name: Mansour
+    institution: University of Queensland
+  - first_name: Salima
+    last_name: Mdhaffar
+    institution: Avignon Université
+  - first_name: Georgios
+    last_name: Mikros
+    institution: Hamad Bin Khalifa University
+  - first_name: Youssef
+    last_name: Mohamed
+    institution: King Abdullah University of Science and Technology
+  - first_name: Pedro
+    last_name: Moreno Mengibar
+    institution: HUMAIN
+  - first_name: Basel
+    last_name: Mousi
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Hamdy
+    last_name: Mubarak
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Sara
+    last_name: Nabhani
+    institution: University of Groningen
+  - first_name: Omer
+    last_name: Nacar
+    institution: Tuwaiq Academy
+  - first_name: Minh Chi
+    last_name: Nguyen
+    institution: VinUniversity
+  - first_name: Minh Quan
+    last_name: Nguyen
+    institution: VinUniversity
+  - first_name: Erchin
+    last_name: Serpedin
+    institution: Texas A\&M University
+  - first_name: Ali Ezzat
+    last_name: Shahroor
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Zien
+    last_name: Sheikh Ali
+    institution: Qatar Computing Research Institute, Hamad Bin Khalifa University
+  - first_name: Peter
+    last_name: Sullivan
+    institution: University of British Columbia
+  - first_name: Hanada
+    last_name: Taha-Thomure
+    institution: Zayed University
+  - first_name: Bashar
+    last_name: Talafha
+    institution: University of British Columbia
+  - first_name: Hichem
+    last_name: Telli
+    institution: University of Biskra
+  - first_name: Asma
+    last_name: Yamani
+    institution: King Fahd University of Petroleum and Minerals
+  - first_name: Wajdi
+    last_name: Zaghouani
+    institution: Northwestern University in Qatar
+  - first_name: Chiyu
+    last_name: Zhang
+    institution: University of British Columbia
+  - first_name: Mohammed-En-Nadhir
+    last_name: Zighem
+    institution: Qutwo
+  - first_name: Imed
+    last_name: Zitouni
+    institution: Meta
+  role: Shared Tasks Organizers  

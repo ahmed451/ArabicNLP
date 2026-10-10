@@ -33,21 +33,18 @@
       start_time: 2026-10-28 11:00:00
       end_time: 2026-10-28 12:25:00
       papers:
-        - id: 47  # SHAMS: An Audio-Grounded Pronunciation Benchmark for Levantine Arabi
-          start_time: 2026-10-28 11:00:00
-          end_time: 2026-10-28 11:17:00
         - id: 199  # Child ASR Adaptation with Adult Retention: An Empirical Study
-          start_time: 2026-10-28 11:17:00
-          end_time: 2026-10-28 11:34:00
+          start_time: 2026-10-28 11:00:00
+          end_time: 2026-10-28 11:20:00
         - id: 125  # Towards Speech ALDi: Predicting the Arabic Level of Dialectness Dire
-          start_time: 2026-10-28 11:34:00
-          end_time: 2026-10-28 11:51:00
+          start_time: 2026-10-28 11:20:00
+          end_time: 2026-10-28 11:40:00
         - id: 57  # MAQAM: A Richly Annotated Corpus for Quranic Arabic Morphological An
-          start_time: 2026-10-28 11:51:00
-          end_time: 2026-10-28 12:08:00
+          start_time: 2026-10-28 11:40:00
+          end_time: 2026-10-28 12:00:00
         - id: 161  # KASHAF: A Hierarchical Resource and Pipeline for Arabic Interpretabl
-          start_time: 2026-10-28 12:08:00
-          end_time: 2026-10-28 12:25:00
+          start_time: 2026-10-28 12:00:00
+          end_time: 2026-10-28 12:20:00
 
 - title: "Lunch Break"
   start_time: 2026-10-28 12:30:00
@@ -82,7 +79,7 @@
   start_time: 2026-10-28 15:30:00
   end_time: 2026-10-28 16:30:00
 
-- title: "Panel 1"  # topic TBA
+- title: "Panel 1: Inclusive Arabic NLP"  # topic TBA
   start_time: 2026-10-28 16:30:00
   end_time: 2026-10-28 17:20:00
 
@@ -179,7 +176,7 @@
   start_time: 2026-10-29 15:30:00
   end_time: 2026-10-29 16:30:00
 
-- title: "Panel 2"  # ArabicNLP Growth. Panellists TBA
+- title: "Panel 2: ArabicNLP Growth"  # ArabicNLP Growth. Panellists TBA
   start_time: 2026-10-29 16:30:00
   end_time: 2026-10-29 17:20:00
 

@@ -1,95 +1,240 @@
-- title: Welcome Speech 
-  end_time: 2024-08-16 09:15:00
-  start_time: 2024-08-16 09:00:00
-- title: Session 1 
-  start_time: 2024-08-16 09:15:00
-  end_time: 2024-08-16 10:30:00
+# ArabicNLP 2026 program skeleton for the proceedings
+# Budapest, Hungary, co-located with EMNLP 2026. Wednesday 28 and Thursday 29 October 2026.
+# Generated from Program/ArabicNLP2026-Program-V15.xlsx. Every oral slot is 17 minutes (13 + 4 Q&A).
+# Paper ids are OpenReview submission numbers and must match the ids used in papers.yml.
+
+# =========================== Day 1: Wednesday 28 October 2026 ===========================
+
+- title: "Opening, Welcome & Sponsor Acknowledgements"
+  start_time: 2026-10-28 08:50:00
+  end_time: 2026-10-28 09:30:00
+
+# - title: "Keynote: Mona Diab"  
+#   start_time: 2026-10-28 09:30:00
+#   end_time: 2026-10-28 10:30:00
+#   subsessions:
+#     - title: "From NLP for Arabic to NLP Through Arabic: What Must AI Understand Before We Trust It to Act"
+#     start_time: 2026-10-28 09:30:00
+#     end_time: 2026-10-28 10:30:00
+
+- title: "Keynote: From NLP for Arabic to NLP Through Arabic: What Must AI Understand Before We Trust It to Act? by Dr. Mona Diab"  
+  start_time: 2026-10-28 09:30:00
+  end_time: 2026-10-28 10:30:00
+
+- title: "Coffee Break"
+  start_time: 2026-10-28 10:30:00
+  end_time: 2026-10-28 11:00:00
+
+- title: "Session 1"
+  start_time: 2026-10-28 11:00:00
+  end_time: 2026-10-28 12:25:00
   subsessions:
-    - end_time: 2024-08-16 10:30:00
-      papers:
-        - end_time: 2024-08-16 09:30:00
-          id: 19
-          start_time: 2024-08-16 09:15:00
-        - end_time: 2024-08-16 09:45:00
-          id: 26
-          start_time: 2024-08-16 09:30:00
-        - end_time: 2024-08-16 10:00:00
-          id: 59
-          start_time: 2024-08-16 09:45:00
-        - end_time: 2024-08-16 10:15:00
-          id: 86
-          start_time: 2024-08-16 10:00:00
-        - end_time: 2024-08-16 10:30:00
-          id: 15
-          start_time: 2024-08-16 10:15:00
-      start_time: 2024-08-16 09:15:00
-      title: Core Technologies
-- end_time: 2024-08-16 11:00:00
-  start_time: 2024-08-16 10:30:00
-  title: Coffee Break
-- title: Session 2
-  start_time: 2024-08-16 11:00:00
-  end_time: 2024-08-16 11:45:00
+    - title: "Arabic Speech, Resources and Benchmarks"
+      start_time: 2026-10-28 11:00:00
+      end_time: 2026-10-28 12:25:00
+
+- title: "Lunch Break"
+  start_time: 2026-10-28 12:30:00
+  end_time: 2026-10-28 14:00:00
+
+- title: "Session 2"
+  start_time: 2026-10-28 14:00:00
+  end_time: 2026-10-28 15:08:00
   subsessions:
-    - end_time: 2024-08-16 11:45:00
-      papers:
-        - end_time: 2024-08-16 11:15:00
-          id: 16
-          start_time: 2024-08-16 11:00:00
-        - end_time: 2024-08-16 11:30:00
-          id: 28
-          start_time: 2024-08-16 11:15:00
-        - end_time: 2024-08-16 11:45:00
-          id: 31
-          start_time: 2024-08-16 11:30:00
-      start_time: 2024-08-16 11:00:00
-      title: Downstream Applications I
-- title: Session 3
-  start_time: 2024-08-16 11:45:00
-  end_time: 2024-08-16 12:30:00
+    - title: "Dialects, Machine Translation and Content Moderation"
+      start_time: 2026-10-28 14:00:00
+      end_time: 2026-10-28 15:08:00
+
+- title: "Shared Task Highlights I: 7 shared tasks, 2 minutes each"
+  start_time: 2026-10-28 15:11:00
+  end_time: 2026-10-28 15:12:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:12:00
+  end_time: 2026-10-28 15:13:00
+  papers: 
+    - id: "001"
+      start_time: 2026-10-28 15:12:00
+      end_time: 2026-10-28 15:13:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:13:00
+  end_time: 2026-10-28 15:15:00
+  papers: 
+    - id: "002"
+      start_time: 2026-10-28 15:13:00
+      end_time: 2026-10-28 15:15:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:15:00
+  end_time: 2026-10-28 15:17:00
+  papers: 
+    - id: "003"
+      start_time: 2026-10-28 15:15:00
+      end_time: 2026-10-28 15:17:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:17:00
+  end_time: 2026-10-28 15:19:00
+  papers: 
+    - id: "004"
+      start_time: 2026-10-28 15:17:00
+      end_time: 2026-10-28 15:19:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:19:00
+  end_time: 2026-10-28 15:21:00
+  papers: 
+    - id: "005"
+      start_time: 2026-10-28 15:19:00
+      end_time: 2026-10-28 15:21:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:21:00
+  end_time: 2026-10-28 15:23:00
+  papers: 
+    - id: "006"
+      start_time: 2026-10-28 15:21:00
+      end_time: 2026-10-28 15:23:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-28 15:23:00
+  end_time: 2026-10-28 15:25:00
+  papers: 
+    - id: "007"
+      start_time: 2026-10-28 15:23:00
+      end_time: 2026-10-28 15:25:00
+
+- title: "Coffee Break & Poster Session 1 (main conference and shared task posters)"
+  start_time: 2026-10-28 15:30:00
+  end_time: 2026-10-28 16:30:00
+
+- title: "Panel 1: Inclusive Arabic NLP"  # topic TBA
+  start_time: 2026-10-28 16:30:00
+  end_time: 2026-10-28 17:20:00
+
+- title: "Awards"  # Best Paper and Best Resource
+  start_time: 2026-10-28 17:20:00
+  end_time: 2026-10-28 17:30:00
+
+# =========================== Day 2: Thursday 29 October 2026 ===========================
+
+- title: "Opening"
+  start_time: 2026-10-29 08:50:00
+  end_time: 2026-10-29 09:00:00
+
+- title: "Fireside Chat"  # participants TBA
+  start_time: 2026-10-29 09:00:00
+  end_time: 2026-10-29 09:30:00
+
+- title: "Session 3"
+  start_time: 2026-10-29 09:30:00
+  end_time: 2026-10-29 10:21:00
   subsessions:
-    - end_time: 2024-08-16 12:30:00
-      papers:
-        - end_time: 2024-08-16 12:00:00
-          id: 27
-          start_time: 2024-08-16 11:45:00
-        - end_time: 2024-08-16 12:15:00
-          id: 29
-          start_time: 2024-08-16 12:00:00
-        - end_time: 2024-08-16 12:30:00
-          id: 49
-          start_time: 2024-08-16 12:15:00
-      start_time: 2024-08-16 11:45:00
-      title: Multimodality
-- end_time: 2024-08-16 14:00:00
-  start_time: 2024-08-16 12:30:00
-  title: Lunch Break
-- title: Session 4
-  start_time: 2024-08-16 14:00:00
-  end_time: 2024-08-16 14:45:00
+    - title: "Arabic for Education and Islamic Knowledge"
+      start_time: 2026-10-29 09:30:00
+      end_time: 2026-10-29 10:21:00
+
+- title: "Coffee Break"
+  start_time: 2026-10-29 10:30:00
+  end_time: 2026-10-29 11:00:00
+
+- title: "Session 4"
+  start_time: 2026-10-29 11:00:00
+  end_time: 2026-10-29 12:25:00
   subsessions:
-    - end_time: 2024-08-16 14:45:00
-      papers:
-        - end_time: 2024-08-16 14:15:00
-          id: 51
-          start_time: 2024-08-16 14:00:00
-        - end_time: 2024-08-16 14:30:00
-          id: 63
-          start_time: 2024-08-16 14:15:00
-        - end_time: 2024-08-16 14:45:00
-          id: 68
-          start_time: 2024-08-16 14:30:00
-      start_time: 2024-08-16 14:00:00
-      title: Downstream Applications II
-- title: Invited Talk BALSAM -- Community-Driven Arabic LLM Evaluation
-  start_time: 2024-08-16 14:45:00
-  end_time: 2024-08-16 15:15:00
-- end_time: 2024-08-16 15:30:00
-  start_time: 2024-08-16 15:15:00
-  title: Shared Task Overview Boasters
-- end_time: 2024-08-16 16:00:00
-  start_time: 2024-08-16 15:30:00
-  title: Coffee Break
-- end_time: 2024-08-16 17:30:00
-  start_time: 2024-08-16 16:00:00
-  title: Main and Shared Task Posters
+    - title: "Arabic Resources, Morphology and Syntax"
+      start_time: 2026-10-29 11:00:00
+      end_time: 2026-10-29 12:25:00
+
+- title: "Lunch Break"
+  start_time: 2026-10-29 12:30:00
+  end_time: 2026-10-29 14:00:00
+
+- title: "Session 5"
+  start_time: 2026-10-29 14:00:00
+  end_time: 2026-10-29 15:08:00
+  subsessions:
+    - title: "LLM Evaluation, Safety and Detoxification"
+      start_time: 2026-10-29 14:00:00
+      end_time: 2026-10-29 15:08:00
+
+- title: "Shared Task Highlights II: 8 shared tasks, 2 minutes each"
+  start_time: 2026-10-29 15:11:00
+  end_time: 2026-10-29 15:11:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:12:00
+  end_time: 2026-10-29 15:13:00
+  papers:   
+    - id: "008"
+      start_time: 2026-10-29 15:12:00
+      end_time: 2026-10-29 15:13:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:13:00
+  end_time: 2026-10-29 15:15:00
+  papers: 
+    - id: "009"
+      start_time: 2026-10-29 15:13:00
+      end_time: 2026-10-29 15:15:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:15:00
+  end_time: 2026-10-29 15:17:00
+  papers:
+    - id: "0010"
+      start_time: 2026-10-29 15:15:00
+      end_time: 2026-10-29 15:17:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:17:00
+  end_time: 2026-10-29 15:19:00
+  papers: 
+    - id: "0011"
+      start_time: 2026-10-29 15:17:00
+      end_time: 2026-10-29 15:19:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:19:00
+  end_time: 2026-10-29 15:21:00
+  papers: 
+    - id: "0012"
+      start_time: 2026-10-29 15:19:00
+      end_time: 2026-10-29 15:21:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:21:00
+  end_time: 2026-10-29 15:23:00
+  papers: 
+    - id: "0013"
+      start_time: 2026-10-29 15:21:00
+      end_time: 2026-10-29 15:23:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:23:00
+  end_time: 2026-10-29 15:25:00
+  papers: 
+    - id: "0014"
+      start_time: 2026-10-29 15:23:00
+      end_time: 2026-10-29 15:25:00
+
+- title: "Shared Task Highlights"
+  start_time: 2026-10-29 15:25:00
+  end_time: 2026-10-29 15:27:00
+  papers: 
+    - id: "0015"
+      start_time: 2026-10-29 15:25:00
+      end_time: 2026-10-29 15:27:00
+
+- title: "Coffee Break & Poster Session 2 (main conference and shared task posters)"
+  start_time: 2026-10-29 15:30:00
+  end_time: 2026-10-29 16:30:00
+
+- title: "Panel 2: ArabicNLP Growth"  # ArabicNLP Growth. Panellists TBA
+  start_time: 2026-10-29 16:30:00
+  end_time: 2026-10-29 17:20:00
+
+- title: "Closing Remarks"
+  start_time: 2026-10-29 17:20:00
+  end_time: 2026-10-29 17:30:00
