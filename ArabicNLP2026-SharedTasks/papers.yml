@@ -7443,7 +7443,7 @@
   id: 0915
   openreview_id: lgFeCE6AWf
   pdf_file: c9e00ed9de8b7160d0c7599db21bcb5d8123d102.pdf
-  title: 'Namaa Community at IslamicEval 2026: Retrieval-Grounded Verification of Qur'anic and Hadith Citations for Hallucination Identification'
+  title: 'Namaa Community at IslamicEval 2026: Retrieval-Grounded Verification of Qur''anic and Hadith Citations for Hallucination Identification'
 - abstract: 'We present HalluScoring 2026, a shared task for evaluating hallucination
     detection and factual verification in Arabic question answering under challenging
     generalization settings. The shared task is organized into two main tasks, each

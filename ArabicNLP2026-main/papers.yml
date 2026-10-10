@@ -70,8 +70,8 @@
     username: ~Omar_Kamal1
   decision: '2026'
   file: 1.pdf
-  id: 1
   attachment: 1_copyright.pdf
+  id: 1
   openreview_id: LrRAq0aeBB
   pdf_file: aeebe0be4c7e15b90b4bdd7d5b8088338dc849d5.pdf
   title: 'Same Legal Facts, Different Verdicts: Evaluating Cross-Lingual and Dialectal
@@ -135,6 +135,7 @@
     username: ~Tamer_Elsayed1
   decision: '2026'
   file: 11.pdf
+  attachment: 11_copyright.pdf
   id: 11
   openreview_id: 2kFmbrYgoz
   pdf_file: 5dd5d0bf1d140b398b67d9c8e7ae2852f5abe8f0.pdf
@@ -190,6 +191,7 @@
     username: ~Tamer_Elsayed1
   decision: '2026'
   file: 12.pdf
+  attachment: 12_copyright.pdf
   id: 12
   openreview_id: TMst7TeYVF
   pdf_file: e23984139eaefeed251a25ee485a3d31fe8fdb6b.pdf
@@ -231,6 +233,7 @@
     username: ~Mo_El-Haj1
   decision: '2026'
   file: 17.pdf
+  attachment: 17_copyright.pdf
   id: 17
   openreview_id: TgsAs1yrlE
   pdf_file: 337886dbc3625b6f2d666956c492a0a618797b84.pdf
@@ -285,6 +288,7 @@
     username: ~Jonathan_Dunn1
   decision: '2026'
   file: 31.pdf
+  attachment: 31_copyright.pdf
   id: 31
   openreview_id: lIcDRWLSMP
   pdf_file: ba7301adad386214c2368c5c567d1fff0cd3fb78.pdf
@@ -357,6 +361,7 @@
     username: ~Hussein_abo_ismael1
   decision: '2026'
   file: 32.pdf
+  attachment: 32_copyright.pdf
   id: 32
   openreview_id: 9n1cI2lVmZ
   pdf_file: 483b71e34ec0ee1b0abe8d15d606e94191f1cba6.pdf
@@ -423,6 +428,7 @@
     username: ~Nizar_Habash1
   decision: '2026'
   file: 44.pdf
+  attachment: 44_copyright.pdf
   id: 44
   openreview_id: Hj1Pg4WPAq
   pdf_file: 5c709f42632e658d7408ed6cf0e5e36be9cae6ae.pdf
@@ -492,6 +498,7 @@
     username: ~Morris_Alper1
   decision: '2026'
   file: 47.pdf
+  attachment: 47_copyright.pdf
   id: 47
   openreview_id: 2zmibsrgNE
   pdf_file: 919bd954b33dea74ed5f214a5b7c61a01cc4545b.pdf
@@ -583,6 +590,7 @@
     username: ~Nizar_Habash1
   decision: '2026'
   file: 48.pdf
+  attachment: 48_copyright.pdf
   id: 48
   openreview_id: wUQrnKLKE5
   pdf_file: 169e68ce3ba8ed814ddf846bdc29e6fd37076edd.pdf
@@ -725,6 +733,7 @@
     username: ~Abdenour_Hadid2
   decision: '2026'
   file: 49.pdf
+  attachment: 49_copyright.pdf
   id: 49
   openreview_id: AD55I4Be2h
   pdf_file: c8e5f44aaf1696e8f602b3058a83104923bec53a.pdf
@@ -817,6 +826,7 @@
     username: ~Nizar_Habash1
   decision: '2026'
   file: 57.pdf
+  attachment: 57_copyright.pdf
   id: 57
   openreview_id: gRVpVgvE8I
   pdf_file: 18b57311f9e590cf8014c0e09c800b51924a62bf.pdf
@@ -870,6 +880,7 @@
     username: ~Walid_Magdy1
   decision: '2026'
   file: 73.pdf
+  attachment: 73_copyright.pdf
   id: 73
   openreview_id: gPNaqTxOQZ
   pdf_file: 6ac0bbe19e821f170c459f80cc72d94fb4c667a7.pdf
@@ -912,6 +923,7 @@
     username: ~Ahmad_M_Mustafa1
   decision: '2026'
   file: 74.pdf
+  attachment: 74_copyright.pdf
   id: 74
   openreview_id: p3ChnQV9yL
   pdf_file: 27082daba5db8819c757f4e033306feb7b79a166.pdf
@@ -969,6 +981,7 @@
     username: ~Ammar_Mohanna1
   decision: '2026'
   file: 75.pdf
+  attachment: 75_copyright.pdf
   id: 75
   openreview_id: A52LDtSC8O
   pdf_file: 36a8a9e9455ccfd1dea6b6619332c3328fd73136.pdf
@@ -1015,6 +1028,7 @@
     username: ~Kamilia_Rahmouni1
   decision: '2026'
   file: 80.pdf
+  attachment: 80_copyright.pdf
   id: 80
   openreview_id: e0nYhdWgV2
   pdf_file: 2d4513cb6a96cacc4c998bfc1c791be64fae2aa2.pdf
@@ -1098,6 +1112,7 @@
     username: ~Nizar_Habash1
   decision: '2026'
   file: 88.pdf
+  attachment: 88_copyright.pdf
   id: 88
   openreview_id: WTrVzKsTp8
   pdf_file: 6932d9d08ac13ba6a1793d1d844bf8dfd7eebb02.pdf
@@ -1140,6 +1155,7 @@
     username: ~Ammar_Mohanna1
   decision: '2026'
   file: 90.pdf
+  attachment: 90_copyright.pdf
   id: 90
   openreview_id: 8lwLyG6mK5
   pdf_file: 398cc8dcc5216b5a25588368c2c53570841dae33.pdf
@@ -1223,6 +1239,7 @@
     username: ~Mohammed_Ghaly1
   decision: '2026'
   file: 94.pdf
+  attachment: 94_copyright.pdf
   id: 94
   openreview_id: o3kYcShTeF
   pdf_file: 92d07c5929d7030241deb2db532f020dca37d5f8.pdf
@@ -1283,6 +1300,7 @@
     username: ~Bashar_Alhafni1
   decision: '2026'
   file: 96.pdf
+  attachment: 96_copyright.pdf
   id: 96
   openreview_id: GQL3EDaWP1
   pdf_file: c92f070404bf85b19e213e210b5b83314ec092aa.pdf
@@ -1356,6 +1374,7 @@
     username: ~Ahmad_Al_Rabghi1
   decision: '2026'
   file: 100.pdf
+  attachment: 100_copyright.pdf
   id: 100
   openreview_id: 6YZOUHNdf4
   pdf_file: 833ec0aec65d6959c97006bd56455e2f5e24e1bb.pdf
@@ -1443,6 +1462,7 @@
     username: ~Ehsaneddin_Asgari1
   decision: '2026'
   file: 104.pdf
+  attachment: 104_copyright.pdf
   id: 104
   openreview_id: CC8hzTs008
   pdf_file: 7b905f61cce1e4a41c1d181e8057c6013aef3d44.pdf
@@ -1498,6 +1518,7 @@
     username: ~Lamia_Belguith1
   decision: '2026'
   file: 109.pdf
+  attachment: 109_copyright.pdf
   id: 109
   openreview_id: f5Gy0feDas
   pdf_file: 876e0864e7529789e584bc6dd634b4adfbc01101.pdf
@@ -1586,6 +1607,7 @@
     username: ~Omar_Momen1
   decision: '2026'
   file: 110.pdf
+  attachment: 110_copyright.pdf
   id: 110
   openreview_id: FRIVllLxZE
   pdf_file: 93efceb68d8b292c119b89c7077b436d232d4123.pdf
@@ -1652,6 +1674,7 @@
     username: ~Abdulrahman_Alosaimy1
   decision: '2026'
   file: 112.pdf
+  attachment: 112_copyright.pdf
   id: 112
   openreview_id: DZPQ9eE7Vi
   pdf_file: c961c5f8c27a1e0928b8026b74c87fb73800e08b.pdf
@@ -1703,6 +1726,7 @@
     username: ~Ayman_Khalafallah1
   decision: '2026'
   file: 115.pdf
+  attachment: 115_copyright.pdf
   id: 115
   openreview_id: arLPTs7wJS
   pdf_file: c490aaf7fafaae25f8d8dca52b48e83cb51332b3.pdf
@@ -1781,6 +1805,7 @@
     username: ~Yannick_Estève1
   decision: '2026'
   file: 120.pdf
+  attachment: 120_copyright.pdf
   id: 120
   openreview_id: lfz5vwDKRx
   pdf_file: c6d3816fb7bff5461812a8e3b85bd5dca47ed79a.pdf
@@ -1865,6 +1890,7 @@
     username: ~Firoj_Alam1
   decision: '2026'
   file: 122.pdf
+  attachment: 122_copyright.pdf
   id: 122
   openreview_id: ip8l9am3hn
   pdf_file: dbbc4d91a2d1da68839883e66b0267c846eb5394.pdf
@@ -1924,6 +1950,7 @@
     username: ~Walid_Magdy1
   decision: '2026'
   file: 125.pdf
+  attachment: 125_copyright.pdf
   id: 125
   openreview_id: JbPqFUZsBR
   pdf_file: c4cefa9d064bd63e36bbc46e739426ff895daa18.pdf
@@ -1987,6 +2014,7 @@
     username: ~Yahya_assiri2
   decision: '2026'
   file: 146.pdf
+  attachment: 146_copyright.pdf
   id: 146
   openreview_id: VOb6qnOGBg
   pdf_file: 771a651a4ffb79008b5c795a58b31e900dd6fa81.pdf
@@ -2038,6 +2066,7 @@
     username: ~Abdullah_Haytham_Mohamed_Salah_Hedeya1
   decision: '2026'
   file: 151.pdf
+  attachment: 151_copyright.pdf
   id: 151
   openreview_id: ySKnJs2NaW
   pdf_file: 4e70d1e0ca1775f5753468a423571a7fbaf5004b.pdf
@@ -2102,6 +2131,7 @@
     username: ~Asma_Al_Wazrah1
   decision: '2026'
   file: 161.pdf
+  attachment: 161_copyright.pdf
   id: 161
   openreview_id: dqoRvM0DGz
   pdf_file: cd3a3a9e4042d9b5e9c6d1b25728b9e21134dc7f.pdf
@@ -2209,6 +2239,7 @@
     username: ~Latifur_Khan1
   decision: '2026'
   file: 168.pdf
+  attachment: 168_copyright.pdf
   id: 168
   openreview_id: qKvMxgps8d
   pdf_file: c6f3f5bae6c504debf1fe97fe4731962b7e75c98.pdf
@@ -2252,6 +2283,7 @@
     username: ~Mansour_Essgaer1
   decision: '2026'
   file: 171.pdf
+  attachment: 171_copyright.pdf
   id: 171
   openreview_id: hRZNVR8o8E
   pdf_file: f1f79768f4a4b9e069bcb85ca444fd595762768d.pdf
@@ -2321,6 +2353,7 @@
     username: ~Aya_Zirikly1
   decision: '2026'
   file: 179.pdf
+  attachment: 179_copyright.pdf
   id: 179
   openreview_id: s0sphWm8C1
   pdf_file: 061f9a5e7db317159a96b2dd23ffaf5761ac5184.pdf
@@ -2404,6 +2437,7 @@
     username: ~Fadi_zaraket2
   decision: '2026'
   file: 185.pdf
+  attachment: 185_copyright.pdf
   id: 185
   openreview_id: mwioO0E59S
   pdf_file: 15bf5c8329f91837f2ad2ad8b42729469ef415a1.pdf
@@ -2448,6 +2482,7 @@
     username: ~Majedah_Alrehiely1
   decision: '2026'
   file: 195.pdf
+  attachment: 195_copyright.pdf
   id: 195
   openreview_id: VCqGqcrwH5
   pdf_file: c7fddd57c301ec9eb8ecc3a7900f79366308c5de.pdf
@@ -2495,6 +2530,7 @@
     username: ~Shammur_Absar_Chowdhury1
   decision: '2026'
   file: 199.pdf
+  attachment: 199_copyright.pdf
   id: 199
   openreview_id: xDG0MRkfX7
   pdf_file: c1dd4a80f8dac7e853cee188ffb822d21bf5ed96.pdf
